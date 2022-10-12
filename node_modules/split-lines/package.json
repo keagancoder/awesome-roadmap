@@ -1,0 +1,43 @@
+{
+	"name": "split-lines",
+	"version": "2.1.0",
+	"description": "Split lines into an array of lines",
+	"license": "MIT",
+	"repository": "sindresorhus/split-lines",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"split",
+		"lines",
+		"line",
+		"string",
+		"str",
+		"newline",
+		"newlines",
+		"linebreak",
+		"line-break",
+		"lf",
+		"crlf",
+		"eol",
+		"linefeed"
+	],
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"tsd": "^0.14.0",
+		"xo": "^0.38.2"
+	}
+}

@@ -1,0 +1,2 @@
+import { HTTPMethod, Interceptors, ValueOf, DoFetchArgs, Cache } from './types';
+export default function doFetchArgs<TData = any>(initialOptions: RequestInit, method: HTTPMethod, controller: AbortController, cacheLife: number, cache: Cache, host?: string, path?: string, routeOrBody?: string | BodyInit | object, bodyAs2ndParam?: BodyInit | object, requestInterceptor?: ValueOf<Pick<Interceptors, 'request'>>): Promise<DoFetchArgs>;

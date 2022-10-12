@@ -1,0 +1,5 @@
+=head1 My Amazing Library
+
+=head2 Features
+
+It does amazing things!

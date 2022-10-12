@@ -1,0 +1,58 @@
+{
+	"name": "listify",
+	"version": "1.0.3",
+	"description": "Turn an array into a list of comma-separated values, appropriate for use in an English sentence.",
+	"main": "index.js",
+	"scripts": {
+		"prepublish": "safe-publish-latest",
+		"pretest": "npm run lint",
+		"tests-only": "node test",
+		"test": "npm run tests-only && npm run coverage -- --quiet",
+		"posttest": "npx aud --production",
+		"coverage": "covert test",
+		"lint": "eslint .",
+		"version": "auto-changelog && git add CHANGELOG.md",
+		"postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ljharb/listify"
+	},
+	"keywords": [
+		"list",
+		"listify",
+		"array",
+		"comma",
+		"comma-separated",
+		"csv",
+		"oxford comma"
+	],
+	"author": "Jordan Harband",
+	"funding": {
+		"url": "https://github.com/sponsors/ljharb"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/listify/issues"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@ljharb/eslint-config": "^16.0.0",
+		"aud": "^1.1.1",
+		"auto-changelog": "^2.0.0",
+		"covert": "^1.1.1",
+		"eslint": "^6.8.0",
+		"safe-publish-latest": "^1.1.4",
+		"tape": "^5.0.0"
+	},
+	"engines": {
+		"node": ">= 0.4"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "keepachangelog",
+		"unreleased": false,
+		"commitLimit": false,
+		"backfillLimit": false
+	}
+}

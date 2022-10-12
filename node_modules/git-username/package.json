@@ -1,0 +1,63 @@
+{
+  "name": "git-username",
+  "description": "Get the username (or 'owner' name) from a git/GitHub remote origin URL.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/git-username",
+  "author": "Jon Schlinkert (http://github.com/https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/git-username",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/git-username/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "parse-github-url": "^1.0.2",
+    "remote-origin-url": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "git",
+    "name",
+    "origin",
+    "parse",
+    "remote",
+    "remote origin",
+    "remote origin url",
+    "url",
+    "user",
+    "username"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "git-branch",
+        "git-user-name",
+        "parse-git-config",
+        "remote-origin-url"
+      ]
+    }
+  }
+}

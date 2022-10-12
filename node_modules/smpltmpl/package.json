@@ -1,0 +1,54 @@
+{
+  "name": "smpltmpl",
+  "version": "1.0.2",
+  "description": "Simple templates for Node.js based on ECMAScript template literals syntax",
+  "author": {
+    "name": "Artem Sapegin",
+    "url": "http://sapegin.me"
+  },
+  "homepage": "https://github.com/sapegin/smpltmpl",
+  "repository": "sapegin/smpltmpl",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --cache --fix",
+    "pretest": "npm run lint",
+    "precommit": "lint-staged",
+    "test:jest": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test": "npm run test:jest"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "ecmascript",
+    "es6",
+    "es2015",
+    "literal"
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-tamia": "^4.2.3",
+    "eslint-plugin-prettier": "^2.3.1",
+    "husky": "^0.14.3",
+    "jest": "^21.2.1",
+    "lint-staged": "^5.0.0",
+    "prettier": "^1.8.2"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "babel-code-frame": "^6.26.0"
+  }
+}

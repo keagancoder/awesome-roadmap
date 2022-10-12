@@ -1,0 +1,7 @@
+var uniqueRandomArray = require('unique-random-array');
+var middleEarthNames = require('./middleearth-names.json');
+
+module.exports = {
+    all:middleEarthNames,
+    random:uniqueRandomArray(middleEarthNames)
+};

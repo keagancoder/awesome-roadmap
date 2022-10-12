@@ -1,0 +1,5 @@
+My Library
+
+I use some weird standard!
+
+Join the chat at https://gitter.im/myorg/myrepo

@@ -1,0 +1,44 @@
+{
+  "name": "user-meta",
+  "version": "1.0.0",
+  "description": "Read user name, email and URL from .npmrc or .gitconfig",
+  "author": {
+    "name": "Artem Sapegin",
+    "url": "http://sapegin.me"
+  },
+  "homepage": "https://github.com/sapegin/user-meta",
+  "repository": "sapegin/user-meta",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --cache --fix",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "npm",
+    "npmrc",
+    "git",
+    "gitconfig",
+    "name",
+    "username",
+    "user",
+    "url",
+    "config",
+    "configuration"
+  ],
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-tamia": "^4.1.2",
+    "eslint-plugin-prettier": "^2.2.0",
+    "prettier": "^1.5.3"
+  },
+  "dependencies": {
+    "rc": "^1.2.1"
+  }
+}
