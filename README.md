@@ -1,7 +1,7 @@
 <p align="center">
   <img src="public/brand.png" height="128">
-  <h2 align="center">roadmap.sh</h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <h2 align="center">Awesome Roadmap</h2>
+  <p align="center">开源社区驱动的学习路线图，构建伟大的学习路线、学习资源<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
@@ -22,7 +22,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Roadmaps are now interactive, you can click the nodes to read more about the topics.
+所创建的学习路线图是可交互的，你可以通过点击节点来阅读详细信息
 
 ### [View all Roadmaps](https://roadmap.sh)
 
@@ -65,13 +65,13 @@ npm run dev
 
 ## Contribution
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> 关于如何更新任何路线图，请看 [contribution docs](./contributing.md)
 
-- Add content to roadmaps
-- Add new roadmaps
-- Suggest changes to existing roadmaps
-- Discuss ideas in issues
-- Spread the word
+- 为路标添加内容
+- 添加新的路线图
+- 对现有路线图提出修改建议
+- 在问题中讨论想法
+- 传播，令更多人知道这个仓库
 
 ## Thanks to all contributors ❤
 
