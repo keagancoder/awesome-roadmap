@@ -1,6 +1,6 @@
-# Integration Testing
+# 集成测试
 
-Integration testing a broad category of tests where multiple software modules are __integrated__ and tested as a group. It is meant to test the __interaction__ between multiple services, resources, or modules. For example, an API's interaction with a backend service, or a service with a database.
+集成测试是一个广泛的测试类别，其中多个软件模块被__集成__并作为一个整体进行测试。它的目的是测试多个服务、资源或模块之间的__互动__。例如，一个API与后端服务的交互，或一个服务与数据库的交互。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/integration-testing.html'>Integration Testing</BadgeLink>
