@@ -6,8 +6,8 @@
 
 # Java
 
-Java is general-purpose language, primarily used for Internet-based applications.
-It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.
+Java是通用语言，主要用于基于互联网的应用。
+它于1995年由James Gosling在Sun Microsystems创建，是后端开发人员最受欢迎的选择之一。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.java.com/'>Java Website</BadgeLink>

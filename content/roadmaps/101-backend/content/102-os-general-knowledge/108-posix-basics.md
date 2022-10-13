@@ -1,14 +1,15 @@
-# POSIX Basics
+# POSIX 基础
 
-POSIX (Portable Operating System Interface) is a family of standards for maintaining compatibility between operating systems. It describes utilities, APIs, and services that a compliant OS should provide to software, thus making it easier to port programs from one system to another.
+POSIX（便携式操作系统接口）是一个用于保持操作系统之间兼容性的标准系列。它描述了符合标准的操作系统应该为软件提供的实用程序、API和服务，从而使程序从一个系统移植到另一个系统更加容易。
 
-A practical example: in a Unix-like operating system, there are three *standard streams*, `stdin`, `stdout` and `stderr` - they are I/O connections that you will probably come across when using a terminal, as they manage the flow from the **standard input** (stdin), **standard output** (stdout) and **standard error** (stderr).
+一个实际的例子：在类似Unix的操作系统中，有三个*标准流，`stdin`、`stdout`和`stderr`--它们是你在使用终端时可能会遇到的I/O连接，因为它们管理来自**标准输入**（stdin）、**标准输出**（stdout）和**标准错误**（stderr）的流。
 
-So, in this case, when we want to interact with any of these streams (through a process, for example), the POSIX operating system API makes it easier - for example, in the `<unistd.h>` C header where the stdin, stderr, and stdout are defined as `STDIN_FILENO`, `STDERR_FILENO` and `STDOUT_FILENO`.
+因此，在这种情况下，当我们想与这些流中的任何一个进行交互时（例如通过一个进程），POSIX操作系统的API使之更容易--例如，在`<unistd.h>`C头中，stdin、stderr和stdout被定义为`STDIN_FILENO`、`STDERR_FILENO`和`STDOUT_FILENO`。
 
-POSIX also adds a standard for exit codes, filesystem semantics, and several other command line utility API conventions.
+POSIX还为退出代码、文件系统语义和其他一些命令行实用程序接口惯例增加了一个标准。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<BadgeLink colorScheme='blue' badgeText='Official Documentation' href='https://linux.cn/article-14201-1.html'>什么是POSIX</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Official Documentation' href='https://pubs.opengroup.org/onlinepubs/9699919799/'>POSIX standard by IEEE</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://unix.stackexchange.com/a/220877'>Summary of some POSIX implementations</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.baeldung.com/linux/posix'>A guide to POSIX</BadgeLink>

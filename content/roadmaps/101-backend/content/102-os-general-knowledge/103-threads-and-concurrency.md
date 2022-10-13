@@ -1,10 +1,14 @@
-# Threads and Concurrency
+# 线程与并发
 
-A thread is the smallest unit of processing that can be performed in an OS. In most modern operating systems, a thread exists within a process - that is, a single process may contain multiple threads.
+线程是操作系统中可执行的最小的处理单元。在大多数现代操作系统中，一个线程存在于一个进程中，也就是说，一个进程可能包含多个线程。
 
-Concurrency refers to the execution of multiple threads at the same time. It occurs in an operating system when multiple process threads are executing concurrently. These threads can interact with one another via shared memory or message passing. Concurrency results in resource sharing, which causes issues like deadlocks and resource scarcity. It aids with techniques such as process coordination, memory allocation, and execution schedule to maximize throughput.
+并发是指在同一时间执行多个线程。在操作系统中，当多个进程线程同时执行时，它就会发生。这些线程可以通过共享内存或消息传递相互作用。并发的结果是资源共享，从而导致死锁和资源稀缺等问题。它通过进程协调、内存分配和执行时间表等技术来帮助实现吞吐量最大化。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
+
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://pjchender.dev/computer-science/cs-process-thread/'>进程和线程的概念</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://cloud.tencent.com/developer/article/1688297'>进程和线程的概念、区别及进程线程间通信</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='http://staff.ustc.edu.cn/~huangwc/osppt/2.pdf'>操作系统之进程、线程</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/'>What’s the Diff: Programs, Processes and Threads</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.javatpoint.com/concurrency-in-operating-system'>Concurrency in Operating System</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=exbKr6fnoUw'>Intro to Processes & Threads</BadgeLink>
