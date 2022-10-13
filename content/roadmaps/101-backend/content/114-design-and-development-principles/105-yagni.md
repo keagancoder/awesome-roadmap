@@ -1,6 +1,6 @@
 # YAGNI
 
-You Aren't Going to Need It (YAGNI) is a software design principle from the Extreme Programming (XP) framework that states when developing software, functionality or features should not be added until they are necessary. Within agile software development in general, requirements are always open to change; any extra functionality may end up being wasted time and resources.
+你不需要它（YAGNI）是极端编程（XP）框架中的一条软件设计原则，它指出在开发软件时，功能或特性在没有必要之前不应该被添加。在一般的敏捷软件开发中，需求总是可以改变的；任何额外的功能最终都可能被浪费掉时间和资源。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://martinfowler.com/bliki/Yagni.html'>Yagni</BadgeLink>

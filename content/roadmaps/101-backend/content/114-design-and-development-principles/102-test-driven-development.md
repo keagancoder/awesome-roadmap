@@ -1,6 +1,6 @@
-# Test Driven Development
+# 测试驱动开发
 
-Test driven development (TDD) is the process of writing tests for software's requirements which will fail until the software is developed to meet those requirements. Once those tests pass, then the cycle repeats to refactor code or develop another feature/requirement. In theory, this ensures that software is written to meet requirements in the simplest form, and avoids code defects.
+测试驱动开发（TDD）是为软件的需求编写测试的过程，这些测试会失败，直到软件被开发成满足这些需求。一旦这些测试通过，那么循环往复，重构代码或开发另一个功能/需求。在理论上，这可以确保软件的编写以最简单的形式满足需求，并避免代码缺陷。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/test-driven-development.html'>What is Test Driven Development (TDD)?</BadgeLink>

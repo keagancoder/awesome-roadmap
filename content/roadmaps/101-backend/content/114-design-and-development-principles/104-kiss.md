@@ -1,6 +1,7 @@
 # KISS
 
-Keep It Simple, Stupid (KISS) is a software design principle that states avoiding needless complexity is the best way to build software that is easier to maintain, understand, and contains fewer defects. A simple product that does a single thing well is better than a complex product that does many things poorly.
+KISS（Keep It Simple, Stupid）是一个软件设计原则，它指出避免不必要的复杂性是建立易于维护、理解和包含较少缺陷的软件的最佳方式。一个简单的产品如果能做好一件事，就比一个复杂的产品做不好很多事要好。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://deviq.com/principles/keep-it-simple'>Keep It Simple</BadgeLink>
