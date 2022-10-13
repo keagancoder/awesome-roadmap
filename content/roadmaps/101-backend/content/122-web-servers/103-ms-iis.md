@@ -1,6 +1,6 @@
 # MS IIS
 
-Internet Information Services (IIS) for Windows® Server is a flexible, secure and manageable Web server for hosting anything on the Web.
+Windows®服务器的互联网信息服务（IIS）是一个灵活、安全和可管理的网络服务器，可在网上托管任何东西。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.iis.net/'>Official Website</BadgeLink>

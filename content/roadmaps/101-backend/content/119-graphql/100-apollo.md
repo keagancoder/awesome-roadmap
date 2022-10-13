@@ -1,6 +1,6 @@
 # Apollo
 
-Apollo is a platform for building a unified graph, a communication layer that helps you manage the flow of data between your application clients (such as web and native apps) and your back-end services.
+Apollo是一个构建统一图的平台，它是一个通信层，可以帮助你管理你的应用程序客户端（如Web和本地应用程序）和你的后端服务之间的数据流。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.apollographql.com'>Apollo Website</BadgeLink>
