@@ -1,6 +1,5 @@
-# CQRS and Event Sourcing
+# CQRS
 
-CQRS, or command query responsibility segregation, defines an architectural pattern where the main focus is to separate the approach of reading and writing operations for a data store. CQRS can also be used along with Event Sourcing pattern in order to persist application state as an ordered of sequence events, making it possible to restore data to any point in time.
-
+CQRS，即命令查询责任隔离，定义了一种架构模式，其主要重点是分离数据存储的读写操作方法。CQRS也可以与事件源模式一起使用，以便将应用状态作为一个有序的序列事件来保存，使数据恢复到任何时间点成为可能。
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs'>CQRS Pattern</BadgeLink>
