@@ -1,10 +1,10 @@
 # Memcached
 
-Memcached (pronounced variously mem-cash-dee or mem-cashed) is a general-purpose distributed memory-caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read. Memcached is free and open-source software, licensed under the Revised BSD license. Memcached runs on Unix-like operating systems (Linux and macOS) and on Microsoft Windows. It depends on the `libevent` library.
+Memcached（发音为mem-cash-dee或mem-cashed）是一个通用的分布式内存缓存系统。它经常被用来加速动态数据库驱动的网站，通过在RAM中缓存数据和对象来减少必须读取外部数据源（如数据库或API）的次数。Memcached是免费的开源软件，在修订的BSD许可证下授权。Memcached可以在类Unix操作系统（Linux和macOS）和微软Windows上运行。它依赖于`libevent`库。
 
-Memcached's APIs provide a very large hash table distributed across multiple machines. When the table is full, subsequent inserts cause older data to be purged in the least recently used (LRU) order. Applications using Memcached typically layer requests and additions into RAM before falling back on a slower backing store, such as a database.
+Memcached的API提供了一个分布在多台机器上的非常大的哈希表。当表满的时候，后续的插入会导致较旧的数据按照最近使用最少的顺序（LRU）被清除。使用Memcached的应用程序通常会将请求和添加的数据分层到RAM中，然后再回落到一个较慢的备份存储，如数据库。
 
-Memcached has no internal mechanism to track misses which may happen. However, some third-party utilities provide this functionality.
+Memcached没有内部机制来跟踪可能发生的失误。然而，一些第三方的工具提供了这个功能。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
