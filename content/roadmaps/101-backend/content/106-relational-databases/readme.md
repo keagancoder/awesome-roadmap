@@ -1,6 +1,6 @@
-# Relational Databases
+# 关系型数据库
 
-A relational database is **a type of database that stores and provides access to data points that are related to one another**. Relational databases store data in a series of tables. Interconnections between the tables are specified as foreign keys. A foreign key is a unique reference from one row in a relational table to another row in a table, which can be the same table but is most commonly a different table.
+关系型数据库是**一种数据库，它存储并提供对相互关联的数据点的访问**。关系型数据库将数据存储在一系列的表中。表之间的相互联系被指定为外键。外键是关系表中的一行到另一表中的唯一引用，该表可以是同一表，但最常见的是不同的表。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.ibm.com/cloud/learn/relational-databases'>Relational Databases</BadgeLink>
