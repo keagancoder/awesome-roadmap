@@ -1,15 +1,15 @@
-# Authentication
+# 认证
 
-The API authentication process validates the identity of the client attempting to make a connection by using an authentication protocol. The protocol sends the credentials from the remote client requesting the connection to the remote access server in either plain text or encrypted form. The server then knows whether it can grant access to that remote client or not.
+API认证过程通过使用一个认证协议来验证试图进行连接的客户的身份。该协议将请求连接的远程客户端的凭证以纯文本或加密的形式发送给远程访问服务器。然后，服务器知道它是否可以授予该远程客户端访问权。
 
-Here is the list of common ways of authentication:
+以下是常见的认证方式的列表。
 
-- JWT Authentication
-- Token based Authentication
-- Session based Authentication
-- Basic Authentication
-- OAuth - Open Authorization
-- SSO - Single Sign On
+- JWT认证
+- 基于令牌的认证
+- 基于会话的认证
+- 基本认证
+- OAuth - 开放授权
+- SSO--单点登录
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://swoopnow.com/user-authentication/'>User Authentication: Understanding the Basics & Top Tips</BadgeLink>

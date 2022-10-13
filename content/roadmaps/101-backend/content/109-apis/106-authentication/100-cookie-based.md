@@ -1,6 +1,6 @@
-# Cookie-Based Authentication
+# 基于Cookie的认证
 
-Cookies are pieces of data used to identify the user and their preferences. The browser returns the cookie to the server every time the page is requested. Specific cookies like HTTP cookies are used to perform cookie-based authentication to maintain the session for each user.
+Cookie是用于识别用户和他们的偏好的数据片断。浏览器在每次请求页面时都会将cookie返回给服务器。特定的cookies如HTTP cookies被用来进行基于cookie的认证，以维持每个用户的会话。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work'>How does cookie based authentication work?</BadgeLink>

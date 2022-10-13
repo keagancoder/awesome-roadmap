@@ -1,10 +1,11 @@
 # OAuth
 
-OAuth stands for **O**pen **Auth**orization and is an open standard for authorization. It works to authorize devices, APIs, servers and applications using access tokens rather than user credentials, known as "secure delegated access".
+OAuth是**O**pen **Auth**orization 的缩写，是一种开放的授权标准。它的作用是使用访问令牌而不是用户凭证来授权设备、API、服务器和应用程序，被称为 "安全委托访问"。
 
-In its most simplest form, OAuth delegates authentication to services like Facebook, Amazon, Twitter and authorizes third-party applications to access the user account **without** having to enter their login and password.
+在其最简单的形式中，OAuth将认证委托给Facebook、Amazon、Twitter等服务，并授权第三方应用程序访问用户账户，***无需输入其登录名和密码。
 
-It is mostly utilized for REST/APIs and only provides a limited scope of a user's data.
+它主要用于REST/API，只提供用户数据的有限范围。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth'>Okta - What the Heck is OAuth</BadgeLink>
