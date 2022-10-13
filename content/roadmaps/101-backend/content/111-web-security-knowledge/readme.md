@@ -1,6 +1,6 @@
-# Web Security Knowledge
+# 网络安全知识
 
-Web security refers to the protective measures taken by the developers to protect the web applications from threats that could affect the business.
+网络安全是指开发人员采取的保护措施，以保护网络应用程序免受可能影响业务的威胁。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https'>Why HTTPS Matters</BadgeLink>
