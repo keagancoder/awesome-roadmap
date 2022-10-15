@@ -1,8 +1,8 @@
-# Traceroute
+# 路由跟踪
 
-`traceroute` command is a command in Linux that prints the route a network packet takes from its source (e.g. your computer) to the destination host (e.g., roadmap.sh). It is quite valuable in investigating slow network connections as it can help us spot the slow leg of the network packet journey through the internet.
+`traceroute`命令是Linux中的一个命令，用于打印网络数据包从其源头（如你的电脑）到目标主机（如roadmap.sh）的路线。它在调查缓慢的网络连接方面相当有价值，因为它可以帮助我们发现网络数据包在互联网上的缓慢旅程。
 
-It has the following syntax: `$ traceroute [OPTIONS] DESTINATION` e.g. `$ traceroute roadmap.sh`
+它的语法如下。`$ traceroute [OPTIONS] DESTINATION`，例如：`$ traceroute roadmap.sh`。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://linuxhint.com/run_traceroute_linux/'>How to Run Traceroute in Linux</BadgeLink>

@@ -1,10 +1,10 @@
-# Compiling Apps
+# 编译应用程序
 
-# gcc
+# GCC
 
-The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages also known as GCC. GCC is a key component of the GNU tool chain and the standard compiler for most Unix-like operating systems. Compiler Collection is a set of compilers and development tools available for Linux and an array of other operating systems. It includes support primarily for C and C++. It provides all of the infrastructure for building software in those languages from source code to assembly.
+GNU编译器集合（GCC）是一个由GNU项目制作的编译器系统，支持各种编程语言，也被称为GCC。GCC是GNU工具链的一个重要组成部分，也是大多数类Unix操作系统的标准编译器。编译器集合是一套可用于Linux和其他一系列操作系统的编译器和开发工具。它主要包括对C和C++的支持。它为用这些语言构建软件提供了从源代码到汇编的所有基础设施。
 
-"What is GCC used for?" GCC is a toolchain that compiles code, links it with any library dependencies, converts that code to assembly, and then prepares executable files.It is responsible for the conversion of the “high level” source code in the respective language and ensuring that it is semantically valid, performing well formed optimizations, and converting it to assembly code (which is then handed off to the assembler).
+"GCC是用来做什么的？" GCC是一个工具链，它编译代码，将其与任何库的依赖关系联系起来，将代码转换为汇编，然后准备可执行文件。它负责转换相应语言的 "高级 "源代码，确保它在语义上是有效的，进行良好的优化，并将其转换为汇编代码（然后交给汇编器）。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://courses.cs.washington.edu/courses/cse451/99wi/Section/gccintro.html'>Intro to GCC</BadgeLink>

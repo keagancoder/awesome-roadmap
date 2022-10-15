@@ -1,6 +1,6 @@
 # Iostat
 
-The iostat command in Linux is used for monitoring system input/output statistics for devices and partitions. It monitors system input/output by observing the time the devices are active in relation to their average transfer rates. The iostat produce reports may be used to change the system configuration to raised balance the input/output between the physical disks.
+Linux中的iostat命令用于监控设备和分区的系统输入/输出统计。它通过观察设备处于活动状态的时间和它们的平均传输率来监控系统的输入/输出。iostat产生的报告可以用来改变系统配置，以提高物理磁盘之间输入/输出的平衡。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Documentation' href='https://man7.org/linux/man-pages/man1/iostat.1.html'>iostat Documentation</BadgeLink>

@@ -1,12 +1,12 @@
-# Editors
+# 编辑器
 
-Editors are tools that allow you to create or edit files on your file system.
+编辑器是允许你在文件系统中创建或编辑文件的工具。
 
 ## Vim
 
-Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
+Vim是一个高度可配置的文本编辑器，可以非常有效地创建和修改任何类型的文本。它作为 "vi "被包含在大多数UNIX系统和苹果OS X中。
 
-Vim ships with `vimtutor` that is a tutor designed to describe enough of the Vim commands that you will be able to easily use Vim as an all-purpose editor.
+Vim带有 "vimtutor"，这是一个旨在描述足够多的Vim命令的教程，你将能够轻松地把Vim作为一个多用途的编辑器。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.vim.org'>Vim</BadgeLink>

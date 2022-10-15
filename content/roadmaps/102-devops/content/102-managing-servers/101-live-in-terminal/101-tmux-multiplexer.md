@@ -1,10 +1,11 @@
 # Tmux
 
-Tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. Tmux may be detached from a screen and continue running in the background, then later reattached.
+Tmux是一个终端多路复用器：它能够从一个屏幕上创建、访问和控制许多终端。Tmux可以从屏幕上分离出来，继续在后台运行，然后再重新连接。
 
-When tmux is started it creates a new session with a single window and displays it on screen. A status line at the bottom of the screen shows information on the current session and is used to enter interactive commands.
+当tmux启动时，它用一个窗口创建一个新的会话并在屏幕上显示。屏幕底部的状态行显示当前会话的信息，并用于输入交互式命令。
 
-See `man tmux` further information
+更多信息请参见 "man tmux"。
+
 
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html'>Tmux Documentation</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://tmuxcheatsheet.com/'>Tmux Cheat Sheet</BadgeLink>
