@@ -8,4 +8,3 @@ HTTP是基于`TCP/IP`的应用层通信协议，它将客户和服务器之间�
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Overvieww'>HTTP 概述</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://blog.csdn.net/hguisu/article/details/8680808'>详解HTTP</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://posts.careerengine.us/p/62f05299f417e90965cad31c'>从0到1讲解HTTP/3</BadgeLink>
-<!-- <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=iYM2zFP3Zn0'>HTTP Crash Course & Exploration</BadgeLink> -->

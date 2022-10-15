@@ -1,6 +1,6 @@
 # Solr
 
-Solr is highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more. Solr powers the search and navigation features of many of the world's largest internet sites.
+Solr具有高度的可靠性、可扩展性和容错性，提供分布式索引、复制和负载均衡查询、自动故障转移和恢复、集中配置等功能。Solr为世界上许多最大的互联网网站提供搜索和导航功能。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

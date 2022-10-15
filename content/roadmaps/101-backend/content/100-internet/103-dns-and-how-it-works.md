@@ -1,6 +1,6 @@
 # DNS
 
-The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+域名系统 (Domain Name System, DNS) 是一个命名数据库，其中互联网域名被定位并转换为互联网协议 (IP) 地址。DNS被人们用来定位网站的名称映射到计算机用来定位该网站的 IP 地址。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/'>What is DNS?</BadgeLink>

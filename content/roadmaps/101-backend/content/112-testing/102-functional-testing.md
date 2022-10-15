@@ -1,7 +1,7 @@
-# Functional Testing
+# 功能测试
 
-Functional testing is where software is tested to ensure functional requirements are met. Usually, it is a form of black box testing in which the tester has no understanding of the source code; testing is performed by providing input and comparing expected/actual output.
-It contrasts with non-functional testing, which includes performance, load, scalability, and penetration testing.
+功能测试是指对软件进行测试，以确保满足功能要求。通常，它是一种黑盒测试，测试人员不了解源代码；测试是通过提供输入和比较预期/实际输出来进行的。
+它与非功能测试形成对比，后者包括性能、负载、可扩展性和渗透测试。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/functional-testing.html'>What is Functional Testing?</BadgeLink>

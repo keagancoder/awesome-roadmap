@@ -1,10 +1,9 @@
 # egrep
 
-`egrep` (**E**xtended **Grep**) is a pattern searching command which belongs to the family of grep functions. It treats the pattern as an extended **regular expression** and prints out the lines that match the pattern.
-It works the same way as `$ grep -E` command
+`egrep`（**E**扩展的**Grep**）是一个模式搜索命令，属于grep函数家族。它将模式视为一个扩展的**正则表达式，并打印出符合该模式的行。
+它的工作方式与`$ grep -E`命令相同
 
-It has the following syntax:
-
+它的语法如下。
 `$  egrep [options] pattern [files]` e.g. `$ egrep "search-regex" *.txt`
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

@@ -1,3 +1,3 @@
 # Caching
 
-Caching is a technique of storing frequently used data or information in a local memory, for a certain time period. So, next time, when the client requests the same information, instead of retrieving the information from the database, it will give the information from the local memory. The main advantage of caching is that it improves the performance by reducing the processing burden. 
+缓存是一种将经常使用的数据或信息存储在本地存储器中的技术，在一定时间内。因此，下一次，当客户端请求相同的信息时，它将从本地内存中提供信息，而不是从数据库中检索信息。缓存的主要优点是，它通过减少处理负担来提高性能。

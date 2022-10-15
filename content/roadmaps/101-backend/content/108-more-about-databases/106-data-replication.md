@@ -1,6 +1,6 @@
 # Data Replication
 
-Data replication is the process by which data residing on a physical/virtual server(s) or cloud instance (primary instance) is continuously replicated or copied to a secondary server(s) or cloud instance (standby instance). Organizations replicate data to support high availability, backup, and/or disaster recovery.
+数据复制是指将驻留在物理/虚拟服务器或云实例（主实例）上的数据持续复制或拷贝到辅助服务器或云实例（备用实例）的过程。企业通过复制数据来支持高可用性、备份和/或灾难恢复。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

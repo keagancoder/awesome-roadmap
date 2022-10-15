@@ -2,7 +2,7 @@
 
 ## MongoDB
 
-MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL).
+MongoDB是一个源代码可用的跨平台面向文档的数据库程序。被归类为NoSQL数据库程序，MongoDB使用类似JSON的文档，并有可选的模式。MongoDB由MongoDB公司开发，在服务器端公共许可证（SSPL）下授权。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

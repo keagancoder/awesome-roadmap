@@ -1,8 +1,8 @@
 # Database Normalization
 
-Database normalization is the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. It was first proposed by Edgar F. Codd as part of his relational model.
+数据库规范化是按照一系列所谓的正常形式来构建关系数据库的过程，以减少数据冗余并提高数据完整性。它是由Edgar F. Codd首次提出的，作为其关系模型的一部分。
 
-Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design).
+规范化需要组织数据库的列（属性）和表（关系），以确保它们的依赖关系被数据库的完整性约束所正确执行。它是通过应用一些正式的规则来完成的，要么是通过一个综合的过程（创建一个新的数据库设计），要么是通过分解（改进一个现有的数据库设计）。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

@@ -1,6 +1,6 @@
-# Cors
+# 跨资源共享（Cors）
 
-Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
+跨源资源共享（CORS）是一种基于HTTP头的机制，它允许服务器指示除其自身以外的任何源（域、方案或端口），浏览器应允许从这些源加载资源。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme="yellow" badgeText='Read' href='https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS'>Cross-Origin Resource Sharing (CORS)</BadgeLink>

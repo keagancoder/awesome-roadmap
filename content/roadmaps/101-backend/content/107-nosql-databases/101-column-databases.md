@@ -1,8 +1,6 @@
-# Column Databases
+# 列式数据库
 
-A **<u>wide-column database</u>** (sometimes referred to as a column database) is similar to a relational database. It store data in tables, rows and columns. However in opposite to relational databases here each row can have its own format of the columns. Column databases can be seen as a two-dimensional key-value database. One of such database system is **Apache Cassandra**.
-
-**Warning:** <a href="https://en.wikipedia.org/wiki/Wide-column_store#Wide-column_stores_versus_columnar_databases">note that a "columnar database" and a "column database" are two different terms!</a>
+列式数据库（Column-oriented DBMS）是以列相关存储架构进行数据存储的数据库，主要适合于批量数据处理和即时查询。相对应的是行式数据库，数据以行相关的存储体系架构进行空间分配，主要适合于小批量的数据处理，常用于联机事务型数据处理。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://cassandra.apache.org/_/index.html'>Apache Cassandra</BadgeLink>

@@ -1,6 +1,6 @@
 # HTTPS
 
-HTTPS is a secure way to send data between a web server and a browser.
+HTTPS是一种在网络服务器和浏览器之间发送数据的安全方式。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/'>What is HTTPS?</BadgeLink>

@@ -1,8 +1,8 @@
 # Ruby
 
-Ruby is a high-level, interpreted programming language that blends Perl, Smalltalk, Eiffel, Ada, and Lisp. Ruby focuses on simplicity and productivity along with a syntax that reads and writes naturally. Ruby supports procedural, object-oriented and functional programming and is dynamically typed.
+Ruby是一种高级的解释性编程语言，融合了Perl、Smalltalk、Eiffel、Ada和Lisp。RUBY专注于简单性和生产力，以及自然的读写语法。Ruby支持程序性、面向对象和功能性编程，并且是动态类型的。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.ruby-lang.org/en/'>Ruby Website</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.ruby-lang.org/zh_cn/'>Ruby 官方网页</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.ruby-lang.org/en/documentation/quickstart/'>Learn Ruby in 20 minutes</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.codecademy.com/learn/learn-ruby'>Learn Ruby | Codecademy</BadgeLink>

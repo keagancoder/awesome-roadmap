@@ -1,9 +1,8 @@
 # sort
 
-`sort` command is used to sort the contents of a file in a particular order. By default, it sorts a file assuming the contents are in ASCII. But it also can also be used to sort numerically by using appropriate options.
+`sort`命令用于按特定顺序对文件内容进行排序。默认情况下，它对文件的排序是假定其内容是ASCII格式的。但它也可以通过使用适当的选项来进行数字排序。
 
-It has the following syntax
-
+它的语法如下
 `$ sort [options].. input-file` e.g. `$ sort file.txt`
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

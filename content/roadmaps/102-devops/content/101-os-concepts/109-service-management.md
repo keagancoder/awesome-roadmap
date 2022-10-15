@@ -1,8 +1,8 @@
-# Service Management (systemd)
+# 服务管理（systemd）
 
-`systemd` is a **System** Management **D**aemon which replaces the sysvinit process to become the first process with PID = 1, which gets executed in user space during the Linux start-up process. It is a system that is designed specifically for the Linux kernel. It is now being used as a **replacement of init.d** to overcome shortcomings of it. It uses `systemctl` command to perform related operations.
+`systemd`是一个**系统**管理的**D**aemon，它取代了sysvinit进程，成为PID=1的第一个进程，在Linux启动过程中在用户空间被执行。这是一个专门为Linux内核设计的系统。它现在被用作init.d的**替代物，以克服它的缺点。它使用`systemctl`命令来执行相关操作。
 
-e.g. `$ systemctl start [service-name]`, `$ systemctl poweroff`
+例如：`$ systemctl start [service-name]`, `$ systemctl poweroff`。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/linux-systemd-and-its-components/'>What is systemd? and its commands</BadgeLink>

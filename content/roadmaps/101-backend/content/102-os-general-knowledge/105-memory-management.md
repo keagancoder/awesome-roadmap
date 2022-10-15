@@ -1,8 +1,10 @@
-# Memory Management
+# 内存管理
 
-The term Memory can be defined as a collection of data in a specific format. It is used to store instructions and process data. The memory comprises a large array or group of words or bytes, each with its own location. The primary motive of a computer system is to execute programs. These programs, along with the information they access, should be in the main memory during execution. The CPU fetches instructions from memory according to the value of the program counter. 
+术语 "内存 "可以被定义为以特定格式的数据集合。它被用来存储指令和处理数据。内存包括一个大的阵列或一组字或字节，每个都有自己的位置。计算机系统的主要动机是执行程序。这些程序以及它们所访问的信息，在执行过程中应在主存储器中。CPU根据程序计数器的值从内存中取走指令。
 
-To achieve a degree of multiprogramming and proper utilization of memory, memory management is important. There are several memory management methods, reflecting various approaches, and the effectiveness of each algorithm depends on the situation.
+为了实现一定程度的多程序化和对内存的合理利用，内存管理是很重要的。有几种内存管理方法，反映了各种方法，每种算法的有效性取决于情况。
 
+<BadgeLink badgeText='Read' colorScheme="yellow" href='https://hit-alibaba.github.io/interview/basic/arch/Memory-Management.html'>内存管理笔记</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme="yellow" href='https://www.51cto.com/article/706997.html'>图解Linux内存管理</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd'>Demystifying memory management in modern programming languages</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://www.geeksforgeeks.org/memory-management-in-operating-system/'>Memory Management in Operating System</BadgeLink>
