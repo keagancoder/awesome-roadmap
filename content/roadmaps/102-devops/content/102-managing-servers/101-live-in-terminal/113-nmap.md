@@ -1,6 +1,6 @@
 # NMAP
 
-NMAP stands for Network Mapper and is an open-source tool used to explore and audit the network's security, such as checking firewalls and scanning ports.
+NMAP是Network Mapper的缩写，是一个开源工具，用于探索和审计网络的安全性，如检查防火墙和扫描端口。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Page' href='https://nmap.org/book/man.html'>NMAP Official Manual Book</BadgeLink>

@@ -1,7 +1,7 @@
-# Managing Servers
+# 服务器管理包
 
-Server management includes all of the monitoring and maintenance required for servers to operate reliably and at optimal performance levels. Server management also involves the management of hardware, software, security, and backups all in service of keeping the IT environment operational and efficient. The primary goals of an effective server management strategy are to:
+服务器管理包括所有监测和维护，以使服务器可靠地运行并达到最佳性能水平。服务器管理还包括对硬件、软件、安全和备份的管理，所有这些都是为了保持IT环境的运行和效率。一个有效的服务器管理策略的主要目标是：。
 
-- Minimize server slowdowns and downtime while maximizing reliability.
-- Build secure server environments.
-- Scale servers and related operations to meet the needs of the organization over time.
+- 在最大限度地提高可靠性的同时，最大限度地减少服务器的减速和停机时间。
+- 建立安全的服务器环境。
+- 扩大服务器和相关业务的规模，以满足组织的长期需求。

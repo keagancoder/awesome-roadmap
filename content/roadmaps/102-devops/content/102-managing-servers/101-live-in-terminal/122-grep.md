@@ -1,8 +1,8 @@
 # grep
 
-The `grep` command (**g**lobal search for **r**egular **e**xpression and **p**rint out) searches file(s) for a particular pattern of characters, and displays all lines that contain that pattern. It can be used with other commands like `ps` making it more useful.
+`grep`命令（**g**全局搜索为**r**普通的**e**表达式和**p**打印出来）搜索文件中的特定字符模式，并显示包含该模式的所有行。它可以和其他命令如`ps`一起使用，使其更加有用。
 
-It has the following syntax:
+它的语法如下。
 
 `$ grep [options] pattern [files]` e.g. `$ grep "search-regex" file-1.txt`
 

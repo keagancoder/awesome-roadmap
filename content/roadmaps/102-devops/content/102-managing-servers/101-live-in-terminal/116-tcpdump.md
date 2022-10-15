@@ -1,6 +1,6 @@
 # Tcpdump
 
-`tcpdump` is a command line tool used for analysing network traffic passing through your system. It can be used to capture and filter packets and display them in a human-readable format. The captured information can be analysed at a later date as well.
+`tcpdump`是一个命令行工具，用于分析通过你系统的网络流量。它可以用来捕获和过滤数据包，并以人类可读的格式显示它们。捕获的信息也可以在以后的日子里进行分析。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://www.tcpdump.org/manpages/tcpdump.1.html'>tcpdump Documentation</BadgeLink>

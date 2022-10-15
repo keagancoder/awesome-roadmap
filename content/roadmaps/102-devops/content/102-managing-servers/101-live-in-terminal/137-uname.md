@@ -1,6 +1,6 @@
 # Uname
 
-Uname is a short form of Unix name and it helps to print the system information for both hardware and software in the current running system.
+Uname是Unix name的简称，它有助于打印当前运行系统中硬件和软件的系统信息。
 
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.tutorialspoint.com/unix_commands/uname.htm'>Uname Command Tutorial</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.howtoforge.com/linux-uname-command/'>Uname Tutorial For Beginners</BadgeLink>

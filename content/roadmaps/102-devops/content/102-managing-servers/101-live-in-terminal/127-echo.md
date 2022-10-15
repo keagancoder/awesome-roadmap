@@ -1,8 +1,8 @@
 # echo
 
-`echo` is a built-in command in Linux used to display lines of text/string that are passed as an argument. It is mostly used in shell scripts and batch files to output status text or `ENV` variables to the screen or a file. 
+`echo`是Linux中的一个内置命令，用于显示作为参数传递的文本/字符串行。它主要用于shell脚本和批处理文件，将状态文本或`ENV`变量输出到屏幕或文件中。
 
-It has the following syntax: `$ echo [options] [string]` e.g. `$ echo "Hello World!"`
+它的语法如下。`$ echo [options] [string]`例如，`$ echo "Hello World!"`。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.tecmint.com/echo-command-in-linux/'>Echo command with Examples</BadgeLink>
