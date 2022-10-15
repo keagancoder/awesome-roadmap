@@ -1,6 +1,7 @@
-# Virtualization
+# 虚拟化
 
-Virtualization is the creation of a virtual -- rather than actual -- version of something, such as an operating system (OS), a server, a storage device or network resources. It uses software that simulates hardware functionality to create a virtual system. This practice allows IT organizations to operate multiple operating systems, more than one virtual system and various applications on a single server.
+虚拟化是创建一个虚拟的--而不是实际的--东西的版本，如操作系统（OS）、服务器、存储设备或网络资源。它使用模拟硬件功能的软件来创建一个虚拟系统。这种做法允许IT组织在一台服务器上运行多个操作系统、一个以上的虚拟系统和各种应用程序。
+
 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

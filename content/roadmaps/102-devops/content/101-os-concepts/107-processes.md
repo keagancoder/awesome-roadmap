@@ -1,10 +1,10 @@
-# Processes
+# 进程
 
-A process means program in execution. It generally takes an input, processes it and gives us the appropriate output. `ps` command can be used in linux to get the list of processes running in foreground. Each process will have a unique identifier called **PID**, which can be used to track it or `kill` it through shell.
+进程是指执行中的程序。它通常接受一个输入，处理它并给我们提供适当的输出。在Linux中可以使用 "ps "命令来获得在前台运行的进程列表。每个进程都有一个独特的标识符，称为**PID**，可以用来跟踪它或通过shell`kill`它。
 
-**Types of processes:**
-* Foreground processes 
-* Background processes
+**进程的类型：**
+* 前台进程 
+* 后台进程
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/introduction-of-process-management/'>Intro to Process Management</BadgeLink>

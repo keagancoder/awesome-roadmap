@@ -1,6 +1,6 @@
-# I/O Management
+# I/O 管理
 
-One of the important jobs of an Operating System is to manage various I/O devices including mouse, keyboards, touchpad, disk drives, display adapters, USB devices, Bit-mapped screens, LED, Analog-to-digital converter, On/off switch, network connections, audio I/O, printers, etc.
+操作系统的重要工作之一是管理各种I/O设备，包括鼠标、键盘、触摸板、磁盘驱动器、显示适配器、USB设备、位图屏幕、LED、模数转换器、开/关开关、网络连接、音频I/O、打印机、e-mail。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.tutorialspoint.com/operating_system/os_io_hardware.htm'>Operating System - I/O Hardware</BadgeLink>

@@ -1,12 +1,13 @@
-# Thread in OS
+# OS-线程
 
-`Thread` is an active entity which executes a **part of a process**. It is a sequential flow of tasks within a process. It is also called lightweight process as they **share common resources**. A process can contain multiple threads. Threads are used to increase the performance of the applications.
-Each thread has its own program counter, stack, and set of registers. But the threads of a single process might share the same code and data/file.
+线程 "是一个活动的实体，它执行一个进程的**部分。它是一个进程中任务的顺序流。它也被称为轻量级进程，因为它们**共享公共资源**。一个进程可以包含多个线程。线程被用来提高应用程序的性能。
+每个线程都有自己的程序计数器、堆栈和一组寄存器。但一个进程的线程可能共享相同的代码和数据/文件。
 
-**Key Terminologies:**
-* `proc`
-* `fork`
-* `join`
+**关键术语：**
+* "proc"(程序)
+* "fork"(分叉)
+* "join"(连接)
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/introduction-of-process-synchronization/'>Process Synchronization</BadgeLink>
