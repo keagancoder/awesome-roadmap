@@ -1,6 +1,7 @@
 # Docker Swarm
 
-A Docker Swarm is a group of either physical or virtual machines that are running the Docker application and that have been configured to join together in a cluster. Once a group of machines have been clustered together, you can still run the Docker commands that you're used to, but they will now be carried out by the machines in your cluster. The activities of the cluster are controlled by a swarm manager, and machines that have joined the cluster are referred to as nodes.
+Docker Swarm是一组运行Docker应用程序的物理或虚拟机器，这些机器被配置为集群的一部分。一旦一组机器被集群在一起，你仍然可以运行你习惯的Docker命令，但现在它们将由集群中的机器来执行。集群的活动由Swarm管理器控制，而加入集群的机器被称为节点。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.docker.com/'>Official Website</BadgeLink>
