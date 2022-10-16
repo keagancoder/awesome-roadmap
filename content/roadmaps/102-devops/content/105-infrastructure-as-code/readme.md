@@ -1,9 +1,8 @@
 # Infrastructure as Code
 
-Sometimes referred to as IaC, this section refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows DevOps Engineers to use the same workflows used by software developers to version, roll back, and otherwise manage changes.  
+有时被称为IaC，这部分是指用于定义基础设施的技术和工具，通常是用YAML或JSON等标记语言。基础设施即代码允许DevOps工程师使用软件开发人员使用的相同的工作流程来进行版本、回滚和其他管理变化。 
 
-The term Infrastructure as Code encompasses everything from bootstrapping to configuration to orchestration, and it is considered a best practice in the industry to manage all infrastructure as code.  This technique precipitated the explosion in system complexity seen in modern DevOps organizations.
-
+基础设施即代码 "一词包含了从启动到配置再到协调的所有内容，它被认为是业界将所有基础设施作为代码管理的最佳实践。 这种技术催生了现代DevOps组织中系统复杂性的爆炸。
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=zWw2wuiKd5o'>What is Infrastructure as Code?</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=POPP2WTJ8es'>What is Infrastructure as Code? Difference of Infrastructure as Code Tools</BadgeLink>
