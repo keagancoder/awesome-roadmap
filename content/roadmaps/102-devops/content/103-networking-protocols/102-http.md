@@ -1,6 +1,6 @@
 # HTTP
 
-HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
+HTTP是基于TCP/IP的应用层通信协议，它规范了客户和服务器之间的通信方式。它定义了内容如何在互联网上被请求和传输。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/'>What is HTTP?</BadgeLink>
