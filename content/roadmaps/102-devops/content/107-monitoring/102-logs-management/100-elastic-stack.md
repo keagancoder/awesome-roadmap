@@ -1,10 +1,10 @@
 # Elastic Stack
 
-Elastic Stack is a group of open source products comprised of Elasticsearch, Kibana, Beats, and Logstash and more that help store, search, analyze, and visualize data from various source, in different format, in real-time.
+Elastic Stack是由Elasticsearch、Kibana、Beats和Logstash等组成的一组开源产品，有助于实时存储、搜索、分析和可视化来自不同来源、不同格式的数据。
 
-* `Elastic Search` - Search and analytics engine
-* `Logstash/fluentd` - Data processing pipeline
-* `Kibana` - Dashboard to visualize data
+* `Elastic Search` - 搜索和分析引擎
+* `Logstash/fluentd` - 数据处理管道
+* `Kibana`--可视化数据的仪表板
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Official Website' href='https://www.elastic.co/elastic-stack/'>Elastic Stack Website</BadgeLink>

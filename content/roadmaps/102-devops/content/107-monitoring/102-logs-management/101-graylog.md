@@ -1,6 +1,6 @@
 # Graylog
 
-Graylog is a leading centralized log management solution for capturing, storing, and enabling real-time analysis of terabytes of machine data.
+Graylog是一个领先的集中式日志管理解决方案，用于捕获、存储和实现对数千兆字节的机器数据的实时分析。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.graylog.org/'>Graylog Website</BadgeLink>
