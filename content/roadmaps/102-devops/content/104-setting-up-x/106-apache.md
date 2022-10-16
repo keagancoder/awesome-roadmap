@@ -1,6 +1,6 @@
 # Apache
 
-Apache is a free, open-source HTTP server, available on many operating systems, but mainly used on Linux distributions. It is one of the most popular options for web developers, as it accounts for over 30% of all the websites, as estimated by W3Techs.
+Apache是一个免费的、开源的HTTP服务器，可用于许多操作系统，但主要用于Linux发行版。它是网络开发者最受欢迎的选择之一，因为根据W3Techs的估计，它占所有网站的30%以上。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://httpd.apache.org/'>Apache Server Website</BadgeLink>
