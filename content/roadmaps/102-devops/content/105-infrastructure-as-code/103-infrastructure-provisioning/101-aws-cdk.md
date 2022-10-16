@@ -1,6 +1,6 @@
 # AWS CDK
 
-The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework used to provision cloud infrastructure resources in a safe, repeatable manner through AWS CloudFormation. AWS CDK offers the flexibility to write infrastructure as code in popular languages like JavaScript, TypeScript, Python, Java, C#, and Go.
+AWS云开发工具包（AWS CDK）是一个开源的软件开发框架，用于通过AWS CloudFormation以安全、可重复的方式配置云基础设施资源。AWS CDK提供了灵活性，可以用JavaScript、TypeScript、Python、Java、C#和Go等流行语言将基础设施写成代码。
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://aws.amazon.com/cdk/'>AWS CDK Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.aws.amazon.com/cdk/index.html'>Official Documentation</BadgeLink>
