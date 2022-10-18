@@ -1,3 +1,3 @@
-# Readability
+# 可读性
 
-Optimising the letter spacing (tracking), line height (leading) and line length for your typography scale will help with the readability of text.
+优化字母间距（跟踪）、行高（领先）和行长的排版比例将有助于提高文本的可读性。

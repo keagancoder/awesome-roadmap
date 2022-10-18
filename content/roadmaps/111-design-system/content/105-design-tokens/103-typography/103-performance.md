@@ -1,3 +1,3 @@
-# Performance
+# 性能
 
-Custom fonts need to be downloaded before they can be displayed, especially on the web. Make sure that you have sensible fallbacks and fast loading time for your typography assets. Using system fonts solves this performance problem.
+自定义字体在显示之前需要下载，特别是在网络上。确保你的排版资产有合理的后退和快速的加载时间。使用系统字体可以解决这个性能问题。
