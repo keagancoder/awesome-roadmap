@@ -1,6 +1,6 @@
-# UI Kit
+# UI工具包
 
-As it relates to a design system, a UI Kit is a representation of coded components created in a way that designers who don’t know code can create interface mockups. Examples of UI kits are Sketch libraries and [Figma design systems](https://www.figma.com/blog/how-to-build-your-design-system-in-figma/).
+由于它与设计系统有关，UI Kit是以一种不懂代码的设计师可以创建界面模拟的方式创建的编码组件的表示。UI工具包的例子是Sketch库和[Figma设计系统](https://www.figma.com/blog/how-to-build-your-design-system-in-figma/)。
 
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://uigstudio.com/insights/design-system-vs-ui-kit'>Design System vs UI Kit</BadgeLink>
