@@ -1,3 +1,3 @@
-# Analytics
+#分析
 
-Data isn’t the only driving factor when it comes to the development of design systems. Keeping a sharp eye on how your system’s used in the development process and the end product can inform your go-forward strategy.
+当涉及到设计系统的开发时，数据并不是唯一的驱动因素。密切关注你的系统在开发过程和最终产品中的使用情况，可以为你的前进战略提供参考。

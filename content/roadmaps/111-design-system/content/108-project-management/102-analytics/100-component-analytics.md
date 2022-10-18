@@ -1,3 +1,3 @@
-# Component Analytics
+# 组件分析
 
-Track the usage of your components. For development you can use built-in tools like Figma’s Design System Analytics. For the end product you can have a separate way of tracking per platform depending on the technology.
+追踪您的组件的使用情况。对于开发，您可以使用内置工具，如 Figma 的设计系统分析。对于最终产品，您可以根据技术的不同，对每个平台进行单独的跟踪。

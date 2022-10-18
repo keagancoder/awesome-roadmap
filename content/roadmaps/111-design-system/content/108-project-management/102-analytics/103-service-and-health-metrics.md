@@ -1,3 +1,3 @@
-# Service and Health Metrics
+# 服务和健康指标
 
-Define service and health metrics for your design system to set a benchmark on how well you’re doing. Common examples can be the number of tickets closed, improvements made or bugs fixed.
+为你的设计系统定义服务和健康指标，以便为你做得多好设定一个基准。常见的例子可以是关闭的票据数量、所做的改进或修复的错误。
