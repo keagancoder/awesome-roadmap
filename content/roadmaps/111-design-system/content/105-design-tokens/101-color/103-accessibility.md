@@ -1,3 +1,3 @@
-# Accessibility
+# 无障碍性
 
-Make sure to have accessible pairings between the main colours in your palette. More importantly, make sure that your background and text colours have at least an AA standard contrast ratio between them.
+确保你的调色板中的主要颜色之间有无障碍的搭配。更重要的是，确保你的背景和文本颜色之间至少有一个AA标准的对比度。
