@@ -1,3 +1,3 @@
-# Layout
+# 布局
 
-A well thought out layout goes a long way. Consistent use of a grid and spacing makes it easier for your users to scan the user interface and grasp the content.
+一个经过深思熟虑的布局会有很大的帮助。对网格和间距的一致使用使你的用户更容易扫描用户界面和掌握内容。

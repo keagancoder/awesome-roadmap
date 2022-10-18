@@ -1,3 +1,3 @@
-# Breakpoints
+# 分割点
 
-Predefine the screen sizes and orientations your grid will adapt to.
+预先定义你的网格将适应的屏幕尺寸和方向。
