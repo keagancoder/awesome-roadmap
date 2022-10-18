@@ -1,3 +1,3 @@
-# Keywords
+# 关键词
 
-Adding keywords will improve the discoverability of each icon and provide a better user experience for anyone using your system.
+添加关键词将提高每个图标的可发现性，为使用你的系统的人提供更好的用户体验。

@@ -1,3 +1,3 @@
-# Sizes
+# 尺寸
 
-Provide different sizes for icons that correlate to your grid. Provide a minimum size and remove unnecessary detail for your icons for smaller sizes.
+为与你的网格相关的图标提供不同的尺寸。为小尺寸的图标提供一个最小的尺寸并删除不必要的细节。
