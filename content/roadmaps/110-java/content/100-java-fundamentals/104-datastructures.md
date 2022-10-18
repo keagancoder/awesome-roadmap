@@ -1,6 +1,6 @@
-# Datastructures
+# 数据结构
 
-As the name indicates itself, a **Data Structure** is a way of organizing the data in the **memory** so that it can be used efficiently. Some common data structures are array, linked list, stack, hashtable, queue, tree, heap, and graph.
+顾名思义，**数据结构**是一种组织**内存中的数据的方式，以便于有效地使用。一些常见的数据结构是数组、链表、堆栈、哈希图、队列、树、堆和图。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/data-structures'>What are Data Structures?</BadgeLink>

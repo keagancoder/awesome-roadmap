@@ -1,8 +1,9 @@
-# Package Managers
+# 包管理
 
-Package managers allow you to manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
+软件包管理器允许你管理你的项目正常工作所需的依赖项（由你或其他人编写的外部代码）。
 
-`PyPI` and `Pip` are the most common contenders but here are some other options available as well:
+`PyPI`和`Pip`是最常见的竞争者，但这里也有一些其他可用的选择。
 
- - [**Poetry**](https://python-poetry.org/) : Manages dependencies via isolation
- - [**PIPX**](https://github.com/pypa/pipx) : Isolation-based app deployment, so you don't have to affect the system or user PIP libraries. It enables you to try individual python CLI tools without affecting other dependencies.
+ - [**Poetry**](https://python-poetry.org/) : 通过隔离来管理依赖关系
+ - [**Pipx**](https://github.com/pypa/pipx) 。基于隔离的应用部署，所以你不必影响系统或用户的PIP库。它使你能够在不影响其他依赖关系的情况下尝试个别的python CLI工具。
+

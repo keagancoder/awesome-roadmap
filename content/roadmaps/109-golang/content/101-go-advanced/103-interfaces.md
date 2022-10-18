@@ -1,6 +1,6 @@
-# Interfaces
+# 接口
 
-An interface in Go, is a type that defines a set of methods. If we have a type (e.g. struct) that implements that set of methods, then we have a type that implements this interface.
+Go中的接口，是一个定义了一系列方法的类型。如果我们有一个实现了这组方法的类型（如结构），那么我们就有一个实现了这个接口的类型。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

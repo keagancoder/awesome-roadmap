@@ -1,8 +1,8 @@
-# Sorting Algorithms
+# 排序算法
 
-Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way to arrange data in a particular order. Most common orders are in numerical or lexicographical order.
+排序是指以一种特定的格式排列数据。排序算法规定了以特定顺序排列数据的方式。最常见的顺序是数字或词法顺序。
 
-The importance of sorting lies in the fact that data searching can be optimized to a very high level, if data is stored in a sorted manner. 
+排序的重要性在于，如果数据以排序的方式存储，数据搜索可以被优化到一个非常高的水平。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://realpython.com/sorting-algorithms-python/'>Sorting Algorithms in Python</BadgeLink>

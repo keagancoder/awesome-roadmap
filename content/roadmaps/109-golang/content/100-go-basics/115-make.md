@@ -1,7 +1,6 @@
 # Make
 
-Golang's built-in function make, helps us create and initialize slices, maps and channels, depending on the arguments that are provided to the function.
-
+Golang的内置函数make，可以帮助我们根据提供给函数的参数来创建和初始化切片、地图和通道。
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
 <BadgeLink badgeText='Read' href='https://www.golangprograms.com/how-to-create-slice-using-make-function-in-golang.html'>Create a slice with make</BadgeLink>

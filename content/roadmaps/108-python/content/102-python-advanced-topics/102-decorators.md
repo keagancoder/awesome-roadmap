@@ -1,6 +1,6 @@
-# Decorators
+# 装饰器
 
-decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are usually called before the definition of a function you want to decorate.
+装饰器是Python中的一种设计模式，它允许用户在不修改现有对象结构的情况下向其添加新的功能。装饰器通常在你想装饰的函数的定义之前被调用。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.datacamp.com/tutorial/decorators-python'>Python Decorators</BadgeLink>

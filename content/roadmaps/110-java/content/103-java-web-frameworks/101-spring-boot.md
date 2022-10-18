@@ -1,6 +1,6 @@
 # Sprint Boot
 
-Spring Boot is an open source, microservice-based Java web framework. The Spring Boot framework creates a fully production-ready environment that is completely configurable using its prebuilt code within its codebase. The microservice architecture provides developers with a fully enclosed application, including embedded application servers.
+Spring Boot是一个开源的、基于微服务的Java网络框架。Spring Boot框架创建了一个完全可用于生产的环境，使用其代码库中的预置代码可以完全配置。微服务架构为开发者提供了一个完全封闭的应用程序，包括嵌入式应用服务器。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Site' href='https://spring.io/projects/spring-boot/'>Spring Boot</BadgeLink>

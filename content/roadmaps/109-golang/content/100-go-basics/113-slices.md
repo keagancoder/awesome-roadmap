@@ -1,6 +1,6 @@
-# Slices
+# 切片
 
-Slices are similar to arrays but are more powerful and flexible. Like arrays, slices are also used to store multiple values of the same type in a single variable. However, unlike arrays, the length of a slice can grow and shrink as you see fit.
+切片与数组类似，但功能更强大、更灵活。像数组一样，切片也被用来在一个变量中存储多个相同类型的值。然而，与数组不同的是，切片的长度可以根据你的需要进行增长和缩小。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

@@ -1,6 +1,6 @@
 # Git
 
-[Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+[Git](https://git-scm.com/)是一个自由和开源的分布式版本控制系统，旨在以速度和效率处理从小型到超大型项目的一切。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=zbKdDsNNOhg'>Version Control System Introduction</BadgeLink>

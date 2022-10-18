@@ -1,6 +1,6 @@
-# Generics
+# 泛型方法
 
-Java Generic methods and generic classes enable programmers to specify, with a single method declaration, a set of related methods, or with a single class declaration, a set of related types, respectively.
+Java 泛型方法和泛型类使程序员能够通过单一的方法声明来指定一组相关的方法，或者通过单一的类声明来指定一组相关的类型。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>   
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/generics-in-java/'>Generics in Java</BadgeLink>

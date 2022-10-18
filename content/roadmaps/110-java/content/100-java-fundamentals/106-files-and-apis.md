@@ -1,6 +1,6 @@
-# Files and APIs
+# 文件和API
 
-Learn how to work with files i.e., reading, writing and deleting, files and folders, etc. Also, learn how to make API calls, parse the incoming response, and so on.
+学习如何处理文件，即读、写和删除、文件和文件夹等。同时，学习如何进行API调用，解析传入的响应，等等。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>   
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.marcobehler.com/guides/java-files'>How To Work With Files In Java</BadgeLink>

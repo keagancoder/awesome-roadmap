@@ -1,6 +1,6 @@
 # Iterators
 
-An iterator is an object that contains a countable number of values. An iterator is an object that can be iterated upon, meaning that you can traverse through all the values. Technically, in Python, an iterator is an object which implements the iterator protocol, which consist of the methods __iter__() and __next__() .
+迭代器是一个包含可计数的值的对象。迭代器是一个可以被迭代的对象，意味着你可以遍历所有的值。从技术上讲，在 Python 中，一个迭代器是一个实现了迭代器协议的对象，它由 __iter__() 和 __next__() 方法组成。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3schools.com/python/python_iterators.asp'>Iterators in Python</BadgeLink>

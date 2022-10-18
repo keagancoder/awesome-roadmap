@@ -1,6 +1,7 @@
 # Structs
 
-Structs are user-defined types that help us create a collection of data describing a single entity.
+结构是用户定义的类型，帮助我们创建一个描述单一实体的数据集合。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://go.dev/tour/moretypes/2'>Go Structs</BadgeLink>
