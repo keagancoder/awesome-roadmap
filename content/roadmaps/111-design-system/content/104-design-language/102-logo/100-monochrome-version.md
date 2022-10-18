@@ -1,3 +1,3 @@
-# Monochrome Version
+# 单色版本
 
-A monochrome version of your logo that looks good on top of photography or when it’s printed with a poor quality printer.
+你的标志的单色版本，在摄影作品上面或者用质量差的打印机打印时看起来很好。
