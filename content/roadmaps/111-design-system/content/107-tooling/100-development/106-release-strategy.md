@@ -1,3 +1,3 @@
-# Release Strategy
+# 发布策略
 
-Design system releases should be automated and ideally use scripts ran locally or in remote CI pipelines to prevent broken releases.
+设计系统的发布应该是自动化的，最好是使用在本地或远程CI管道中运行的脚本，以防止错误发布。
