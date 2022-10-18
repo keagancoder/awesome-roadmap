@@ -1,3 +1,3 @@
-# Community Meetings
+# 社区会议
 
-Arrange community meetings with everyone who uses the design system. Share your knowledge and make proposals to improve the sense of community.
+与每个使用设计系统的人安排社区会议。分享你的知识并提出建议，以改善社区的感觉。
