@@ -1,10 +1,10 @@
-# Input Radio
+# 输入单选
 
-An input radio is a form element used for selecting one option from a list.
+输入单选是一个表单元素，用于从一个列表中选择一个选项。
 
-- **Checked State:** Used when the radio is selected and will use its value for the form submission. A radio input can’t be unselected by pressing it again.
-- **Disabled State:** Prevents radio interactions and removes its value from the form submission.
-- **Label:** There should be a text label linked with the radio field. Clicking the label should also trigger the radio selection.
-- **Error State:** The error state is used for form validation errors when the error is related to the radio field only. Always use a text error along with changing the colour of the field.
-- **Keyboard State:** A radio selection should be triggered when the Space key is pressed. Using native elements for this should provide this kind of interaction out of the box.
-- **Radio Group:** Radio inputs should always be used in a group. If one of them is selected, it can be deselected only by choosing another radio.
+- **选中状态：**当单选被选中时使用，并将使用其值来提交表单。一个单选输入不能通过再次按动它来取消选择。
+- 禁用状态：**防止单选互动，并从表单提交中删除其值。
+- 标签：**应该有一个与单选字段相连的文本标签。点击该标签也应触发单选。
+- **错误状态：**错误状态用于表单验证错误，当错误只与单选字段有关。始终使用一个文本错误，同时改变字段的颜色。
+- 键盘状态：**单选应该在按下空格键时被触发。使用本机元素应该可以提供这种互动。
+- 广播组：**广播输入应该总是在一个组中使用。如果其中一个被选中，只能通过选择另一个单选来取消选择。

@@ -1,9 +1,9 @@
-# Card
+# 卡片
 
-Cards are used to group information about subjects and their related actions.
+卡片用于分组关于主题和其相关行动的信息。
 
-- **Supports any type of content:** Cards are one of the most used components in the product, so they have to be flexible enough to support any other components placed in them.
-- **Information structure:** No matter how flexible cards are, it’s important for cards to have a specific structure for its elements for product consistency.
-- **Supports media sections:** One of the most popular scenarios for using cards is mixing them with media content. The most popular options are having a full-width area on top of the content or full-height area at one of the card’s sides.
-- **Supplementary actions:** Cards can be used with actions usually placed at the bottom of the card, or the card itself can be tappable and represent an action.
-- **Responsiveness:** On mobile viewports cards are usually full-width in order to save space for the content.
+- **支持任何类型的内容：**卡片是产品中使用最多的组件之一，所以它们必须足够灵活，以支持放置在其中的任何其他组件。
+- **信息结构：**无论卡片多么灵活，为了产品的一致性，卡片的元素必须要有特定的结构。
+- **支持媒体部分：**使用卡片的最流行的场景之一是将它们与媒体内容混合在一起。最流行的选择是在内容的顶部有一个全宽的区域，或者在卡片的一个侧面有全高的区域。
+- **补充动作：**卡片可以与通常放置在卡片底部的动作一起使用，或者卡片本身可以是可触摸的并代表一个动作。
+- **响应性：**在移动视口上，卡片通常是全宽的，以便为内容节省空间。

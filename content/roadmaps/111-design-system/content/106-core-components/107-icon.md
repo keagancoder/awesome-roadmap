@@ -1,6 +1,6 @@
-# Icon
+# 图标
 
-The icon component is a way to align the way iconography static assets are displayed in the product.
+图标组件是一种调整图标静态资产在产品中显示方式的方法。
 
-- **Sizes:** Icons should have a number of predefined sizes to provide a holistic experience across the product. Typography pairings may be used for these size values to ensure that they are aligned with the text sizes.
-- **Colors:** Icons should be using values from the design system colour palette. Using parent element text colour for icon fill colour can make this automatic.
+- **尺寸：**图标应该有一些预定义的尺寸，以提供整个产品的整体体验。排版配对可用于这些尺寸值，以确保它们与文本尺寸保持一致。
+- **颜色：**图标应该使用设计系统调色板的值。使用父元素的文本颜色作为图标的填充颜色可以使其自动实现。

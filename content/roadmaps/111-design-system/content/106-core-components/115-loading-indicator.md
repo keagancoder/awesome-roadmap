@@ -1,8 +1,8 @@
-# Loading Indicator
+# 装载指示器
 
-The loading indicator shows that an operation’s being performed and how long the process will take.
+装载指示器显示正在进行的操作以及该过程将需要多长时间。
 
-- **Linear and non-linear Variants:** Depending on the context and the component it’s used for, the loading indicator can be represented either with linear or with a non-linear (e.g. circular) variant.
-- **Determinate or indeterminate wait time:** In some cases, the wait time can’t be determined. The loading indicator should be shown until the loading finishes or an error happens. In other cases, it’s better to indicate how much time’s left until the loading is done.
-- **Light Variant:** The loading indicator should respect its parent element background and provide a variant to be used on darker background colours.
-- **Reduced Motion:** The loading indicator should be synced with the system motion settings and reduce its animation speed when reduced motion settings are turned on.
+- **线性和非线性变体：**根据上下文和它所使用的组件，加载指标可以用线性或非线性（如循环）变体来表示。
+- **确定或不确定的等待时间：**在某些情况下，等待时间无法确定。应该显示加载指示器，直到加载完成或发生错误。在其他情况下，最好是指示离加载完成还有多少时间。
+- **光变体：**加载指示器应该尊重其父元素的背景，并提供一个变体，用于较暗的背景颜色。
+- 减少运动：**加载指示器应该与系统运动设置同步，并在减少运动设置开启时降低其动画速度。

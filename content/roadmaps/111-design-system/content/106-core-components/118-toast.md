@@ -1,9 +1,9 @@
-# Toast
+# 标签
 
-Toasts provide short meaningful feedback messages about the action results.
+标签可以组织多个页面或内容部分之间的导航。
 
-- **Dismissed Automatically:** Toast messages shouldn’t interrupt the user flow, block the screen for a long time or require additional action from the user.
-- **Action Support:** Besides displaying the message, toasts may also provide an action related to the message like undoing an action.
-- **Handles Multiple Instances:** Even though it doesn’t happen often, toasts can be called from multiple sources at the same time and all resulting toasts should be queued. It’s good practice not to show all the messages at the same time.
-- **Accessibility:** Toast messages should be announced by the voice assistive technology and their action should be easily accessible from the keyboard.
-- **Responsivenss:** Toasts should be aligned with the mobile viewport and their action should be easily reachable for tapping.
+- **活动按钮状态：**在选择和未选择的标签按钮之间应该有明显的区别。
+- **按钮图标支持：**图标在标签旁边使用时有助于显示标签按钮的目的。
+- **同等大小的标签按钮：**标签可以在一个相对较小的容器中使用，你需要在一定数量的部分之间切换。对于这种情况，最好是支持一个变体，即按钮的区域被平均分割。
+- 键盘导航：**所有的标签按钮都应该是可聚焦的，并且标签组件之间的导航应该可以通过键盘访问。
+- **响应性：**如果移动端的所有标签不适合进入视口，用户仍然应该可以访问所有标签按钮。解决这个问题的方法可以是让按钮区域在移动端可滚动，或者显示一个包含有其余按钮的下拉菜单的更多按钮。

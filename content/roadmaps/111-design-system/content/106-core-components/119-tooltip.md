@@ -1,9 +1,9 @@
-# Tooltip
+# 工具提示
 
-Tooltips are desktop-only components that display additional information when hovering over or focusing on an element.
+工具提示是只在桌面上使用的组件，当悬停在一个元素上或聚焦在一个元素上时，会显示额外的信息。
 
-- **Keyboard Hover Support:** Tooltips should be accessible when an element is focused using the keyboard.
-- **Dynamic Positioning:** Tooltip content should be displayed based on the current position of the trigger element on the screen and always visible to the user.
-- **Hover Timeout:** Having a small timeout before triggering a tooltip will help to prevent occasionally showing tooltips while users move their mouse cursor.
-- **Light Variant:** The tooltip should respect its parent element background and provide a variant to be used on darker background colours.
-- **Instant Transition for Element Groups:** If there’s a group of elements using tooltips, hovering over another element while a tooltip’s already active shouldn’t trigger the animation.
+- **键盘悬停支持：**当使用键盘关注一个元素时，应该可以看到工具提示。
+- **动态定位：**工具提示内容应根据触发元素在屏幕上的当前位置显示，并始终对用户可见。
+- **悬停超时：**在触发工具提示前有一个小的超时，将有助于防止在用户移动鼠标光标时偶尔显示工具提示。
+- 光变体：**工具提示应该尊重其父元素的背景，并提供一个变体，用于较暗的背景颜色。
+- 元素组的即时过渡：**如果有一组使用工具提示的元素，当工具提示已经激活时，将鼠标悬停在另一个元素上不应该触发动画。

@@ -1,10 +1,10 @@
-# Modal
+# 模态
 
-Modals are containers appearing in front of the main content to provide critical information or an actionable piece of content.
+模态是出现在主要内容前面的容器，提供关键信息或可操作的内容。
 
-- **Supports any type of Content:** Like any other container, modals can be used in different scenarios and you should be able to use it with any other component inside.
-- **Supplementary Actions:** Since content in the modal may be actionable, it’s important to have an area for action elements. This area is usually located at the bottom of the modal container.
-- **Close Action:** Modals should provide a clear way to be closed as they’re blocking content when open. This may be either a separate close button or one of the supplementary actions.
-- **Information Structure:** Even though modals can be used as an empty container for the content, they need a defined information structure to provide a holistic experience. It may include defining how titles and subtitles look by default or where an action element’s area is.
-- **Keyboard Navigation Support:** It should be possible to close a modal by pressing the Esc key and all the focusable elements inside the modal container should be accessible with keyboard navigation.
-- **Focus Trapping:** Once a modal is opened, the focus should be moved to the first element inside the modal and should be looped within the modal container. Closing the modal should return the focus to the last focused element on the page.
+- **支持任何类型的内容：**像其他容器一样，模态可以用于不同的场景，你应该可以在里面使用任何其他组件。
+- **补充动作：**由于模态中的内容可能是可操作的，所以有一个动作元素的区域很重要。这个区域通常位于模态容器的底部。
+- 关闭动作：**模态应该提供一个明确的方式来关闭，因为它们在打开时阻挡了内容。这可以是一个单独的关闭按钮或一个补充动作。
+- **信息结构：**即使模版可以作为内容的空容器，它们也需要一个定义的信息结构来提供整体的体验。它可能包括定义标题和字幕的默认外观或动作元素的区域位置。
+- **键盘导航支持：**应该可以通过按Esc键来关闭模态，并且模态容器内的所有可聚焦元素都应该可以通过键盘导航来访问。
+- **焦点捕获：**一旦一个模态被打开，焦点应该被移动到模态中的第一个元素，并且应该在模态容器中循环。关闭模态应该将焦点返回到页面上的最后一个焦点元素。
