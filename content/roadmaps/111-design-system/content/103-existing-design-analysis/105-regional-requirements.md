@@ -1,3 +1,4 @@
-# Regional Requirements
+# 区域要求
 
-Understand any regional requirements such as LTR or any other UX variations that your design system should accommodate.
+了解任何地区性的要求，如LTR或任何其他用户体验的变化，你的设计系统应该适应。
+

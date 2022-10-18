@@ -1,3 +1,3 @@
-# Documentation
+# 文档
 
-Organize and document the results of visual audit, design elements, components with variations, states, patterns found, any existing documentation, current design process, and considerations. This documentation will be shared across the team and act as a guide when building the new design system.   
+组织和记录视觉审计的结果、设计元素、有变化的组件、状态、发现的模式、任何现有的文档、当前的设计过程和考虑因素。这些文件将在整个团队中共享，并在建立新的设计系统时作为指南。  

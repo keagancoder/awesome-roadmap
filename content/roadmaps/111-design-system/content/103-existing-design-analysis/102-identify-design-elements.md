@@ -1,3 +1,3 @@
-# Identify Design Elements
+# 识别设计元素
 
-Use the results of visual audit and prepare a comprehensive list of design elements such as Colors, Typography, Sizes, Spaces, Grid, Layouts etc. These elements will be the building blocks of your components.
+利用视觉审计的结果，准备一份全面的设计元素清单，如颜色、排版、尺寸、空间、网格、布局等。这些元素将是你的构件的组成部分。
