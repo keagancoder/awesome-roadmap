@@ -1,4 +1,4 @@
-# CSS Basics
+# CSS 基础
 
 CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
