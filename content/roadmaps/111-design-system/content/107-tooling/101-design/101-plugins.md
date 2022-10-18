@@ -1,3 +1,3 @@
-# Plugins
+# 插件
 
-Most popular Design Editors (Sketch and Figma, especially) come with third-party plugin support. Whilst it's best to use the editors in-built tools for laying out your components, plugins can bring in a range of useful data to populate them.
+大多数流行的设计编辑器（尤其是Sketch和Figma）都有第三方的插件支持。虽然最好使用编辑器内置的工具来布置你的组件，但插件可以带来一系列有用的数据来填充它们。
