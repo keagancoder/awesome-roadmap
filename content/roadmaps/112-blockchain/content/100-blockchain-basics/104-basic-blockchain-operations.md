@@ -1,6 +1,6 @@
-# Basic Blockchain Operations
+# 基本区块链操作
 
-Operations in a decentralized networks are the responsibility of the peer participants and their respective computational nodes. These are specific for each type of blockchain.
+去中心化网络中的操作是对等参与者和他们各自的计算节点的责任。这些都是针对每种类型的区块链的。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.mlq.ai/blockchain-basics/'>Blockchain Basics: Structure, Operations, and the Bitcoin Blockchain</BadgeLink>
