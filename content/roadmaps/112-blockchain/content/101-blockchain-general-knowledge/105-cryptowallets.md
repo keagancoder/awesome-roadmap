@@ -1,6 +1,6 @@
-# Cryptowallets
+# 加密货币钱包
 
-A cryptocurrency wallet is an application that functions as a wallet for your cryptocurrency.
+加密货币钱包是一个应用程序，其功能是作为你的加密货币的钱包。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.investopedia.com/terms/b/bitcoin-wallet.asp'>What is a Cryptocurrency Wallet?</BadgeLink>
