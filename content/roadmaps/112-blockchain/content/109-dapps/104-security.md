@@ -1,6 +1,6 @@
-# Security
+# 安全性
 
-dApps face unique security challenges as they run on immutable blockchains. dApps are harder to maintain, and developers cannot modify or update their codes once deployed. Therefore, special consideration must be taken before putting it on the blockchain. 
+dApps面临着独特的安全挑战，因为它们运行在不可变的区块链上。dApps更难维护，开发人员一旦部署就不能修改或更新其代码。因此，在把它放到区块链上之前，必须要有特别的考虑。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://github.com/Dexaran/DAPP-security-standards/blob/master/README.md'>DAPP Security Standards</BadgeLink>

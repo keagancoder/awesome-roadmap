@@ -1,8 +1,9 @@
-# Testing
+# 测试
 
-A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.
+构建符合要求、没有缺陷的软件的一个关键是测试。软件测试帮助开发人员知道他们正在构建正确的软件。当测试作为开发过程的一部分被运行时（通常使用持续集成工具），他们建立信心并防止代码中的回归。
 
-Like traditional software, testing dApps involves testing the entire stack that makes up the dApp (backend, frontend, db, etc.).
+像传统的软件一样，测试dApps涉及测试构成dApp的整个堆栈（后端、前端、数据库等）。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/software-testing-introduction-importance.html'>What is Software Testing?</BadgeLink>
