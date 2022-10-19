@@ -1,4 +1,4 @@
-# Supporting Languages
+# 支持语言
 
-While the bulk of the logic in blockchain applications is handled by smart contracts, all the surrounding services that support those smart contracts (frontend, monitoring, etc.) are often written in other languages.
+虽然区块链应用中的大部分逻辑是由智能合约处理的，但所有支持这些智能合约的周边服务（前端、监控等）往往是由其他语言编写的。
 
