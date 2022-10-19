@@ -1,6 +1,7 @@
 # GitLab
 
-GitLab is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+
+GitLab是一个使用Git进行软件开发和版本控制的互联网主机供应商。它提供了Git的分布式版本控制和源代码管理功能，加上自己的特点。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
