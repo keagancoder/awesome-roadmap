@@ -1,3 +1,3 @@
-# Tools
+# 工具
 
-Blockchain and smart contract technology is faily new, therefore, you should expect constant changes in the security landscape, as new bugs and security risks are discovered, and new best practices are developed. Keeping track of this constantly moving landscape proves difficult, so using tools to aid this mission is important. The cost of failing to property secure smart contracts can be high, and because change can be difficult, we must make use of these tools.
+区块链和智能合约技术是全新的，因此，你应该期待安全领域的不断变化，因为新的错误和安全风险被发现，新的最佳实践被开发。追踪这种不断变化的情况是很困难的，所以使用工具来帮助这个任务是很重要的。未能实现安全智能合约的成本可能很高，而且由于变化可能很困难，我们必须利用这些工具。
