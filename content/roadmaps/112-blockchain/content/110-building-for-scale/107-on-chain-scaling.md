@@ -1,6 +1,6 @@
-# On-Chain Scaling
+# 链上扩展
 
-On-chain scaling refers to any direct modification made to a blockchain, like data sharding and execution sharding in the incoming version of Ethereum 2.0. Another type of on-chain scaling would be a sidechain with two-way bridge to Ethereum, like Polygon.
+链上扩展指的是对区块链所做的任何直接修改，比如以太坊2.0即将到来的版本中的数据分片和执行分片。另一种类型的链上扩展是具有与以太坊双向桥接的侧链，如Polygon。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/scaling/'>Scaling - Ethereum</BadgeLink>

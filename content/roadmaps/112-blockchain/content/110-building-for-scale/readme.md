@@ -1,3 +1,3 @@
-# Building for Scale
+# 为规模而建
 
-Due to the limited number of transactions-per-second (TPS) built-in to blockchains, a number of alternative mechanism and technologies have emerged to aid the scaling of blockchain dApps.
+由于区块链内置的每秒交易量（TPS）有限，已经出现了一些替代机制和技术来帮助区块链dApps的扩展。
