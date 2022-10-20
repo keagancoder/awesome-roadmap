@@ -6,7 +6,8 @@
 
 # JavaScript
 
-JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on. Apart from being used on the frontend in browsers, there is Node.js which is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+JavaScript允许你在你的网页上添加互动性。你可能在网站上看到的常见例子是滑块、点击互动、弹出窗口等等。除了在浏览器的前端使用外，还有Node.js，它是一个开源的、跨平台的、后端的JavaScript运行环境，在V8引擎上运行，在网络浏览器外执行JavaScript代码。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
