@@ -1,10 +1,10 @@
-# HTML/CSS/JavaScript Basics
+# HTML/CSS/JavaScript基础知识
 
-HTML stands for HyperText Markup Language. It is used on the front and gives structure to the webpage, which you can style using CSS and make interactive using JavaScript.
+HTML是超文本标记语言的缩写。它被用在前台，为网页提供了结构，你可以用CSS进行样式设计，用JavaScript进行互动。
 
-CSS or Cascading Style Sheets is the language used to style the front end of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+CSS或层叠样式表（Cascading Style Sheets）是用来为任何网站的前端设置样式的语言。CSS是万维网的一项基石技术，与HTML和JavaScript并列。
 
-JavaScript allows you to add interactivity to your pages. You may have seen common examples on the websites: sliders, click interactions, popups, and so on.
+JavaScript允许你为你的网页添加互动性。你可能在网站上看到过常见的例子：滑块、点击互动、弹出窗口等等。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.w3schools.com/html/html_intro.asp'>W3Schools: Learn HTML</BadgeLink>
