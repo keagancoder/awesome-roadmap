@@ -1,6 +1,6 @@
-# Manage Your Testing
+# 管理你的测试
 
-Test Management is a process of managing the testing activities in order to ensure high quality and high-end testing of the software application. The method consists of organizing, controlling, ensuring traceability and visibility of the testing process in order to deliver the high quality software application. It ensures that the software testing process runs as expected.
+测试管理是一个管理测试活动的过程，以确保软件应用的高质量和高端测试。该方法包括组织、控制、确保测试过程的可追溯性和可视性，以提供高质量的软件应用程序。它确保软件测试过程按预期运行。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/test-management-phases-a-complete-guide-for-testing-project.html'>Test Management Process in Software Testing</BadgeLink>
