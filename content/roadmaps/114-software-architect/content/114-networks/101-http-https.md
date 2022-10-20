@@ -1,4 +1,4 @@
 # Http https
 
-Hypertext Transfer Protocol Secure is an extension of the Hypertext Transfer Protocol. It is used for secure communication over a computer network, and is widely used on the Internet. 
-In HTTPS, the communication protocol is encrypted using Transport Layer Security or, formerly, Secure Sockets Layer.
+超文本传输协议安全版是超文本传输协议的一个扩展。它用于计算机网络上的安全通信，在互联网上被广泛使用。
+在HTTPS中，通信协议使用传输层安全或以前的安全套接字层进行加密。
