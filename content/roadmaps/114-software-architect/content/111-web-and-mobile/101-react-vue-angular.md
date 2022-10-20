@@ -6,7 +6,7 @@
 
 # React
 
-React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
+React是最流行的用于构建用户界面的前端JavaScript库。React还可以使用Node在服务器上渲染，并使用React Native为移动应用提供动力。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://reactjs.org/'>React Website</BadgeLink>

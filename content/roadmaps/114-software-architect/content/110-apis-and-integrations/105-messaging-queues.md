@@ -1,6 +1,6 @@
-# Messaging queues
+# 消息队列
 
-Message queuing makes it possible for applications to communicate asynchronously, by sending messages to each other via a queue. A message queue provides temporary storage between the sender and the receiver so that the sender can keep operating without interruption when the destination program is busy or not connected.
+消息队列使应用程序有可能进行异步通信，通过队列向对方发送消息。消息队列在发送方和接收方之间提供临时存储，以便发送方在目的地程序繁忙或未连接时可以不受干扰地继续运行。
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://aws.amazon.com/message-queue/'>Messaging Queues</BadgeLink>
