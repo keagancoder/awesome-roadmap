@@ -1,4 +1,4 @@
-# Application Level Architecture
+# 应用层面的架构
 
-The lowest level of architecture. Focus on one single application. Very detailed, low level design. Communication is usually within one development team.
+架构的最低层次。专注于一个单一的应用。非常详细，低层次的设计。沟通通常在一个开发团队内进行。
 
