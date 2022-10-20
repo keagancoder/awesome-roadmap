@@ -1,3 +1,3 @@
-# Test Planning
+# 测试规划
 
-i.e. how we are trying to test, what is the scope of the delivery and the followed strategy.
+即我们如何尝试测试，交付的范围是什么以及遵循的策略。
