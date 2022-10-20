@@ -1,6 +1,6 @@
-# Repo Hosting Services
+# 仓库托管服务
 
-There are different repository hosting services with the most famous one being GitHub, GitLab and BitBucket. I would recommend creating an account on GitHub because that is where most of the OpenSource work is done and most of the developers are.
+有不同的版本库托管服务，其中最著名的是GitHub、GitLab和BitBucket。我建议在GitHub上创建一个账户，因为大部分的开源工作都是在那里完成的，大部分的开发者都在那里。
 
 <ResourceGroupTitle>Services Links</ResourceGroupTitle>
 <BadgeLink badgeText='Visit' colorScheme="green" href='https://github.com'>GitHub: Where the world builds software</BadgeLink>
