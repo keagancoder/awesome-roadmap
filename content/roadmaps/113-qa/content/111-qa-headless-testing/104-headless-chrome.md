@@ -1,6 +1,7 @@
-# Headless Chrome
+# 无头浏览器
 
-Headless Chrome is a way to run the Chrome browser in a headless environment without the full browser UI. One of the benefits of using Headless Chrome (as opposed to testing directly in Node) is that your JavaScript tests will be executed in the same environment as users of your site.
+Headless Chrome是一种在无头环境下运行Chrome浏览器的方式，没有完整的浏览器用户界面。使用Headless Chrome的好处之一（相对于直接在Node中测试）是，你的JavaScript测试将在与你网站的用户相同的环境中执行。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md'>Headless Chromium</BadgeLink>
