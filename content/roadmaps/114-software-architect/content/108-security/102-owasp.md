@@ -1,6 +1,7 @@
 # OWASP
 
-OWASP or Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+OWASP或开放网络应用安全项目是一个在线社区，它在网络应用安全领域产生了免费的文章、方法、文档、工具和技术。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://en.wikipedia.org/wiki/OWASP'>Wikipedia - OWASP</BadgeLink>
