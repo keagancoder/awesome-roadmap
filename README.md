@@ -1,6 +1,6 @@
 <p align="center">
   <img src="public/brand.png" height="128">
-  <h2 align="center">Awesome Roadmap</h2>
+  <h2 align="center">Awesome路线图</h2>
   <p align="center">开源社区驱动的学习路线图，构建伟大的学习路线、学习资源<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
@@ -24,30 +24,30 @@
 
 所创建的学习路线图是可交互的，你可以通过点击节点来阅读详细信息
 
-### [View all Roadmaps](https://roadmap.sh)
+### [View all路线图s](https://roadmap.sh)
 
 ![](https://i.imgur.com/waxVImv.png)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-- [Frontend Roadmap](https://roadmap.sh/frontend)
-- [Backend Roadmap](https://roadmap.sh/backend)
-- [DevOps Roadmap](https://roadmap.sh/devops)
-- [QA Roadmap](https://roadmap.sh/qa)
-- [Software Architect Roadmap](https://roadmap.sh/software-architect)
-- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
-- [React Roadmap](https://roadmap.sh/react)
-- [Vue Roadmap](https://roadmap.sh/vue)
-- [Angular Roadmap](https://roadmap.sh/angular)
-- [Node.js Roadmap](https://roadmap.sh/nodejs)
-- [Android Roadmap](https://roadmap.sh/android)
-- [Python Roadmap](https://roadmap.sh/python)
-- [Go Roadmap](https://roadmap.sh/golang)
-- [Java Roadmap](https://roadmap.sh/java)
-- [Design System Roadmap](https://roadmap.sh/design-system)
-- [DBA Roadmap](https://roadmap.sh/postgresql-dba)
-- [Blockchain Roadmap](https://roadmap.sh/blockchain)
+- [Frontend路线图](https://roadmap.sh/frontend)
+- [Backend路线图](https://roadmap.sh/backend)
+- [DevOps路线图](https://roadmap.sh/devops)
+- [QA路线图](https://roadmap.sh/qa)
+- [Software Architect路线图](https://roadmap.sh/software-architect)
+- [Software Design and Architecture路线图](https://roadmap.sh/software-design-architecture)
+- [JavaScript路线图](https://roadmap.sh/javascript)
+- [React路线图](https://roadmap.sh/react)
+- [Vue路线图](https://roadmap.sh/vue)
+- [Angular路线图](https://roadmap.sh/angular)
+- [Node.js路线图](https://roadmap.sh/nodejs)
+- [Android路线图](https://roadmap.sh/android)
+- [Python路线图](https://roadmap.sh/python)
+- [Go路线图](https://roadmap.sh/golang)
+- [Java路线图](https://roadmap.sh/java)
+- [Design System路线图](https://roadmap.sh/design-system)
+- [DBA路线图](https://roadmap.sh/postgresql-dba)
+- [Blockchain路线图](https://roadmap.sh/blockchain)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -55,7 +55,7 @@ If you think that these can be improved in any way, please do suggest. Also, if 
 
 ## Development
 
-Clone the repository, install the dependencies and start the application
+克隆仓库，安装依赖项并启动应用程序
 
 ```bash
 git clone git@github.com:kamranahmedse/developer-roadmap.git
