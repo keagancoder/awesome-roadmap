@@ -1,6 +1,6 @@
 <p align="center">
   <img src="public/brand.png" height="128">
-  <h2 align="center">Awesome路线图</h2>
+  <h2 align="center">Awesome Roadmap</h2>
   <p align="center">开源社区驱动的学习路线图，构建伟大的学习路线、学习资源<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
@@ -24,18 +24,18 @@
 
 所创建的学习路线图是可交互的，你可以通过点击节点来阅读详细信息
 
-### [View all路线图s](https://roadmap.sh)
+### [查看所有的路线图](https://roadmap.sh)
 
 ![](https://i.imgur.com/waxVImv.png)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-- [Frontend路线图](https://roadmap.sh/frontend)
-- [Backend路线图](https://roadmap.sh/backend)
+- [前端路线图](https://roadmap.sh/frontend)
+- [后端路线图](https://roadmap.sh/backend)
 - [DevOps路线图](https://roadmap.sh/devops)
 - [QA路线图](https://roadmap.sh/qa)
-- [Software Architect路线图](https://roadmap.sh/software-architect)
-- [Software Design and Architecture路线图](https://roadmap.sh/software-design-architecture)
+- [软件架构路线图](https://roadmap.sh/software-architect)
+- [软件设计及架构路线图](https://roadmap.sh/software-design-architecture)
 - [JavaScript路线图](https://roadmap.sh/javascript)
 - [React路线图](https://roadmap.sh/react)
 - [Vue路线图](https://roadmap.sh/vue)
@@ -45,15 +45,15 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Python路线图](https://roadmap.sh/python)
 - [Go路线图](https://roadmap.sh/golang)
 - [Java路线图](https://roadmap.sh/java)
-- [Design System路线图](https://roadmap.sh/design-system)
+- [系统设计路线图](https://roadmap.sh/design-system)
 - [DBA路线图](https://roadmap.sh/postgresql-dba)
 - [Blockchain路线图](https://roadmap.sh/blockchain)
 
 ![](https://i.imgur.com/waxVImv.png)
 
-If you think that these can be improved in any way, please do suggest. Also, if you would like to contribute to existing roadmaps or add a new roadmap, please open an issue or reach out to [@kamranahmedse](https://twitter.com/kamranahmedse).
+如果你认为这些可以在任何方面加以改进，请提出建议。另外，如果你想对现有的路线图做出贡献，或者增加一个新的路线图，请开一个issue
 
-## Development
+## 开发
 
 克隆仓库，安装依赖项并启动应用程序
 
@@ -63,7 +63,7 @@ npm install
 npm run dev
 ```
 
-## Contribution
+## 贡献
 
 > 关于如何更新任何路线图，请看 [contribution docs](./contributing.md)
 
@@ -72,13 +72,3 @@ npm run dev
 - 对现有路线图提出修改建议
 - 在问题中讨论想法
 - 传播，令更多人知道这个仓库
-
-## Thanks to all contributors ❤
-
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
- </a>
-
-## License
-
-Have a look at the [license file](./license) for details

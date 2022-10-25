@@ -1,9 +1,9 @@
 <br />
 <br />
 
-# Download Roadmap PDFs
+# 下载PDF格式的路线图
 
-Here is the list of PDF links for each of the roadmaps.
+以下是每个路线图的PDF链接列表。
 
 * **Frontend Roadmap** - [Roadmap Link](https://roadmap.sh/frontend) / [PDF Link](https://roadmap.sh/pdfs/frontend.pdf)
 * **Backend Roadmap** - [Roadmap Link](https://roadmap.sh/backend) / [PDF Link](https://roadmap.sh/pdfs/backend.pdf)
