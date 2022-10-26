@@ -3,7 +3,6 @@ import authors from '../content/authors.json';
 export type AuthorType = {
   username: string;
   name: string;
-  twitter: string;
   picture: string;
   bio: string;
 }
