@@ -1,3 +1,3 @@
-# 路线图
+# Roadmap
 
-设定你的短期和长期愿景，并将事情规划出来，有助于你决定要采取的步骤，了解你在大局中的位置，并确定日常工作的优先次序。
+Setting your short and long term vision and mapping things out helps you decide the steps to take, understand your place in the bigger picture and prioritise day-to-day tasks.

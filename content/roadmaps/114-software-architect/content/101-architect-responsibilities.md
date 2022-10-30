@@ -1,17 +1,17 @@
-# 架构师的职责
+# Architect Responsibilities
 
-为了了解建筑师所需的必要技能，我们首先需要了解典型的活动。从我的角度来看，下面的清单包含了最重要的活动。
+To understand the necessary skills an architect needs, we first need to understand typical activities. The following list contains from my perspective the most important activities:
 
-* 定义并决定开发技术和平台
-* 定义开发标准，如编码标准、工具、审查过程、测试方法等。
-* 支持识别和理解业务需求
-* 设计系统并根据需求做出决定
-* 记录和交流架构的定义、设计和决定
-* 检查和审查架构和代码，例如，检查所定义的模式和编码标准是否得到正确实施
-* 与其他架构师和利益相关者合作
-* 指导和咨询开发人员
-* 确保随着实施的进行，架构被遵守。
-* 在审查代码方面发挥关键作用
-* 详细说明并将高层设计细化为低层设计
+* Define and decide development technology and platform
+* Define development standards, e.g., coding standards, tools, review processes, test approach, etc.
+* Support identifying and understanding business requirements
+* Design systems and take decisions based on requirements
+* Document and communicate architectural definitions, design and decisions
+* Check and review architecture and code, e.g., check if defined patterns and coding standards are implemented properly
+* Collaborate with other architects and stakeholders
+* Coach and consult developers
+* Make sure that as implementation takes place, the architecture is being adhered to
+* Play a key part in reviewing code
+* Detail out and refine higher level design into lower level design
 
-注意：架构是一个持续的活动，特别是当它被应用于敏捷软件开发时。因此，这些活动是反复进行的。
+_Note: Architecture is a continuous activity, especially when it is applied in agile software development. Therefore, these activities are done over and over again._

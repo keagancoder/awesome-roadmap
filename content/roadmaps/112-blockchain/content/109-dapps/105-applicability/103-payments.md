@@ -1,6 +1,6 @@
-# 支付
+# Payments
 
-区块链技术有能力消除中心化组织在转移支付时收取的所有费用。
+Blockchain technology has the ability to eliminate all the tolls exacted by centralized organization when transferring payments.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://consensys.net/blockchain-use-cases/finance/#payments'>How does blockchain impact global payments and remittances?</BadgeLink>

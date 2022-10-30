@@ -1,7 +1,6 @@
-# 非功能测试
+# Non-Functional Testing
 
-非功能测试是软件测试的一种类型，用于测试非功能参数，如软件的可靠性、负载测试、性能和责任。非功能测试的主要目的是根据非功能参数来测试软件系统的读取速度。非功能测试的参数从来都是在功能测试之前进行测试的。
-
+Non-functional testing is a type of software testing to test non-functional parameters such as reliability, load test, performance, and accountability of the software. The primary purpose of non-functional testing is to test the reading speed of the software system as per non-functional parameters. The parameters of non-functional testing are never tested before the functional testing.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.browserstack.com/guide/what-is-non-functional-testing'>What is Non Functional Testing</BadgeLink>

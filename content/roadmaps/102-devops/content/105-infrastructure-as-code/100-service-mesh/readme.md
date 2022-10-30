@@ -1,6 +1,6 @@
-# 服务网
+# Service Mesh
 
-服务网，如开源项目Istio，是一种控制应用程序的不同部分如何相互共享数据的方法。与其他管理这种通信的系统不同，服务网是一个专门的基础设施层，直接建在应用程序中。这个可见的基础设施层可以记录应用程序的不同部分的互动情况（或不互动），因此随着应用程序的增长，优化通信和避免停机变得更加容易。
+A service mesh, like the open source project Istio, is a way to control how different parts of an application share data with one another. Unlike other systems for managing this communication, a service mesh is a dedicated infrastructure layer built right into an app. This visible infrastructure layer can document how well (or not) different parts of an app interact, so it becomes easier to optimize communication and avoid downtime as an app grows.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh'>What's a service mesh?</BadgeLink>

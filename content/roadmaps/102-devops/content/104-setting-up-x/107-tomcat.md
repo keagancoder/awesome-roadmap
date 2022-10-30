@@ -1,6 +1,6 @@
 # Tomcat
 
-Tomcat是Jakarta Servlet、Jakarta Server Pages、Jakarta Expression Language、Jakarta WebSocket、Jakarta Annotations和Jakarta Authentication规范的一个开源实现。这些规范是Jakarta EE平台的一部分。
+Tomcat is an open source implementation of the Jakarta Servlet, Jakarta Server Pages, Jakarta Expression Language, Jakarta WebSocket, Jakarta Annotations and Jakarta Authentication specifications. These specifications are part of the Jakarta EE platform.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Software Website' href='https://tomcat.apache.org/'>Tomcat Website</BadgeLink>

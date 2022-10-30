@@ -1,6 +1,6 @@
 # gevent
 
-gevent是一个Python库，为事件循环提供一个高级接口。
+gevent is a Python library that provides a high-level interface to the event loop.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='http://www.gevent.org/'>gevent — Official Website</BadgeLink>

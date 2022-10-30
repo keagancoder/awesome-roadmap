@@ -1,10 +1,10 @@
 # Monit
 
-Monit是一个用于管理和监控Unix系统的小型开源工具。Monit进行自动维护和修理，并能在错误情况下执行有意义的因果行动。
+Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations.
 
-Monit有能力在一个进程没有运行时启动它，在一个进程没有反应时重启它，在一个进程使用大量资源时停止它。此外，你还可以用Monit来监视文件、目录和文件系统的变化、校验和变化、文件大小变化或时间戳变化。
+Monit has the ability to start a process if it is not running, restart a process if not responding, and stop a process if uses high resources. Additionally, you can also use Monit to monitor files, directories, and filesystems for changes, checksum changes, file size changes, or timestamp changes.
 
-使用Monit，你能够监控远程主机的TCP/IP端口、服务器协议和ping。Monit保存自己的日志文件，并对任何关键的错误情况和恢复状态发出警报。
+With Monit, you can able to monitor remote hosts’ TCP/IP port, server protocols, and ping. Monit keeps its own log file and alerts about any critical error conditions and recovery status.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Framework Website' href='https://mmonit.com/monit/'>Monit Website</BadgeLink>

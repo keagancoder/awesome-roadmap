@@ -1,6 +1,6 @@
-# 部署
+# Deployment
 
-与其他软件不同，智能合约不在本地计算机或远程服务器上运行：它们生活在区块链上。因此，与它们的互动与更传统的应用程序不同。
+Unlike other software, smart contracts don’t run on a local computer or a remote server: they live on the blockchain. Thus, interacting with them is different from more traditional applications.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/smart-contracts/deploying/'>Deploying Smart Contracts</BadgeLink>

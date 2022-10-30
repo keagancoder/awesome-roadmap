@@ -1,8 +1,8 @@
-# 挖矿和激励模式
+# Mining and incentive models
 
-挖矿是向区块链添加交易细节的过程，如发件人地址、哈希值等。区块链包含了过去发生的所有交易历史，用于记录，它的存储方式是，它不能被操纵。
+Mining is the process of adding transaction details to the Blockchain, like sender address, hash value, etc. The Blockchain contains all the history of the transactions that have taken place in the past for record purposes and it is stored in such a manner that, it can’t be manipulated.
 
-奖励基本上是给予区块链矿工的奖励，以加快交易速度，并在安全地处理完整的交易时做出正确的决定。
+An Incentive is basically a reward given to a Blockchain Miner for speeding up the transactions and making correct decisions while processing the complete transaction securely.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/blockchain-incentives-to-miners/'>Blockchain Incentives to Miners</BadgeLink>

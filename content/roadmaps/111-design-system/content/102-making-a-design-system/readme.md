@@ -1,6 +1,6 @@
-# 建立一个设计系统
+# Making a Design System
 
-建立设计系统的第一步是确定[你是否需要一个设计系统](https://sparkbox.com/foundry/when_not_to_use_a_design_system)。
+First step in building a design system is identifying [if you even need a design system](https://sparkbox.com/foundry/when_not_to_use_a_design_system).
 
 <BadgeLink colorScheme='blue' badgeText='Watch' href='https://www.youtube.com/watch?v=FZSi1bK-BRM'>Introducing Design Systems Into Chaos - Diana Mounter, GitHub</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Watch' href='https://www.youtube.com/watch?v=Hx02SaL_IH0'>Design Systems, when and how much?</BadgeLink>

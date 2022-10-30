@@ -1,8 +1,8 @@
-# 现有的设计流程
+# Existing Design Process
 
-为了更好地理解你想要实施的设计系统的类型，你需要从回顾和分析你公司目前的设计方法开始。找到以下问题的答案。
+To better understand the kind of design system you would like to implement, you need to start by reviewing and analyzing the current approach for design at your company. Find the answers to the following questions:
 
-* 你们公司遵循的设计流程是什么？
-* 贵公司使用的现有工具是什么？
+* What is the design process that your company follows?
+* What are the existing tools that your company uses?
 
-还建议评估产品团队的设计成熟度水平。这些知识将帮助你估计将该系统引入你的组织所需的时间。
+It’s also recommended to evaluate the level of design maturity of the product teams. This knowledge will help you estimate the time required to introduce the system to your organization.

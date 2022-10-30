@@ -1,10 +1,10 @@
-# For 循环
+# For Loop
 
-Go只有一个循环结构，即`for`循环。基本的`for`循环有三个组成部分，用分号分开。
+Go has only one looping construct, the `for` loop. The basic `for` loop has three components separated by semicolons:
 
-- init语句：在第一次迭代前执行
-- 条件表达式：在每次迭代前进行评估
-- 后置语句：在每次迭代结束时执行
+- the init statement: executed before the first iteration
+- the condition expression: evaluated before every iteration
+- the post statement: executed at the end of every iteration
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/tour/flowcontrol/1'>For Loop in Golang</BadgeLink>

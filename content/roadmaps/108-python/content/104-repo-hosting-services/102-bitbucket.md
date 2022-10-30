@@ -1,12 +1,8 @@
-# Bitbucket
+# BitBucket
 
-Bitbucket是一个基于Git的托管和源代码库服务，是Atlassian对其他产品如GitHub、GitLab等的替代。
-
-Bitbucket通过Bitbucket云（Atlassian的服务器）、Bitbucket服务器（客户的内部环境）或Bitbucket数据中心（客户内部环境或云环境中的服务器数量）提供托管选项。
+[BitBucket](https://bitbucket.com) is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://bitbucket.org/product'>Bitbucket Website</BadgeLink>
-<BadgeLink badgeText='Course' colorScheme='green' href='https://bitbucket.org/product/guides/basics/bitbucket-interface'>Getting started with Bitbucket</BadgeLink>
-<BadgeLink badgeText='Course' colorScheme='green' href='https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud'>Using Git with Bitbucket Cloud</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket'>A brief overview of Bitbucket</BadgeLink>
 
+<BadgeLink badgeText='Visit' colorScheme="green" href='https://bitbucket.com/'>BitBucket Website</BadgeLink>
+<BadgeLink badgeText='Read' href='https://bitbucket.org/product/guides'>How to use BitBucket?</BadgeLink>

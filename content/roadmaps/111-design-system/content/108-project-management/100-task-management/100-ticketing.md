@@ -1,3 +1,3 @@
-# 任务管理
+# Ticketing
 
-通过使用Jira、Trello或GitHub等票据软件，让你更容易跟踪你的日常进展。这将使其他人更容易提交功能建议或错误报告。
+Make it easier to track your day-to-day progress by using ticketing software like Jira, Trello or GitHub. This’ll make it easier for others to submit feature proposals or bug reports.

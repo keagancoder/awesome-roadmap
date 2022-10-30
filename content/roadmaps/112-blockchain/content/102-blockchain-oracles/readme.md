@@ -1,6 +1,6 @@
-# 区块链Oracles
+# Blockchain Oracles
 
-区块链Oracles是一种第三方服务，它将智能合约与外部世界连接起来，主要是将信息从世界中输入，但也有反面的。来自世界的信息封装了多个来源，从而获得去中心化的知识。
+A blockchain oracle is a third-party service that connects smart contracts with the outside world, primarily to feed information in from the world, but also the reverse. Information from the world encapsulates multiple sources so that decentralised knowledge is obtained.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/Blockchain_oracle'>Blockchain Oracle</BadgeLink>

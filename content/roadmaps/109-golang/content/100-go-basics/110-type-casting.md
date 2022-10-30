@@ -1,7 +1,6 @@
-# 类型转换
+# Type Casting
 
-Go不支持自动类型转换，但它允许类型转换，也就是明确改变变量类型的过程。要了解更多关于类型转换的信息，请访问这些资源。
-
+Go doesn't support automatic type conversion, but it allows type casting, which is the process of explicitly changing the variable type. To learn more about typecasting, visit these resources :
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/'>Geeks for Geeks: Type casting</BadgeLink>

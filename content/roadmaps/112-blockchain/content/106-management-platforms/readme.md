@@ -1,3 +1,3 @@
-# 管理平台
+# Management Platforms
 
-在生产环境（主网）中管理智能合约可能被证明是困难的，因为用户必须跟踪不同的版本、区块链、部署等。在这个过程中使用一个工具，可以消除人工跟踪带来的很多风险。
+Managing smart contracts in a production environment (mainnet) can prove difficult as users must keep track of different versions, blockchains, deployments, etc. Using a tool for this process eliminates a lot of the risk that comes with manual tracking.

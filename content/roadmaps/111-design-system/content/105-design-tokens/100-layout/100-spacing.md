@@ -1,3 +1,3 @@
-# 间隔
+# Spacing
 
-水平和垂直的节奏在布局中起着很大的作用。你应该提供简单的方法来增加独立于网格的界面元素之间的空间。
+Horizontal and vertical rhythm plays a big role in a layout. You should provide easy methods for adding space between interface elements independent of your grid.

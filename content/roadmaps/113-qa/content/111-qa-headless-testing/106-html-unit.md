@@ -1,9 +1,8 @@
 # HtmlUnit
 
-HtmlUnit是一个 "Java程序的无GUI浏览器"。它对HTML文档进行建模，并提供一个API，允许你调用页面，填写表格，点击链接等......就像你在 "正常 "浏览器中做的那样。它有相当好的JavaScript支持（正在不断改进），甚至能够与相当复杂的AJAX库一起工作，根据使用的配置模拟Chrome、Firefox或Internet Explorer。
+HtmlUnit is a "GUI-Less browser for Java programs". It models HTML documents and provides an API that allows you to invoke pages, fill out forms, click links, etc... just like you do in your "normal" browser. It has fairly good JavaScript support (which is constantly improving) and is able to work even with quite complex AJAX libraries, simulating Chrome, Firefox or Internet Explorer depending on the configuration used.
 
-HtmlUnit不是一个通用的单元测试框架。它是专门为测试目的而模拟浏览器的一种方式，并打算在另一个测试框架中使用，如JUnit或TestNG。
-
+HtmlUnit is not a generic unit testing framework. It is specifically a way to simulate a browser for testing purposes and is intended to be used within another testing framework such as JUnit or TestNG. 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://htmlunit.sourceforge.io/'>HtmlUnit Website</BadgeLink>

@@ -1,3 +1,3 @@
-# 沟通渠道
+# Communication Channel
 
-大多数产品开发工作都是以数字方式进行的，所以要建立一个数字渠道，让人们可以接触到并提出问题。
+Most product development work happens digitally, so create a digital channel where people can reach out and ask questions.

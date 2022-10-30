@@ -1,6 +1,6 @@
-# 区块链技术的应用和用途
+# Application and uses of Blockchain technology
 
-区块链的应用远远超出了加密货币和比特币。凭借其创造更多透明度和公平性的能力，同时也节省了企业的时间和金钱，该技术正在影响各个行业，从如何执行合同到使政府工作更有效率。
+Blockchain applications go far beyond cryptocurrency and bitcoin. With its ability to create more transparency and fairness while also saving businesses time and money, the technology is impacting a variety of sectors in ways that range from how contracts are enforced to making government work more efficiently.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://consensys.net/blockchain-use-cases/'>Blockchain Use Cases and Applications by Industry</BadgeLink>

@@ -1,3 +1,3 @@
-# 客户端库
+# Client libraries
 
-你不需要从头开始写你项目中的每一个智能合约。有许多开源的智能合约库可以为你的项目提供可重复使用的构建块，可以使你不必重新发明车轮。
+You don't need to write every smart contract in your project from scratch. There are many open source smart contract libraries available that provide reusable building blocks for your project that can save you from having to reinvent the wheel.

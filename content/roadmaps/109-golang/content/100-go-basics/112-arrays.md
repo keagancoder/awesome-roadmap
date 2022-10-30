@@ -1,6 +1,6 @@
-# 数组
+# Arrays
 
-在Go中，"数组 "是相同类型的元素的集合，在创建数组时定义了**固定的**大小。
+In Go an `array` is a collection of elements of the same type with a **fixed** size defined when the array is created.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://go.dev/tour/moretypes/6'>Go Arrays</BadgeLink>

@@ -1,3 +1,3 @@
-# 可及性测试
+# Accessibility Testing
 
-设计系统应该尽可能地涵盖无障碍性。使之成为自动的，可以减少产品中出现不可访问的组件或用户流的风险。
+Design systems should cover accessibility as much as possible. Making this automatic reduces the risk of inaccessible components or user flows in the product.

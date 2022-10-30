@@ -1,6 +1,6 @@
-# 二分搜索树
+# Binary Search Trees
 
-二分搜索树，也称为有序或排序的二进制树，是一种有根的二进制树数据结构，每个内部节点的键都大于各自节点的左子树中的所有值，小于其右子树中的值。
+A binary search tree, also called an ordered or sorted binary tree, is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='red' badgeText='Watch' href='https://www.youtube.com/watch?v=S2W3SXGPVyU'>Tree Data Structure | Illustrated Data Structures</BadgeLink>

@@ -1,3 +1,3 @@
-# 指南
+# Guidelines
 
-提供关于如何和何时使用图标的指南，在使用它们时应注意什么，以及如何不使用它们。
+Provide guidelines on how and when to use icons, what to keep in mind when working with them and how not to use them.

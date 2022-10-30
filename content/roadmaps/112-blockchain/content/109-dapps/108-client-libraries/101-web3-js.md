@@ -1,7 +1,6 @@
 # Web3.js
 
-web3.js是一个库的集合，允许你使用HTTP、IPC或WebSocket与本地或远程以太坊节点互动。
-
+web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://web3js.readthedocs.io/'>web3.js Documentation</BadgeLink>

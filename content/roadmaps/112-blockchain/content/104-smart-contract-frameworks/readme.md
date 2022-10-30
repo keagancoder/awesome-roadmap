@@ -1,6 +1,6 @@
-# 智能合约框架
+# Smart Contract Frameworks
 
-建立一个成熟的dapp需要不同的技术。软件框架包括许多所需的功能，或提供简单的插件系统来挑选你想要的工具。
+Building a full-fledged dapp requires different pieces of technology. Software frameworks include many of the needed features or provide easy plugin systems to pick the tools you desire.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/frameworks/'>dApp Development Frameworks</BadgeLink>

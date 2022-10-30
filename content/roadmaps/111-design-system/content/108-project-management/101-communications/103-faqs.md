@@ -1,3 +1,3 @@
-# 常见问题
+# FAQs
 
-为了节省大家的时间，定义哪些问题是你的听众经常问的，并把它们记录在一个可发现的地方。
+To save everyone time, define which questions are asked frequently by your audience and document them in a discoverable place.

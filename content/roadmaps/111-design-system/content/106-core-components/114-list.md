@@ -1,8 +1,8 @@
-# 列表
+# List
 
-列表定义了页面内容或元素组的布局，将它们垂直或水平地堆叠。
+Lists define the layout of the page content or groups of elements stacking them vertically or horizontally.
 
-- **支持任何类型的内容：**列表可以在任何情况下使用，从页面级别的布局到管理细化组件之间的偏移。嘿嘿，应该与里面使用的任何组件一起工作。
-- **水平堆叠：**列表可用于内联元素，它们必须管理它们的水平堆叠方式，包括处理多行元素之间的偏移。
-- **分割的变体：**带有分割线的列表是许多平台指南建议的最佳做法（特别是在移动端）。
-- **支持可操作的内容：**有时列表被用于分组可触摸的组件，其中列表项的整个区域应该是可点击的。
+- **Support any type of content:** Lists can be used in any context from page-level layout to managing offsets between granular components. hey should work with any component used inside.
+- **Horizontal Stacking:** Lists can be used for inline elements and they have to manage how they’re stacked horizontally, including handling offsets between multiple rows of elements.
+- **Divided Variant:** Lists with dividers are the best practice advised by many platform guidelines (especially on mobile).
+- **Supports Actionable Content:** Sometimes lists are used for grouping tappable components, where the whole area of the list item should be clickable.

@@ -1,7 +1,6 @@
 # Sanic
 
-Tornado是一个用Python编写的可扩展、无阻塞的网络服务器和网络应用程序框架。它是为FriendFeed开发的；该公司在2009年被Facebook收购，不久后Tornado就被开源了。
-
+Sanic is a Python 3.7+ web server and web framework that&#39;s written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://sanic.dev/en/'>Sanic Official Website</BadgeLink>

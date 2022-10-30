@@ -1,3 +1,3 @@
-# 网格关系
+# Grid Relation
 
-将你的图标画在一个与你的网格关系良好的边界框内。这使得与其他UI元素的搭配更好。这方面的一个很好的例子是，图标与文本搭配的边界框。
+Draw your icons in a bounding box that plays well with your grid. This makes for a better pairing with other UI elements. A good example of this would be icons with bounding boxes paired with text.

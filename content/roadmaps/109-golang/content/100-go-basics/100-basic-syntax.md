@@ -1,6 +1,6 @@
-# 基本语法
+# Basic Syntax
 
-了解Go的基本语法，如Go程序的执行方式、包的导入、主函数等。访问下面列出的资源 
+Learn about the basic syntax of Go, such as how the go programs are executed, package imports, main function, and so on. Visit the resources listed below
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/doc/tutorial/getting-started'>Go Tutorial: Getting started</BadgeLink>

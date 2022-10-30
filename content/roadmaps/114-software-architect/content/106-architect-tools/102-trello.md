@@ -1,6 +1,6 @@
 # Trello
 
-Trello是一种可视化的工具，使你的团队能够管理任何类型的项目、工作流程或任务跟踪。
+Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking.
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://trello.com'>Trello</BadgeLink>

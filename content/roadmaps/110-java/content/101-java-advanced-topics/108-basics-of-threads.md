@@ -1,6 +1,7 @@
-# 线程的基础知识
+# Basics of Threads
 
-Java中的线程是指程序执行时的方向或路径。一般来说，所有的程序都至少有一个线程，称为主线程，它是由JVM或Java虚拟机在程序执行开始时提供的。
+A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM or Java Virtual Machine at the starting of the program’s execution
+
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Site' href='https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html'>Threads in Java</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.simplilearn.com/tutorials/java-tutorial/thread-in-java'>An Introduction to Thread in Java</BadgeLink>

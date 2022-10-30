@@ -1,6 +1,6 @@
 # Togaf
 
-TOGAF内容框架提供了一个详细的架构工作产品模型，包括可交付成果、可交付成果中的工件以及工件所代表的架构构件。
+The TOGAF content framework provides a detailed model of architectural work products, including deliverables, artifacts within deliverables, and the architectural building blocks that artifacts represent.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.opengroup.org/togaf'>Official Website</BadgeLink>

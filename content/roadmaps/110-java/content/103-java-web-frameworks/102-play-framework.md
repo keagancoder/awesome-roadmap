@@ -1,6 +1,6 @@
 # Play Framework
 
-Play Framework是一个高生产力的网络应用程序框架，允许采用模型-视图-控制器模式。它是用Scala编写的，但也可用于其他在JVM上编译和运行的编程语言，如Java。
+Play Framework is a high-productivity web application framework that allows the model-view-controller pattern. It is written in Scala but can also be used for other programming languages that are compiled and run on the JVM. e.g.Java.
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.playframework.com/'>Play Framework Website</BadgeLink>

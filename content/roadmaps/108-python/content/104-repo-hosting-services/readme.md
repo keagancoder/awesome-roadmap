@@ -1,9 +1,8 @@
-# 仓库托管服务
+# Repo Hosting Services
 
-当在一个团队中工作时，通常需要一个远程的地方来放置团队的代码，以便其他人可以访问它，创建他们自己的分支，并创建或审查拉动请求。这些服务通常包括问题跟踪、代码审查和持续集成功能。几个流行的选择是GitHub、GitLab、BitBucket和AWS CodeCommit。
+There are different repository hosting services with the most famous one being GitHub, GitLab and BitBucket. I would recommend creating an account on GitHub because that is where most of the OpenSource work is done and most of the developers are.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://github.com/features/'>GitHub</BadgeLink>
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://about.gitlab.com/'>GitLab</BadgeLink>
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://bitbucket.org/product/guides/getting-started/overview'>BitBucket</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://bitbucket.org/product/code-repository'>How to choose the best source code repository</BadgeLink>
+<ResourceGroupTitle>Services Links</ResourceGroupTitle>
+<BadgeLink badgeText='Visit' colorScheme="green" href='https://github.com'>GitHub: Where the world builds software</BadgeLink>
+<BadgeLink badgeText='Visit' href='https://gitlab.com'>GitLab: Iterate faster, innovate together</BadgeLink>
+<BadgeLink badgeText='Visit' href='https://bitbucket.com'>BitBucket: The Git solution for professional teams</BadgeLink>

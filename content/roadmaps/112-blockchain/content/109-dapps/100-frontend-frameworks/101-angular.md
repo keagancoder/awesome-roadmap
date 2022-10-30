@@ -6,8 +6,7 @@
 
 # Angular
 
-Angular是一个基于TypeScript的组件式前端开发框架，它包括一系列集成度高的库，包括路由、表单管理、客户端和服务器通信等功能。
-
+Angular is a component based front-end development framework built on TypeScript which includes a collection of well-integrated libraries that include features like routing, forms management, client-server communication, and more.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://angular.io/start'>Official - Getting started with Angular</BadgeLink>

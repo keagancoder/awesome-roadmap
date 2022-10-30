@@ -1,8 +1,8 @@
-# Java基础知识
+# Java Fundamentals
 
-Java是一种编程语言和计算平台，由Sun Microsystems于1995年首次发布。Java是一种通用的、基于类的、面向对象的编程语言，旨在具有较少的实现依赖性。它是一个用于应用开发的计算平台。因此，Java是快速、安全和可靠的。它被广泛用于开发笔记本电脑、数据中心、游戏机、科学超级计算机、手机等方面的Java应用。
+Java is a programming language and computing platform first released by Sun Microsystems in 1995. Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.
 
-了解Java的基础知识，如基本语法、数据类型、变量、条件反射、函数、数据结构、包等。
+Learn about the fundamentals of Java such as basic syntax, data types, variables, conditionals, functions, data structures, packages, etc. 
 
 <ResourceGroupTitle>Free Resources</ResourceGroupTitle>
 

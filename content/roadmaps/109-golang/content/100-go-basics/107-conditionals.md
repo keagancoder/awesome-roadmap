@@ -1,10 +1,10 @@
-# 条件性语句
+# Conditional Statements
 
-条件语句用于只有在某个条件为真时才运行代码；Go支持.NET和C++。
+Conditional statements are used to run code only if a certain condition is true; go supports :
 
- - `if`语句
- - `if / else`语句
- - `switch``case`语句
+ - `if` statements
+ - `if / else` statements
+ - `switch` `case` statements
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://yourbasic.org/golang/if-else-statement/'>Basic conditional patterns</BadgeLink>

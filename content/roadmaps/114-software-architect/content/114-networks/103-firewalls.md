@@ -1,3 +1,3 @@
-# 防火墙
+# Firewalls
 
-防火墙是一种网络安全设备，它根据一个组织先前制定的安全策略，监控和过滤传入和传出的网络流量。
+A Firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies.

@@ -1,6 +1,6 @@
 # Selenium
 
-Selenium是一个开源的工具，可以使网络浏览器自动化。它提供了一个单一的界面，让你用Ruby、Java、NodeJS、PHP、Perl、Python和C#等编程语言编写测试脚本。
+Selenium is an open-source tool that automates web browsers. It provides a single interface that lets you write test scripts in programming languages like Ruby, Java, NodeJS, PHP, Perl, Python, and C#, among others.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.selenium.dev/'>Selenium's Official Website</BadgeLink>

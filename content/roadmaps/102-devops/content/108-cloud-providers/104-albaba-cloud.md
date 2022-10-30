@@ -1,6 +1,6 @@
-# 阿里云
+# Alibaba Cloud
 
-阿里云是一项云计算服务，提供超过100种产品和服务，在全球24个地区和74个可用区设有数据中心。
+Alibaba Cloud is a cloud computing service, offering over 100 products and services with data centers in 24 regions and 74 availability zones around the world.
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.alibabacloud.com/'>Alibaba Cloud Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://www.alibabacloud.com/help/en/'>Official Documentation</BadgeLink>

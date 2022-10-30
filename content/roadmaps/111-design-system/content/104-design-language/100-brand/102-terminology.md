@@ -1,3 +1,3 @@
-# 术语
+# Terminology
 
-创建需要在整个用户体验中保持一致的标准术语和短语，加快设计过程并统一你的声音。
+Create the standard terms and phrases that need to be kept the same throughout the user experience, speeding up the design process and unifying your voice.

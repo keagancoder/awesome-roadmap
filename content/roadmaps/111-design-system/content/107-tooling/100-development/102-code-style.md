@@ -1,3 +1,3 @@
-# 代码风格
+# Code Style
 
-有一个确定的代码风格有助于调整系统中的代码编写方式，提高开发速度。它应该通过为每个平台提供的工具来实现自动化。
+Having a defined code style helps align the way code’s written in the system and increases development velocity. It should be automated with the tools provided for each platform.

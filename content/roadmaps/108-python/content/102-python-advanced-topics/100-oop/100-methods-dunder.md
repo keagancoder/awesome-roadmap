@@ -1,11 +1,11 @@
 # Methods and Dunder
 
-python中的方法有点类似于函数，只是它与对象/类相关。python中的方法与函数非常相似，但有两个主要区别。
+A method in python is somewhat similar to a function, except it is associated with object/classes. Methods in python are very similar to functions except for two major differences.
 
-* 方法是隐含地用于它被调用的对象。
-* 该方法可以访问包含在类中的数据。
+* The method is implicitly used for an object for which it is called.
+* The method is accessible to data that is contained within the class.
 
-Python中的Dunder或Magic方法是指在方法名中有两个前缀和后缀下划线的方法。Dunder在这里意味着 "双下（Underscores）"。这些方法通常用于运算符重载。一些神奇方法的例子是。__init__, __add__, __len__, __repr__等等。
+Dunder or magic methods in Python are the methods having two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. Few examples for magic methods are: __init__, __add__, __len__, __repr__ etc.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.tutorialspoint.com/difference-between-method-and-function-in-python'>Method vs Function in Python</BadgeLink>

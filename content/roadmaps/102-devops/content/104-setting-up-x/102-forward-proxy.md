@@ -1,13 +1,12 @@
-# 转发代理
+# Forward Proxy
 
-前向代理，通常被称为代理服务器，是一个坐在一群**客户机前面的服务器。当这些计算机向互联网上的网站和服务发出请求时，代理服务器拦截这些请求，然后代表这些客户与网络服务器进行通信，就像一个中间人。
+Forward Proxy, often called proxy server is a server that sits in front of a group of **client machines**. When those computers make requests to sites and services on the Internet, the proxy server intercepts those requests and then communicates with web servers on behalf of those clients, like a middleman.
 
-**常见用途：**
+**Common Uses:**
 
-* 阻止对某些内容的访问
-* 保护客户的在线身份
-* 为组织提供受限的互联网
-
+* To block access to certain content
+* To protect client identity online
+* To provide restricted internet to organizations
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.fortinet.com/resources/cyberglossary/proxy-server'>What is Forward Proxy?</BadgeLink>

@@ -1,5 +1,5 @@
-# Python框架
+# Python Frameworks
 
-框架使通用解决方案的实现自动化，这使得用户可以灵活地专注于应用逻辑，而不是基本的常规过程。
+Frameworks automate the common implementation of common solutions which gives the flexibility to the users to focus on the application logic instead of the basic routine processes.
 
-框架使网络开发者的生活变得更容易，给他们一个应用开发的结构。它们在网络应用中提供通用模式，快速、可靠且易于维护。
+Frameworks make the life of web developers easier by giving them a structure for app development. They provide common patterns in a web application that are fast, reliable and easily maintainable.

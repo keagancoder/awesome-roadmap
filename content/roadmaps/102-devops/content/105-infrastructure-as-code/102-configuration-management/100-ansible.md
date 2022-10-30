@@ -1,6 +1,7 @@
 # Ansible
 
-Ansible是一个开源的配置管理、应用部署和配置工具，使用自己的YAML声明性语言。Ansible是无代理的，这意味着你只需要通过SSH或通过Powershell的Windows远程管理进行远程连接，就可以发挥作用。
+Ansible is an open-source configuration management, application deployment and provisioning tool that uses its own declarative language in YAML. Ansible is agentless, meaning you only need remote connections via SSH or Windows Remote Management via Powershell in order to function
+
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.ansible.com/'>Ansible Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.ansible.com/'>Official Documentation</BadgeLink>

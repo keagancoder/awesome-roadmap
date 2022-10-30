@@ -1,3 +1,3 @@
-# 深色模式
+# Dark Mode
 
-为你的调色板准备一个黑暗模式版本，将使你的设计系统能够适应黑暗模式，并尊重你的用户想要看到的东西。
+Preparing a dark mode version of your colour palette will allow your design system to adapt to dark mode and respect what your user wants to see.

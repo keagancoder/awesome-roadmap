@@ -1,6 +1,6 @@
-# 组件库
+# Component Library
 
-组件库是一个网站、软件或应用程序中使用的所有组件的集合。以下是展示和浏览组件库中的一些常用工具。
+A component library is a collection of all the components used in a website, software or app. Some of the common tools to showcase and browse components in a component library include are given below:
 
 <BadgeLink colorScheme='yellow' badgeText='Visit' href='https://patternlab.io/'>Pattern Lab</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Visit' href='https://fractal.build/'>Fractal</BadgeLink>

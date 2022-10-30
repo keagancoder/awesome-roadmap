@@ -1,6 +1,6 @@
-# 内存管理
+# Memory Management
 
-在Java中，内存管理是对对象进行分配和取消分配的过程，称为内存管理。
+In Java, memory management is the process of allocation and de-allocation of objects, called Memory management.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>   
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/java-memory-management/'>Java Memory Management</BadgeLink>

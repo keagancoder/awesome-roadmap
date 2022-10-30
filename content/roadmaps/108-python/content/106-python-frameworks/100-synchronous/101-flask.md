@@ -1,6 +1,6 @@
 # Flask
 
-Flask是一个用Python编写的微型网络框架。它被归类为一个微框架，因为它不需要特定的工具或库。它没有数据库抽象层、表单验证或其他任何预先存在的第三方库提供通用功能的组件。
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://flask.palletsprojects.com/'>Flask - Official Website</BadgeLink>

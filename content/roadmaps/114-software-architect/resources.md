@@ -1,7 +1,7 @@
-> **我们仍在准备资源**。请稍后再查看，或[订阅以获得通知](/signup)。
+> **We are still preparing the resources**. Please check back later or [subscribe to get notified](/signup).
 
-在我们准备清单的时候，请遵循这个简单的建议来学习任何东西
+While we prepare the list, follow this simple advice to learn anything
  
-> 只要**选择一个项目并开始工作**，你就会在这个过程中学习到你需要的一切。
+> Just **pick a project and start working on it**, you will learn all that you need along the way.
 
-**&rarr;** &nbsp; [所有路线图](/roadmaps) &nbsp;&bull;&nbsp; [编程指南](/guides) &nbsp;&bull;&nbsp; [订阅](/signup)
+**&rarr;** &nbsp; [All Roadmaps](/roadmaps) &nbsp;&bull;&nbsp; [Programming guides](/guides) &nbsp;&bull;&nbsp; [Subscribe](/signup)

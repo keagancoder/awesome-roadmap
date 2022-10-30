@@ -1,6 +1,6 @@
 # PyPI
 
-PyPI，通常发音为pie-pee-eye，是一个包含几十万个软件包的资源库。这些包从琐碎的Hello, World实现到高级的深度学习库。
+PyPI, typically pronounced pie-pee-eye, is a repository containing several hundred thousand packages. These range from trivial Hello, World implementations to advanced deep learning libraries.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://pypi.org/'>PyPI Official Website</BadgeLink>

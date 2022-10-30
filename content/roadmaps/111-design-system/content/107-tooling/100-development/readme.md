@@ -1,3 +1,3 @@
-#开发
+# Development
 
-开发一个设计系统的主要挑战之一并不是建立组件。而是使你的代码稳定，易于阅读和贡献。
+One of the main challenges in developing a design system isn’t building the components. It’s making your code stable, easy to read and contribute to.

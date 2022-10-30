@@ -1,6 +1,6 @@
 # Jenkins
 
-Jenkins是一个开源的CI/CD自动化服务器。Jenkins主要用于构建项目、运行测试、静态代码分析和部署。
+Jenkins is an open-source CI/CD automation server. Jenkins is primarily used for building projects, running tests, static code analysis and deployments.
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.jenkins.io/'>Jenkins Website</BadgeLink>
 <BadgeLink badgeText='Official Hanbook' colorScheme='blue' href='https://www.jenkins.io/doc/book/'>Official Jenkins Handbook</BadgeLink>

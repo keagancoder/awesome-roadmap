@@ -1,6 +1,6 @@
 # Streams
 
-Java在Java 8中提供了一个新的附加包，叫做java.util.stream。这个包由类、接口和枚举组成，允许对元素进行功能式操作。你可以通过导入java.util.stream包来使用流。
+Java provides a new additional package in Java 8 called java.util.stream. This package consists of classes, interfaces and enum to allows functional-style operations on the elements. You can use stream by importing java.util.stream package.
 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>   

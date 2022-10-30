@@ -1,6 +1,6 @@
-# 代码覆盖率
+# Code Coverage
 
-代码覆盖率是一个指标，可以帮助你了解你的源代码有多少被测试。这是一个非常有用的指标，可以帮助你评估你的测试套件的质量。
+Code coverage is a metric that can help you understand how much of your source is tested. It's a very useful metric that can help you assess the quality of your test suite.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/smart-contracts/testing/'>Testing Smart Contracts</BadgeLink>

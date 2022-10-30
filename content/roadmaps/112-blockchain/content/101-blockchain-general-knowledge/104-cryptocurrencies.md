@@ -1,6 +1,6 @@
-# 加密货币
+# Cryptocurrencies
 
-加密货币、加密货币或加密货币是一种数字货币，旨在通过区块链作为交换媒介，它不依赖任何中央机构，如政府或银行，来维护或维持它。
+A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a blockchain, which is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.investopedia.com/terms/c/cryptocurrency.asp'>What Is Cryptocurrency?</BadgeLink>

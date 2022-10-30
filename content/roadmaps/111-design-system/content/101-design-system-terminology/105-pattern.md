@@ -1,3 +1,3 @@
-# 模式
+# Pattern
 
-模式是针对特定的以用户为中心的任务和页面类型的最佳实践设计方案。模式通常使用一个或多个组件，并解释如何使它们适应环境。一些示例模式可以是用户登录到应用程序或执行结账操作。
+Patterns are best practice design solutions for specific user-focused tasks and page types. Patterns often use one or more components and explain how to adapt them to the context. Some sample patterns could be user signing in to the application or performing the checkout operation.

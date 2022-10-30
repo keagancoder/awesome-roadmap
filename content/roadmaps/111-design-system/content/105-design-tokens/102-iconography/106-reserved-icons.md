@@ -1,3 +1,3 @@
-# 保留的图标
+# Reserved Icons
 
-保留代表常见操作的图标将阻止它们在任何其他情况下使用。用于导航或添加和删除的系统图标就是一个好例子。这将导致一个更直观的用户体验。
+Reserving icons that represent common actions will prevent their use in any other context. System icons for navigation or adding and deleting are a good example. This leads to a more intuitive user experience.

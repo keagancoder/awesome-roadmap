@@ -1,6 +1,6 @@
-# 区块链分叉
+# Blockchain forking
 
-每当一个社区对区块链的协议，或基本规则集进行修改时，就会发生分叉。
+A fork happens whenever a community makes a change to the blockchain’s protocol, or basic set of rules.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/Fork_(blockchain)'>Blockchain Fork</BadgeLink>

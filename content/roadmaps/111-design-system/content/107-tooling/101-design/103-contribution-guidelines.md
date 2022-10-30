@@ -1,3 +1,3 @@
-# 贡献指南
+# Contribution Guidelines
 
-定义对设计系统的用户界面和用户体验的贡献过程，并将其记录在一个可发现的地方，使每个人都能更容易地做出贡献。
+Define the process of contributing to the UI and UX of the design system and document it in a discoverable place to make it easier for everyone to contribute.

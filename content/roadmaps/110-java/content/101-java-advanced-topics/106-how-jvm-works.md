@@ -1,6 +1,6 @@
-# Streams
+# How JVM Works
 
-Java在Java 8中提供了一个新的附加包，叫做java.util.stream。这个包由类、接口和枚举组成，允许对元素进行功能式操作。你可以通过导入java.util.stream包来使用流。                                                                                                   
+The Java Virtual Machine is a program whose purpose is to execute other programs. JVMs are available for many hardware and software platforms (i.e. JVM is platform dependent). JVM is the one that actually calls the main method present in a java code. JVM is a part of JRE(Java Runtime Environment)                                                                                                     
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Site' href='https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html'>Packages in Java</BadgeLink>

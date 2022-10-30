@@ -1,6 +1,6 @@
-# 正则表达式
+# Regular Expressions
 
-正则表达式是一个字符序列，用于指定文本中的搜索模式。通常，这种模式被字符串搜索算法用来对字符串进行 "查找 "或 "查找和替换 "操作，或用于输入验证。
+A regular expression is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Reference' href='https://docs.python.org/3/library/re.html'>Regular Expressions in Python</BadgeLink>

@@ -1,13 +1,13 @@
-# 面向服务的
+# Service oriented
 
-面向服务的架构（SOA）是一种企业范围内的应用组件软件开发方法，它利用了可重用的软件组件，或服务。
+Service-oriented architecture (SOA) is an enterprise-wide approach to software development of application components that takes advantage of reusable software components, or services.
 
-SOA提供了四种不同的服务类型。
+SOA provides four different service types:
 
-1. 功能性服务（即商业服务），这对商业应用至关重要。
-2. 企业服务，用于实现功能。
-3. 应用服务，用于开发和部署应用程序。
-4. 4.基础设施服务，它对安全和认证等后端流程很重要。
+1. Functional services (i.e., business services), which are critical for business applications.
+2. Enterprise services, which serve to implement functionality.
+3. Application services, which are used to develop and deploy apps.
+4. Infrastructure services, which are instrumental for backend processes like security and authentication.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://aws.amazon.com/what-is/service-oriented-architecture/'>SOA Architecture By AWS</BadgeLink>

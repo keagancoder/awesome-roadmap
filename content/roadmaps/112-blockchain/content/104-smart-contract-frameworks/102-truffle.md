@@ -1,6 +1,6 @@
 # Truffle
 
-一个使用以太坊虚拟机（EVM）的区块链开发环境、测试框架和资产管道，旨在让开发者的生活更轻松。
+A development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://trufflesuite.com/docs/truffle/'>Truffle Overview</BadgeLink>

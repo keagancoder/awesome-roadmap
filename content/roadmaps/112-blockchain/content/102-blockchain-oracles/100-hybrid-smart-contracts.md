@@ -1,7 +1,6 @@
-# 混合智能合约
+# Hybrid Smart Contracts
 
-混合智能合约将运行在区块链上的代码（链上）与来自区块链外（链外）的数据和计算相结合，由去中心化的Oracle网络提供。
-
+Hybrid smart contracts combine code running on the blockchain (on-chain) with data and computation from outside the blockchain (off-chain) provided by Decentralized Oracle Networks.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://blog.chain.link/hybrid-smart-contracts-explained/'>Hybrid Smart Contracts Explained</BadgeLink>

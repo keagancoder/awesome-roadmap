@@ -1,3 +1,3 @@
-# 网格关系
+# Grid Relation
 
-字体大小和前导应该与你的网格相匹配，以便让文本和其他UI元素之间更好地配对。这方面的一个很好的例子是文本与带有边界框的图标配对。
+Font sizes and leading should match your grid to allow better pairing between text and other UI elements. A good example of this is text paired with icons with bounding boxes.

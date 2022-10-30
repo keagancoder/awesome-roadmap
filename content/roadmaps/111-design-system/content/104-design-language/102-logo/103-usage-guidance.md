@@ -1,3 +1,3 @@
-# 使用指南
+# Usage Guidance
 
-这些是标志的罪行，提供了关于如何（不）使用你的标志的背景例子。
+These are the logo crimes, providing contextual examples of what to (not) do with your logo.

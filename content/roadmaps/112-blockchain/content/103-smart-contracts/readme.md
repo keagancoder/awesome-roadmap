@@ -1,6 +1,6 @@
-# 智能合约
+# Smart Contracts
 
-智能合约是一种计算机程序或交易协议，旨在根据合同或协议的条款自动执行、控制或记录法律上的相关事件和行动。
+A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.blockchain.education/blockchain101/smart-contracts'>Smart Contracts Introduction</BadgeLink>

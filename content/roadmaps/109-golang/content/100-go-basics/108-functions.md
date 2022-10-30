@@ -1,11 +1,11 @@
-# 函数
+# Functions
 
-发现Go中的函数是如何工作的，下面的资源列表将涵盖:
+Discover how functions work in Go, the list of resources below will cover :
 
- - 如何在Go中定义和调用函数？
- - 在Go中命名的返回？
- - 处理多种返回类型。
- - Go中不同类型的函数。
+ - How to define and call functions in Go?
+ - Named returns in Go?
+ - Handle multiple return types.
+ - Different types of functions in Go.
  
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://gobyexample.com/functions'>Go by Example: Functions</BadgeLink>

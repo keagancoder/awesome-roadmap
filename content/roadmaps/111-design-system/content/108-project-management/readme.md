@@ -1,3 +1,3 @@
-# 项目管理
+# Project Management
 
-设计系统与你的团队可能承担的任何其他项目没有什么不同。为了成功地建立和维护一个，你需要一个明确的策略，每天都要很好地执行，你需要为你的同事创造机会，让他们提供反馈，以帮助共同分享你的设计系统。
+Design systems are no different than any other project your team might take on. In order to successfully build and maintain one, you need a clear strategy that’s well executed daily, and you‘ll need to create opportunities for your colleagues to give feedback to help share your design system together.

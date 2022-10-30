@@ -1,6 +1,6 @@
-# 保险
+# Insurance
 
-区块链技术有能力通过使用甲骨文来验证真实世界的数据，从而使索赔功能自动化。它还能使各方之间的索赔支付自动化，从而降低保险公司的管理成本。
+Blockchain technology has the ability to automate claims functions by verifying real-world data through the use of an oracle. It also automates payments between parties for claims and thus lower administrative costs for insurance companies.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://blog.chain.link/smart-contract-use-cases/#insurance'>Smart Contract Use Cases - Insurance</BadgeLink>

@@ -1,9 +1,8 @@
-# ERC令牌
+# ERC Tokens
 
-以太坊评论请求"（ERC）是程序员用来在以太坊区块链上编写智能合约的文件。他们在这些文件中描述了基于Ethereum的令牌必须遵守的规则。
+An ‘Ethereum Request for Comments’ (ERC) is a document that programmers use to write smart contracts on Ethereum Blockchain. They describe rules in these documents that Ethereum-based tokens must comply with.
 
-虽然有几个Ethereum标准。这些ERC以太坊标准是最知名和流行的。ERC-20, ERC-721, ERC-1155, 和ERC-777。
-
+While there are several Ethereum standards. These ERC Ethereum standards are the most well-known and popular: ERC-20, ERC-721, ERC-1155, and ERC-777.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://dev.to/envoy_/ks-what-are-ethereum-request-for-comments-erc-standards-5f80'>What are Ethereum request for comments (ERC) Standards</BadgeLink>

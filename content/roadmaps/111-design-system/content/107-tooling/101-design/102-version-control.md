@@ -1,3 +1,3 @@
-# 版本控制
+# Version Control
 
-使用语义版本控制对你的设计进行版本控制，将使你能够轻松地使设计与开发保持一致，回滚有问题的修改，并同时发布代码和设计的修改。
+Having your design versioned with semantic versioning will allow you to easily align design with development, roll back faulty changes and release changes in code and design at the same time.

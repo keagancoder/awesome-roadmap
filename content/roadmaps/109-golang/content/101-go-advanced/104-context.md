@@ -1,6 +1,6 @@
 # Context
 
-`context`包提供了一种标准的方式来解决在请求过程中管理状态的问题。该包满足了对请求范围数据的需求，并提供了一种标准化的方式来处理。最后期限，取消信号，等等。
+The `context` package provides a standard way to solve the problem of managing state during a request. The package satisfies the need for request scoped data and provides a standardized way to handle: Deadlines, Cancellation Signals, etc.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://youtu.be/h2RdcrMLQAo'>Understanding Contexts in Go</BadgeLink>

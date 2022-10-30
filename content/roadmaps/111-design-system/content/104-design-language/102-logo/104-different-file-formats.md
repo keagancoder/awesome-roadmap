@@ -1,3 +1,3 @@
-# 不同的文件格式
+# Different File Formats
 
-为你的标志的矢量版提供各种格式，将使其他人更容易工作，并防止任何人重新绘制它。
+Providing a variety of formats for the vector version of your logo will make it easier for others to work and prevent anyone from redrawing it.

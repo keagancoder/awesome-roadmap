@@ -1,6 +1,6 @@
-# 验证和确认
+# Verification and Validation
 
-了解核查和验证之间的区别，并理解何时应用以及应用什么。
+Understand the difference between Verification and Validation and understand when and what to apply.
 
-- **验证：**我们是否以正确的方式构建产品？
-- **验证：**我们是否正在构建正确的产品？
+- **Verification:** Are we building the product in the right way?
+- **Validation:** Are we building the right product?

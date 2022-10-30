@@ -1,7 +1,6 @@
-# 软件包
+# Packages
 
-包是Go语言中最强大的部分。包的目的是设计和维护大量的程序，将相关的功能组合成单一的单元，使它们能够易于维护和理解，并独立于其他包的程序。这种模块化使它们能够共享和重复使用。在Go语言中，每个包都被定义了一个不同的名字，这个名字与它们的功能相近，比如 "字符串 "包，它包含了只与字符串相关的方法和函数。
-
+Packages are the most powerful part of the Go language. The purpose of a package is to design and maintain a large number of programs by grouping related features together into single units so that they can be easy to maintain and understand and independent of the other package programs. This modularity allows them to share and reuse. In Go language, every package is defined with a different name and that name is close to their functionality like “strings” package and it contains methods and functions that only related to strings.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.golang-book.com/books/intro/11'>How to create a package in Go</BadgeLink>

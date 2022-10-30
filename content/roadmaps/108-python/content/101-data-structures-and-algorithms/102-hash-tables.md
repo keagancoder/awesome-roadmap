@@ -1,7 +1,6 @@
-# 哈希表
+# Hash Tables
 
-Hash Table, Map, HashMap, Dictionary或Associative都是同一个数据结构的名称。它是一种实现集合抽象数据类型的数据结构，是一种可以将键映射到值的结构。
-
+Hash Table, Map, HashMap, Dictionary or Associative are all the names of the same data structure. It is a data structure that implements a set abstract data type, a structure that can map keys to values.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='red' badgeText='Watch' href='https://www.youtube.com/watch?v=jalSiaIi8j4'>Hash Table Data Structure | Illustrated Data Structures</BadgeLink>

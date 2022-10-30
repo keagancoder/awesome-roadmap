@@ -1,7 +1,6 @@
-# HTML基础知识
+# HTML Basics
 
-HTML是超文本标记语言的缩写。它在前端使用，为网页提供结构，你可以用CSS进行样式设计，用JavaScript进行交互。
-
+HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.w3schools.com/html/html_intro.asp'>W3Schools: Learn HTML</BadgeLink>

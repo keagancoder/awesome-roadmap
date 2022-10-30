@@ -1,6 +1,6 @@
 # Revel
 
-Revel将端点组织成控制器。它们提供了简单的数据绑定和表单验证。Revel使Go模板在规模上的使用变得简单。注册功能，在行动之前或之后调用。
+Revel organizes endpoints into Controllers. They provide easy data binding and form validation. Revel makes Go Templates simple to use at scale. Register functionality to be called before or after actions.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://revel.github.io/tutorial/index.html'>Revel</BadgeLink>

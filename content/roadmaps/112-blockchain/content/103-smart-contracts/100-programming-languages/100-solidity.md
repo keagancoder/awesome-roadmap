@@ -1,11 +1,11 @@
 # Solidity
 
-Solidity是一种面向对象的编程语言，由Ethereum Network团队专门创建，用于在各种区块链平台上构建智能合约，最主要的是Ethereum。
+Solidity is an object-oriented programming language created specifically by Ethereum Network team for constructing smart contracts on various blockchain platforms, most notably, Ethereum.
 
-* 它被用来创建智能合约，实现商业逻辑，并在blochain系统中生成交易记录链。
-* 它作为一个工具，用于创建机器级代码，并在以太坊虚拟机（EVM）上进行编译。
+* It's used to create smart contracts that implements business logic and generate a chain of transaction records in the blochain system.
+* It acts as  a tool for creating machine-level code and compilling it on the Ethereum Vitural Machine (EVM).
 
-像其他编程语言一样，Solidity也有变量、函数、类、算术运算、字符串操作等等。
+Like any other programming languages, Solidity also has variables, functions, classes, arithmetic operations, string manipulation, and many more.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://soliditylang.org/'>Solidity Programming Language</BadgeLink>

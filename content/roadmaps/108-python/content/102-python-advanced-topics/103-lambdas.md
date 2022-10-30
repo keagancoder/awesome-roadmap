@@ -1,7 +1,6 @@
 # Lambdas
 
-Python Lambda函数是匿名函数，意味着该函数没有名字。我们已经知道，def关键字用于定义Python中的一个普通函数。同样地，lambda关键字也用来定义Python中的匿名函数。
-.
+Python Lambda Functions are anonymous function means that the function is without a name. As we already know that the def keyword is used to define a normal function in Python. Similarly, the lambda keyword is used to define an anonymous function in Python.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/'>Python Lambda Functions</BadgeLink>

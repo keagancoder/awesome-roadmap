@@ -1,6 +1,6 @@
 # Google Cloud
 
-谷歌云是谷歌提供的云计算服务，提供超过150种产品/服务可供选择。谷歌云在谷歌内部用于其终端用户产品的相同基础设施上运行，如搜索、Gmail、谷歌硬盘和YouTube。
+Google Cloud is Google's cloud computing service offering, providing over 150 products/services to choose from. Google Cloud runs on the same infrastructure that Google uses internally for its end-user products, such as Search, Gmail, Google Drive, and YouTube.
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://cloud.google.com/'>Google Cloud Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://cloud.google.com/docs'>Official Documentation</BadgeLink>

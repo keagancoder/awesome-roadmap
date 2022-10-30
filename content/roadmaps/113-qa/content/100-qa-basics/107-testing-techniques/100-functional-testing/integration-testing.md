@@ -1,5 +1,6 @@
-# 集成测试
+# Integration Testing
 
-集成测试是一种测试类型，软件模块在逻辑上被集成，并作为一个群体进行测试。一个典型的软件项目包括由不同程序员编码的多个软件模块。这种测试水平的目的是在这些软件模块被集成时，暴露出它们之间的交互缺陷。集成测试的重点是检查这些模块之间的数据通信。
+Integration Testing is a type of testing where software modules are integrated logically and tested as a group. A typical software project consists of multiple software modules coded by different programmers. This testing level aims to expose defects in the interaction between these software modules when they are integrated. Integration Testing focuses on checking data communication amongst these modules.
+
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/integration-testing.html'>Integration Testing Tutorial</BadgeLink>

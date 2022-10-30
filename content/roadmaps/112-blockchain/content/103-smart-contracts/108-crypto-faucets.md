@@ -1,9 +1,8 @@
-# 加密货币水龙头
+# Crypto Faucets
 
-一个加密货币水龙头让用户通过完成简单的任务获得小的加密货币奖励。这个比喻是基于即使是漏水的水龙头的一滴水最终也能装满一个杯子。有各种类型的加密货币龙头，包括比特币（BTC）、以太坊（ETH）和BNB龙头。
+A crypto faucet lets users earn small crypto rewards by completing simple tasks. The metaphor is based on how even one drop of water from a leaky faucet could eventually fill up a cup. There are various kinds of crypto faucets, including bitcoin (BTC), Ethereum (ETH), and BNB faucets.
 
-水龙头在开发环境中很常见，开发者在主网部署前获得测试网的加密货币，以开发和测试其应用程序。
-
+Faucets are common in development environments where developers obtain testnet crypto in order develop and test their application prior to mainnet deployment.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://academy.binance.com/en/articles/what-is-a-crypto-faucet'>What Is A Crypto Faucet?</BadgeLink>

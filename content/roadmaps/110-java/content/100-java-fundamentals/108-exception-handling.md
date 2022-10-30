@@ -1,6 +1,6 @@
-# 异常处理
+# Exception Handling
 
-Java中的异常处理是处理运行时错误的有效手段之一，这样就可以保留应用程序的正常流程。Java异常处理是一种处理运行时错误的机制，如ClassNotFoundException, IOException, SQLException, RemoteException等。
+Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/exceptions-in-java/'>Exception Handling - G4G</BadgeLink>

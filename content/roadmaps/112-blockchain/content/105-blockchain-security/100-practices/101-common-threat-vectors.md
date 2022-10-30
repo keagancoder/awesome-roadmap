@@ -1,7 +1,6 @@
-# 常见的威胁媒介
+# Common Threat Vectors
 
-智能合约审计使开发人员能够对智能合约集进行彻底分析。智能合约审计的主要目标是检测和消除漏洞，从最常见的威胁载体开始。
-
+Smart contract audits enable developers to provide a thorough analysis of smart contract sets. The main goal of a smart contract audit is to detect and eliminate vulnerabilities, starting with the most common threat vectors.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://github.com/kadenzipfel/smart-contract-attack-vectors'>Smart Contract Attack Vectors</BadgeLink>

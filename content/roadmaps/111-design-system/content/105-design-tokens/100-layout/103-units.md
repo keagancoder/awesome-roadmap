@@ -1,3 +1,3 @@
-# 单位
+# Units
 
-单位是布局中最细化的构建模块。定义一组具有一致增量的数值（如4、8、12和16的4点系统）将为你在设计网格和间隔值时提供基础。
+Units are the most granular building blocks for layout. Defining a set of values with consistent increments (such as 4, 8, 12 and 16 for a 4-point system) will provide you with the foundation when you’re designing your grid and spacing values.

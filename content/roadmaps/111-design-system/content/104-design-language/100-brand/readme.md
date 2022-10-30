@@ -1,3 +1,3 @@
-# 品牌
+# Brand
 
-品牌驱动着你在建立新产品或功能时做出的每一项决定。一个好的品牌远不止是一个名字和一个标志。它是定义你独特身份的价值观，是使你从他人中脱颖而出的原因。
+Brand drives every single decision you make when building new products or features. A good brand is much more than a name and a logo. It’s the values that define your unique identity and what makes you stand out from others.

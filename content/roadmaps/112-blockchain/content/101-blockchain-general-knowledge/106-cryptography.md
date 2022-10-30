@@ -1,7 +1,6 @@
-# 密码学
+# Cryptography
 
-密码学，或称密码学，是对存在对抗行为的安全通信技术的实践和研究。
-
+Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of adversarial behavior. 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/Cryptography'>Cryptography</BadgeLink>

@@ -1,8 +1,8 @@
-# 架构各个的层次
+# Levels of Architecture
 
-架构可以在几个抽象的 "层次 "上进行。层次影响到必要技能的重要性。由于有许多可能的分类，我最喜欢的细分包括这3个层次。
+Architecture can be done on several “levels” of abstractions. The level influences the importance of necessary skills. As there are many categorizations possible my favorite segmentation includes these 3 levels:
 
-**应用层次：**最低的架构层次。专注于一个单一的应用。非常详细，低水平的设计。沟通通常是在一个开发团队内进行。
-**解决方案层：**架构的中间层次。专注于一个或多个满足业务需求的应用程序（业务解决方案）。一些高层次的，但主要是低层次的设计。沟通是在多个开发团队之间。
-**企业级：**最高级别的架构。专注于多种解决方案。高水平的、抽象的设计，需要由解决方案或应用架构师来详细说明。沟通是跨组织的。
+* **Application Level:** The lowest level of architecture. Focus on one single application. Very detailed, low level design. Communication is usually within one development team.
+* **Solution Level:** The mid-level of architecture. Focus on one or more applications which fulfill a business need (business solution). Some high, but mainly low-level design. Communication is between multiple development teams.
+* **Enterprise Level:** The highest level of architecture. Focus on multiple solutions. High level, abstract design, which needs to be detailed out by solution or application architects. Communication is across the organization.
 

@@ -1,9 +1,8 @@
 # Ethereum
 
-以太坊是一个可编程的区块链平台，有能力支持智能合约、dapp（去中心化应用）和其他DeFi项目。以太坊的原生代币是以太币（ETH），它被用来推动区块链上的操作。
+Ethereum is a programmable blockchain platform with the capacity to support smart contracts, dapps (decentralized apps), and other DeFi projects. The Ethereum native token is the Ether (ETH), and it’s used to fuel operations on the blockchain.
 
-以太坊平台于2015年推出，它现在是仅次于比特币（BTC）的第二大加密货币形式。
-
+The Ethereum platform launched in 2015, and it’s now the second largest form of crypto next to Bitcoin (BTC).
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/whitepaper/'>Ethereum whitepaper</BadgeLink>

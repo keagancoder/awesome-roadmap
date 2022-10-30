@@ -1,7 +1,6 @@
-# # Arrays and Linked lists
+# Arrays and Linked lists
 
-数组将元素存储在连续的内存位置上，从而使所存储的元素的地址容易计算，这使得对特定索引的元素的访问更加快速。链表的存储结构不那么严格，元素通常不存储在连续的位置上，因此它们需要用额外的标签来存储，以提供对下一个元素的引用。数据存储方案的这种差异决定了哪种数据结构更适合于特定的情况。
-
+Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index. Linked lists are less rigid in their storage structure and elements are usually not stored in contiguous locations, hence they need to be stored with additional tags giving a reference to the next element. This difference in the data storage scheme decides which data structure would be more suitable for a given situation.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.geeksforgeeks.org/linked-list-vs-array/'>Linked Lists vs Arrays</BadgeLink>

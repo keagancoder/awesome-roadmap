@@ -1,14 +1,14 @@
-# 重要技能
+# Important Skills
 
-为了支持所规定的活动，需要特定的技能。根据我的经验，通过阅读书籍和讨论，我们可以将其归结为每个软件架构师应该具备的十种技能。
+To support the laid-out activities specific skills are required. From my experience, read books and discussions we can boil this down to these ten skills every software architect should have:
 
-* 设计 
-* 决定 
-* 简化 
-* 编码 
-* 文档 
-* 沟通 
-* 估算 
-* 平衡 
-* 咨询 
-* 市场
+* Design 
+* Decide 
+* Simplify 
+* Code 
+* Document 
+* Communicate 
+* Estimate 
+* Balance 
+* Consult 
+* Market

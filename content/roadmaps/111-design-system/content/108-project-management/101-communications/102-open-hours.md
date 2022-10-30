@@ -1,3 +1,3 @@
-# 开放时间
+# Open Hours
 
-创造开放时间，让你的听众在一个更私密的环境中参与，你可以更详细地讨论事情。你也可以把这些作为同行编码或同行设计的机会。
+Create open hours in which you can engage your audience in a more private setting where you can discuss things in more detail. You can also use these as peer coding or peer design opportunities.

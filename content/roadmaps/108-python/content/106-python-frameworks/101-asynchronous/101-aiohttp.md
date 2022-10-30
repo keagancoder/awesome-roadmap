@@ -1,6 +1,6 @@
 # AIOHTTP
 
-aiohttp是一个Python 3.5+库，它提供了一个简单而强大的异步HTTP客户端和服务器实现。
+aiohttp is a Python 3.5+ library that provides a simple and powerful asynchronous HTTP client and server implementation.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://docs.aiohttp.org/en/stable/'>Official Docs</BadgeLink>

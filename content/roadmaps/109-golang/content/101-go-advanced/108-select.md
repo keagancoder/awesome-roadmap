@@ -1,6 +1,6 @@
 # Select
 
-`select` 语句类似于 `case` 语句，但主要用于处理从多个通道的读取。
+The `select` statement is similar to a `case` statement, but is primarily used for handling reading from multiple channels.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://gobyexample.com/select'>Go by Example: Select</BadgeLink>

@@ -1,5 +1,5 @@
-# 构建工具
+# Build Tools
 
-构建工具是一种程序或命令行工具，它能使软件的编译、组装和部署过程自动化。
+A build tool is a program or command-line utility that automates the process of compiling, assembling, and deploying software.
 
-构建工具不仅限于编译代码；它们还可以帮助进行软件包管理、依赖性处理和持续集成系统。
+Build tools are not only limited to compiling code; they can also help with package management, dependency handling, and continuous integration systems.

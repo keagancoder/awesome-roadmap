@@ -1,6 +1,6 @@
-# 零知识滚动和零知识证明
+# Zero Knowledge Rollups and Zero Knowledge Proof
 
-零知识滚动（ZK-rollups）是第二层的扩展解决方案，通过将计算和状态存储转移到链外来增加区块链的吞吐量。
+Zero-knowledge rollups (ZK-rollups) are layer 2 scaling solutions that increase the throughput of a blockchain by moving computation and state-storage off-chain.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/scaling/zk-rollups'>Zero-Knowledge Rollups - Ethereum</BadgeLink>

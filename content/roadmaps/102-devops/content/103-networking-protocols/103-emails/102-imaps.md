@@ -1,8 +1,8 @@
 # Imaps
-IMAP（端口143）或IMAPS（端口993）允许你在任何地方，从任何设备访问你的电子邮件。当你使用IMAP阅读电子邮件时，你实际上并没有在你的电脑上下载或存储它；相反，你是从电子邮件服务中阅读它。因此，你可以从不同的设备，在世界任何地方检查你的电子邮件：你的手机、电脑、朋友的电脑。
+IMAP (port 143) or IMAPS (port 993) allows you to access your email wherever you are, from any device. When you read an email message using IMAP, you aren't actually downloading or storing it on your computer; instead, you're reading it from the email service. As a result, you can check your email from different devices, anywhere in the world: your phone, a computer, a friend's computer.
 
-IMAP只在你点击邮件时下载，附件不会自动下载。这样一来，你就能比POP更快地检查你的信息。
+IMAP only downloads a message when you click on it, and attachments aren't automatically downloaded. This way you're able to check your messages a lot more quickly than POP.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://zh.wikipedia.org/wiki/%E5%9B%A0%E7%89%B9%E7%BD%91%E4%BF%A1%E6%81%AF%E8%AE%BF%E9%97%AE%E5%8D%8F%E8%AE%AE'>Wikipedia: 因特网信息访问协议 </BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol'>Wikipedia: Internet Message Access Protocol</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=cfXabGOA2s8'>What is IMAP and How To Use It | Email Tutorial</BadgeLink>

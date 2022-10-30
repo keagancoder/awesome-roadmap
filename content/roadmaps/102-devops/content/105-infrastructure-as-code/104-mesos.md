@@ -1,6 +1,6 @@
 # Mesos
 
-Apache Mesos是一个管理计算机集群的开源项目。它是在加州大学伯克利分校开发的。
+Apache Mesos is an open-source project to manage computer clusters. It was developed at the University of California, Berkeley.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://mesos.apache.org/'>Official Website</BadgeLink>

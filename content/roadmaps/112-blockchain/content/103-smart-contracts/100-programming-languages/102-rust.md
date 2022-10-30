@@ -1,7 +1,6 @@
 # Rust
 
-Rust是一种多范式的、通用的编程语言。Rust强调性能、类型安全和并发性。它在智能合约链Solana和Polkadot上很受欢迎。
-
+Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. It is popular on smart contract chains Solana and Polkadot.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.rust-lang.org/'>Rust Programming Language</BadgeLink>

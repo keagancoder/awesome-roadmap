@@ -1,6 +1,7 @@
-# 服务网
+# Service Mesh
 
-服务网是一个专门的基础设施层，用于处理服务与服务的通信。它负责通过构成现代云原生应用的复杂的服务拓扑结构，可靠地交付请求。通俗地说，它是一种工具，可以帮助你控制不同服务之间的通信方式。
+A Service Mesh is a dedicated infrastructure layer for handling service-to-service communication. It’s responsible for the reliable delivery of requests through the complex topology of services that comprise a modern, cloud native application. In layman's terms, it's a tool which helps you to control how different services communicate with each other.
+
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://youtu.be/16fgzklcF7Y'>Service Mesh explained in 15 Minutes</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh'>Red Hat - What is a Service Mesh?</BadgeLink>

@@ -1,6 +1,6 @@
 # Gradle
 
-Gradle是一个开源的构建自动化工具，帮助软件工程师测试、构建和发布高性能的软件产品。此外，Gradle还支持多语言开发。目前，Gradle支持的语言包括Java、Kotlin、Groovy、Scala、C/C++和JavaScript。
+Gradle is an open-source build automation tool that helps software engineers to test, build, and release high-performance software products. In addition, Gradle also supports multi-language development. Currently, the supported languages for Gradle include Java, Kotlin, Groovy, Scala, C/C++, and JavaScript.
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://gradle.org/'>Gradle</BadgeLink>

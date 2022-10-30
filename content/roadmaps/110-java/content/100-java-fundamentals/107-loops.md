@@ -1,7 +1,6 @@
-# 循环
+# Loops
 
-在Java和其他编程语言中，循环被用来多次迭代程序的某一部分。在Java中有三种类型的循环：`for', `while', 和`do...while'。
-
+In Java and other programming languages, loops are used to iterate a part of the program several times. There are three types of loops in Java, `for`, `while`, and `do...while`.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.javatpoint.com/java-for-loop'>What are loops in Java?</BadgeLink>

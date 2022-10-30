@@ -1,6 +1,6 @@
-# 适用性
+# Applicability
 
-dApps几乎可以用于任何需要两方或多方达成协议的事情。当适当的条件得到满足时，智能合约将自动执行。一个重要的区别是，这些交易不再基于信任，而是基于加密支持的智能合约。
+dApps can be used for just about anything that requires two or more parties to agree on something. When the appropriate conditions are met, the smart contract will execute automatically. An important differentiation is that these transactions are no longer based on trust but they are rather based on cryptographically-backed smart contracts.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.sofi.com/learn/content/what-is-a-dapp/'>What Is a dApp? A Guide to Decentralized Applications</BadgeLink>

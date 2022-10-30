@@ -1,14 +1,14 @@
-# 如何编码
+# How to Code
 
-即使作为一个企业架构师，即最抽象的架构层次，你仍然应该知道开发人员每天在做什么。而如果你不了解这是怎么做的，你可能会面临两大问题。
+Even as an Enterprise Architect, the most abstract level of architecture, you should still know what developers are doing on their daily basis. And if you do not understand how this is done, you may face two major problems:
 
-* 开发人员不会接受你的说辞。
-*你不了解开发人员的挑战和需求。
-**有一个副项目**。这样做的目的是尝试新的技术和工具，找出今天和未来的开发方式。经验是观察、情感和假设的结合（Kurt Schneider著《软件工程中的经验和知识管理》）。读一本教程或一些利弊分析是好的。但这只是 "书本知识"。只有当你自己去尝试一些东西的时候，你才能体验到情感，并能建立起关于为什么一些东西是好是坏的假说。而且，你与一项技术合作的时间越长，你的假设就越好。这将有助于你在日常工作中做出更好的决定。当我开始编程时，我没有代码完成，只有一些实用的库来加快开发速度。很明显，在这种背景下，我今天会做出错误的决定。今天，我们有大量的编程语言、框架、工具、流程和实践。只有当你有一些经验和对主要趋势的粗略了解时，你才能够参与对话并将开发引向正确的方向。
-**找到正确的东西来尝试**。你不可能尝试所有的东西。这是根本不可能的。你需要一个更有条理的方法。我最近发现的一个来源是ThoughtWorks的[技术雷达]（https://www.thoughtworks.com/radar）。他们将技术、工具、平台、语言和框架分为四类。
-  * 采用。"强烈的感觉是为企业使用做好了准备"。
-  * 试用。"企业应该在一个可以承受风险的项目中进行尝试"。
-  * 评估。"探索它对你的企业有什么影响"
-  * 保持："谨慎地处理"。
+* Developers won’t accept your sayings.
+* You do not understand challenges and needs of developers.
+* **Have a side project**: The purpose of this is to try out new technologies and tools to find out how development is done today and in the future. Experience is the combination of observations, emotions and hypothesis (“Experience and Knowledge Management in Software Engineering” by Kurt Schneider). Reading a tutorial or some pros and cons is good. But this is just “book knowledge”. Only if you try out things by yourself you can experience emotions and can built up hypothesis about why something is good or bad. And the longer you work with a technology the better your hypothesis will get. This will help you to take better decisions in your day to day work. As I started programming I had no code completion and only some utility libraries to speed up development. Obviously, with this background I would make wrong decisions today. Today, we have tons of programming languages, frameworks, tools, processes and practices. Only if you have some experience and a rough overview in the major trends you are able to take part of the conversation and to steer development into the right direction.
+* **Find the right things to try out**: You cannot try out everything. This is simply impossible. You need a more structured approach. One source I recently discovered is the [Technology Radar](https://www.thoughtworks.com/radar) from ThoughtWorks. They categorize technologies, tools, platforms, languages and frameworks into four categories:
+  * Adopt: “strong feeling to be ready for enterprise usage”.
+  * Trial: “enterprise should try it in one project that can handle the risk”.
+  * Assess: “explore how it affects your enterprise”
+  * Hold: “process with caution”.
 
-有了这种分类，就更容易对新事物及其准备情况有一个总体的了解，以便更好地评估下一步要探索的趋势。
+With this categorization it is easier to get an overview of new things and their readiness to better evaluate which trend to explore next.

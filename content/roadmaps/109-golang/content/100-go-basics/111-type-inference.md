@@ -1,6 +1,6 @@
-# 类型推理
+# Type Inference
 
-类型推理使我们有能力在没有明确指示的情况下检测一个值的类型，因此有可能在声明变量时不首先提供其类型。
+Type inference gives go the capability to detect the type of a value without being explicitly indicated , hence the possibility to declare variables without providing its type at first 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.callicoder.com/golang-variables-zero-values-type-inference/#type-inference'>Go Variables: Type Inference</BadgeLink>

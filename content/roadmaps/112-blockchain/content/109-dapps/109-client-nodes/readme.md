@@ -1,5 +1,4 @@
-# 客户端节点
+# Client Nodes
 
-区块链是一个由运行软件的计算机（称为节点）组成的分布式网络，可以验证区块和交易数据。被称为客户端的软件应用程序必须在你的计算机上运行，以将其变成一个区块链节点。
-
+A blockchain is a distributed network of computers (known as nodes) running software that can verify blocks and transaction data. The software application, known as a client, must be run on your computer to turn it into a blockchain node.
 

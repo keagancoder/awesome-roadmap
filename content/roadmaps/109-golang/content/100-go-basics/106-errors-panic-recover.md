@@ -1,10 +1,10 @@
-# 错误/异常/恢复
+# Errors/Panic/Recover
 
-为了代替添加异常处理程序，Go的创造者们利用Go的能力来返回多个值。最常用的Go发布错误的技术是将错误作为返回的最后一个值来返回。
+In lieu of adding exception handlers, the Go creators exploited Go’s ability to return multiple values. The most commonly used Go technique for issuing errors is to return the error as the last value in a return.
 
-异常通常意味着出现了意想不到的错误。多用于在正常操作中不应该发生的错误上快速失败，或者我们没有准备好优雅地处理这些错误。
+A panic typically means something went unexpectedly wrong. Mostly used to fail fast on errors that shouldn’t occur during normal operation, or that we aren’t prepared to handle gracefully.
 
-Go中的恐慌恢复依赖于语言中的一个特性，即延迟函数。Go有能力保证在一个函数的父函数返回时执行该函数。无论父函数的返回原因是返回语句、函数块的结束，还是恐慌，都会发生这种情况。
+Panic recovery in Go depends on a feature of the language called deferred functions. Go has the ability to guarantee the execution of a function at the moment its parent function returns. This happens regardless of whether the reason for the parent function’s return is a return statement, the end of the function block, or a panic.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/blog/error-handling-and-go'>Error handling and Go</BadgeLink>

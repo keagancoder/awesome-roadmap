@@ -1,6 +1,6 @@
-# 国家和支付渠道
+# State and Payment Channels
 
-状态通道指的是用户在区块链外直接进行交易的过程，或者说是 "链外"，并大大减少对 "链上 "操作的使用。
+State channels refer to the process in which users transact with one another directly outside of the blockchain, or ‘off-chain,’ and greatly minimize their use of ‘on-chain’ operations.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/'>The Basics of State Channels</BadgeLink>

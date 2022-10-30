@@ -1,6 +1,6 @@
 # Maven
 
-Maven是一个开源的构建工具，主要用于Java项目。
+Maven is an open-source build tool, used primarily for Java projects.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Site' href='https://maven.apache.org/guides/getting-started/'>Getting started</BadgeLink>

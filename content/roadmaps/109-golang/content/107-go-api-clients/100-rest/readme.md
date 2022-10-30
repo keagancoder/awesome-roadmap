@@ -1,6 +1,6 @@
 # REST
 
-REST（Representational State Transfer）API（应用编程接口）是用来在处理网站时提供用户功能。HTTP请求被用来与REST API进行通信，因此用户可以浏览一个URL网站。这些URL可以返回某些信息，这些信息被存储为API的一部分。
+REST (Representational State Transfer) API (Application Programming Interface) is used to deliver user functionality when dealing with websites. HTTP requests are used to communicate with REST APIs so users can navigate a URL website. These URLs can return certain information that is stored as part of the API.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://go.dev/doc/tutorial/web-service-gin'>Tutorial</BadgeLink>

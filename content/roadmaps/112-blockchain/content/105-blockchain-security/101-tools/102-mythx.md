@@ -1,7 +1,6 @@
 # Mythx
 
-MythX是一个由Consensys开发的综合性智能合约安全分析工具。它允许用户在整个开发周期内检测Ethereum智能合约的安全漏洞，以及分析Solidity dapps的安全漏洞和已知的智能合约漏洞。
-
+MythX is a comprehensive smart contract security analysis tools developed by Consensys. It allows users to detect security vulnerabilities in Ethereum smart contracts throughout the development life cycle as well as analyze Solidity dapps for security holes and known smart contract vulnerabilities.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://mythx.io/'>MythX Official Site</BadgeLink>

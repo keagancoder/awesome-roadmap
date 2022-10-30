@@ -1,5 +1,4 @@
-# 区块链常识
-
+# Blockchain general knowledge
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.udemy.com/course/understanding-blockchain-technology/'>The Complete Course On Understanding Blockchain Technology</BadgeLink>

@@ -1,7 +1,6 @@
-# Binance智能链
+# Binance Smart Chain
 
-Binance Smart Chain（又称BNB Chain）是由Binance发起的一个区块链项目，作为其加密货币交易所的核心部分，该交易所是世界上最大的加密货币日交易量的交易所。
-
+Binance Smart Chain (also known as BNB Chain) is a blockchain project initiated by Binance as a central piece of their cryptocurrency exchange, which is the largest exchange in the world in terms of daily trading volume of cryptocurrencies.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf'>Binance whitepaper</BadgeLink>

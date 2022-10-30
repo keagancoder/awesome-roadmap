@@ -1,6 +1,6 @@
-# 版本控制系统
+# Version Control Systems
 
-版本控制/源码控制系统允许开发人员跟踪和控制代码随时间的变化。这些服务通常包括对代码进行原子修订的能力，从特定的点进行分支/分叉，以及比较代码的版本。它们在确定谁、什么、什么时候和为什么进行代码修改方面非常有用。
+Version control/source control systems allow developers to track and control changes to code over time. These services often include the ability to make atomic revisions to code, branch/fork off of specific points, and to compare versions of code. They are useful in determining the who, what, when, and why code changes were made.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://git-scm.com/'>Git</BadgeLink>

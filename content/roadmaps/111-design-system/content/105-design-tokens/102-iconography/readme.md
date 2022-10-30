@@ -1,3 +1,3 @@
-# 图标
+# Iconography
 
-图标是代表功能或内容的符号。它们在用户界面中特别容易辨认，而且很有帮助，因为它们的含义可以一目了然。虽然它们可以仅仅用于装饰，但当它们被有意义地、持续地使用时，它们的潜力就可以完全发挥出来。
+Icons are symbols that represent functionality or content. They’re especially recognisable and helpful in user interfaces since their meaning can be understood at a glance. hough they can be used just for decoration, their full potential can be realised when they’re used meaningfully and consistently.

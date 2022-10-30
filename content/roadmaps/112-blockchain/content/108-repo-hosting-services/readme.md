@@ -1,6 +1,7 @@
-# Repo托管服务
+# Repo Hosting Services
 
-当在一个团队中工作时，你经常需要一个远程的地方来放置你的代码，以便其他人可以访问它，创建他们自己的分支，并创建或审查拉动请求。这些服务通常包括问题跟踪、代码审查和持续集成功能。几个流行的选择是GitHub、GitLab、BitBucket和AWS CodeCommit。
+When working on a team, you often need a remote place to put your code so others can access it, create their own branches, and create or review pull requests. These services often include issue tracking, code review, and continuous integration features. A few popular choices are GitHub, GitLab, BitBucket, and AWS CodeCommit.
+
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://github.com/features/'>GitHub</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://about.gitlab.com/'>GitLab</BadgeLink>

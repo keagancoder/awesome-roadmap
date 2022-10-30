@@ -1,7 +1,6 @@
-# 什么是软件架构？
+# What is Software Architecture?
 
-描述了一个应用程序是如何建立的，包括它的组件，它们如何相互作用，它们在其中的运行环境等等。
-
+Describes how an application is built including its components, how they interact with each other, environment in which they operate and so on.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/'>What is Software Architecture in Software Engineering?</BadgeLink>

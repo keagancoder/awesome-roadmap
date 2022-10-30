@@ -1,6 +1,6 @@
-# 数据结构和算法
+# Data Structures and Algorithms
 
-数据结构是一个命名的位置，可以用来存储和组织数据。而且，一个算法是解决一个特定问题的步骤的集合。学习数据结构和算法使我们能够编写高效和优化的计算机程序。
+A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.programiz.com/dsa'>Learn DS & Algorithms</BadgeLink>

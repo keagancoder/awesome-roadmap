@@ -1,4 +1,3 @@
 # Milestones
 
-在你的路线图的帮助下，定义里程碑，作为你项目管理中更大的史诗。这些将帮助你了解你的进展。
-
+Define milestones that act as bigger epics in your project management with the help of your roadmap. These will help you understand your progress.

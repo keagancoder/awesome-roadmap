@@ -1,6 +1,6 @@
 # Prometheus
 
-Prometheus是一个用于事件监控和警报的免费软件。它在一个使用HTTP拉动模型建立的时间序列数据库中记录实时指标，具有灵活的查询和实时警报功能。
+Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database built using a HTTP pull model, with flexible queries and real-time alerting.
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://prometheus.io/'>Prometheus Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://prometheus.io/docs/introduction/overview/'>Official Documentation</BadgeLink>

@@ -1,4 +1,3 @@
-# 愿景
+# Vision
 
-明确你为什么存在，你的价值观是什么，以及它们如何帮助指导你的产品的未来。
-
+Identify why you exist, what your values are and how they’ll help guide the future of your product.

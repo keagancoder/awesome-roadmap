@@ -1,3 +1,3 @@
-# 组件分析
+# Error Logging
 
-实施一种方法来跟踪和确定你的产品中与组件相关的故障。
+Implement a way to track and pinpoint component-related outages in your product.

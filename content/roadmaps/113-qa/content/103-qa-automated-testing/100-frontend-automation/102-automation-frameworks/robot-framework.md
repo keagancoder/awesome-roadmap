@@ -1,9 +1,8 @@
-# 机器人框架
+# Robot framework
 
-机器人框架是一个基于Python、可扩展的关键字驱动的自动化框架，用于验收测试、验收测试驱动开发（ATDD）、行为驱动开发（BDD）和机器人流程自动化（RPA）。
+Robot Framework is a Python-based, extensible keyword-driven automation framework for acceptance testing, acceptance test driven development (ATDD), behavior driven development (BDD) and robotic process automation (RPA).
 
-机器人框架是开放和可扩展的。机器人框架可以与几乎任何其他工具集成，以创建强大而灵活的自动化解决方案。
-
+Robot Framework is open and extensible. Robot Framework can be integrated with virtually any other tool to create powerful and flexible automation solutions.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://robotframework.org/'>Robot Framework Official Website</BadgeLink>

@@ -1,7 +1,6 @@
 # Range
 
-
-范围 "与 "For Loops "一起使用，用于遍历数组、字符串和其他数据结构中的每个元素。
+`Range` is used with `For Loops` to iterate over each element in arrays, strings and other data structures .
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/tour/moretypes/16'>Go Ranges</BadgeLink>

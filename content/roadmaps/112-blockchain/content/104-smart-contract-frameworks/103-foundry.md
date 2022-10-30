@@ -1,6 +1,6 @@
 # Foundry
 
-Foundry是一个智能合约开发工具链。Foundry管理你的依赖关系，编译你的项目，运行测试，部署，并让你从命令行和通过Solidity脚本与链互动。
+Foundry is a smart contract development toolchain. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line and via Solidity scripts.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://book.getfoundry.sh/'>Foundry Overview</BadgeLink>

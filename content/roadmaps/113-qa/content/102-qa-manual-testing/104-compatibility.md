@@ -1,3 +1,3 @@
-# 兼容性
+# Compatibility
 
-一个QA工程师是许多用户的模拟--你应该能够模拟不同用户的行为、能力，无论是硬件还是软件组件。
+A QA Engineer is a simulation for many users - you should be able to simulate different usre's behaviors, capabilities whether it is hardware or software components.

@@ -1,3 +1,3 @@
-# 组件目录
+# Component Catalog
 
-将你的UI组件的环境隔离在你的产品代码库之外，以确保它们不依赖于任何全局性的依赖，并可以很容易地重复使用。
+Isolate your UI components’ environment outside of your product codebase to make sure they’re not dependent on any global dependencies and can be easily reused.

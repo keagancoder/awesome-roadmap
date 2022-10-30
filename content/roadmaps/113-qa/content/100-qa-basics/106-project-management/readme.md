@@ -1,8 +1,8 @@
-# 项目管理
+# Project Management
 
-项目是为创造独特的产品、服务或结果而进行的临时努力。一个项目是临时的，因为它有明确的开始和结束时间，它是独特的，因为它有一套特定的操作，旨在完成一个目标。
+A project is a temporary endeavor to create a unique product, service, or result. A project is temporary because it has a defined beginning and end time, and it is unique because it has a particular set of operations designed to accomplish a goal.
 
-项目管理是一门规划、组织、激励和控制资源以实现特定项目目标的学科。项目管理的主要目标是实现项目目标和指标，同时牢记项目范围、时间、质量和成本。它促进了项目工作流程与团队在单一项目上的合作。
+Project Management is a discipline of planning, organizing, motivating, and controlling the resources to achieve specific project goals. The main objective of project management is to achieve project goals and targets while keeping in mind the project scope, time, quality, and cost. It facilitates the project workflow with team collaboration on a single project.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/introduction-project-management-pmp-certification.html'>What are the Main Objectives of Project Management?</BadgeLink>

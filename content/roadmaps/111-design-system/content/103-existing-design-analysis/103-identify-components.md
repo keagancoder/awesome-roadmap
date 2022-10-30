@@ -1,3 +1,3 @@
-# 识别组件
+# Identify Components
 
-应用程序的组件是用上一步收集的设计元素组成的。确定应用程序所需的组件列表，其中可能包括按钮、下拉、旋转木马、标签、图标、警报、祝酒词等。同时，要确保跟踪这些组件的不同状态以及不同的变体和动作。
+Components of the application are created using a composition of design elements gathered in the previous step. Identify the list of components required for the application, which could include buttons, dropdowns, carousels, tabs, icons, alerts, toasts etc. Also, make sure to keep track of the different states of these components as well as different variants and actions.

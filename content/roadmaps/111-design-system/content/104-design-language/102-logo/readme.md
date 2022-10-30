@@ -1,3 +1,3 @@
 # Logo
 
-大多数客户在几秒钟内就对一个产品形成了看法。在大多数情况下，你的Logo将是别人看到的第一个品牌资产。这都是为了给人留下正确的第一印象。一个独特的Logo可以帮助用户立即识别产品，并让他们了解你的品牌的本质。
+Most customers form an opinion about a product in seconds. In most cases, your logo will be the first brand asset someone sees. It’s all about making the right first impression. A distinctive logo helps users recognise a product immediately and gives them the essence of your branding.

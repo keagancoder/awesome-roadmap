@@ -1,6 +1,6 @@
 # GitLab CI
 
-GitLab提供了一个CI/CD服务，可以作为SaaS产品使用，也可以使用自己的资源进行自我管理。你可以将GitLab CI用于任何GitLab托管的仓库，或任何BitBucket Cloud或GitHub的仓库，包括GitLab Premium自我管理、GitLab Premium SaaS和更高等级的仓库。
+GitLab offers a CI/CD service that can be used as a SaaS offering or self-managed using your own resources. You can use GitLab CI with any GitLab hosted repository, or any BitBucket Cloud or GitHub repository in the GitLab Premium self-managed, GitLab Premium SaaS and higher tiers.
 
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://gitlab.com/'>GitLab Website</BadgeLink>

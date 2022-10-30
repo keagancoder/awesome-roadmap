@@ -1,7 +1,6 @@
-# 节点服务(NaaS)
+# Node as a Service (NaaS)
 
-运行你自己的区块链节点可能具有挑战性，特别是在开始时或快速扩展时。有一些服务可以为你运行优化的节点基础设施，所以你可以专注于开发你的应用程序或产品。
-
+Running your own blockchain node can be challenging, especially when getting started or while scaling fast. There are a number of services that run optimized node infrastructures for you, so you can focus on developing your application or product instead. 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.infoq.com/articles/blockchain-as-a-service-get-block/'>Blockchain Node Providers and How They Work</BadgeLink>

@@ -1,6 +1,6 @@
 # Linkerd
 
-Linkerd是一个开源的服务网格，旨在部署到各种容器调度器和框架，如Kubernetes。当它的创造者Buoyant在2016年首次提出这个术语时，它成为了最初的 "服务网"。与Twitter的Finagle一样，Linkerd最初是用Scala编写的，并被设计为在每个主机上部署。Linkerd是首批与服务网状结构这个术语相关的产品之一，支持Docker和Kubernetes等平台。
+Linkerd is an open source service mesh designed to be deployed into a variety of container schedulers and frameworks such as Kubernetes. It became the original “service mesh” when its creator Buoyant first coined the term in 2016. Like Twitter’s Finagle, on which it was based, Linkerd was first written in Scala and designed to be deployed on a per-host basis. Linkerd is one of the first products to be associated with the term service mesh and supports platforms such as Docker and Kubernetes.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://linkerd.io/'>Linkerd Website</BadgeLink>

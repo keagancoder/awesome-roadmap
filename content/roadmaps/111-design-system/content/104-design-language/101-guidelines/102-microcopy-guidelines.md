@@ -1,3 +1,3 @@
-# ＃微改动的指南
+# Microcopy Guidelines
 
-为你的设计系统中的组件写作的标准方式。这些都考虑到了平台惯例和写作的最佳实践。
+The standard way to write for the components in your design system. These take platform conventions and best practices for writing all into consideration.

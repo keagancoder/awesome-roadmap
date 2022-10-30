@@ -1,11 +1,11 @@
-# 输入复选框
+# Input Checkbox
 
-一个输入复选框是一个用于选择一个或多个选项的表单元素。
+An input checkbox is a form element used for selecting one or multiple options.
 
-- **选中状态：**当复选框被选中时使用，并将在表单提交时使用其值。
-- 禁用状态：**防止复选框的交互，并从表单提交中删除其值。
-- **中间状态：**当复选框有子代可选择的元素，并且只有其中一些被选中时使用。
-- **标签：**应该有一个与复选框字段相连的文本标签。点击该标签也应触发复选框的选择。
-- **错误状态：**当错误只与复选框字段有关时，错误状态用于表单验证错误。始终使用一个文本错误，同时改变字段的颜色。
-- 键盘状态：**复选框的选择应该用空格键来触发。使用本机元素应该提供这种交互方式的开箱即用。
-- **复选框组：**复选框可以被分组，以同时处理多个值。
+- **Checked State:** Used when the checkbox is selected and will use its value for the form submission.
+- **Disabled State:** Prevents checkbox interactions and removes its value from the form submission.
+- **Intermediate State:** Used when the checkbox has children selectable elements and only some of them are selected.
+- **Label:** There should be a text label linked with the checkbox field. Clicking the label should also trigger the checkbox selection.
+- **Error State:** The error state is used for form validation errors when the error is related to the checkbox field only. Always use a text error along with changing the colour of the field.
+- **Keyboard State:** Checkbox selections should be triggered with the Space key. Using native elements for this should provide this kind of interaction out of the box.
+- **Checkbox Group:** Checkboxes can be grouped to work with multiple values at the same time.

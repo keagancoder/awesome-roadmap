@@ -1,3 +1,3 @@
-# 响应性
+# Responsiveness
 
-与移动设备相比，桌面设备通常可以承受更大的字体尺寸。创建一个适应视口尺寸的排版比例将有助于形成更有意义的层次和布局。
+Desktop devices can usually afford to have bigger font sizes compared to mobile devices. Creating a typography scale that adapts to the viewport size will help with a more meaningful hierarchy and layout.

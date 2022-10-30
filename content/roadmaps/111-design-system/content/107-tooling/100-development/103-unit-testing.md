@@ -1,3 +1,3 @@
-# 单元测试
+# Unit Testing
 
-设计系统的每个部分都应该有单元测试。一旦你的系统被采用，隔离环境的任何变化都可能影响产品的工作方式。
+Every part of the design system should be covered with unit tests. Once your system’s adopted, any change in the isolated environment may affect how the product works.

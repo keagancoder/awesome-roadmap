@@ -1,6 +1,6 @@
-# Go中的变量
+# Variables in Go
 
-变量是一个内存位置的名称，用于存储一个特定[类型]的值(https://golangbot.com/types/)。Go提供了多种方法来声明和使用变量。
+Variable is the name given to a memory location to store a value of a specific [type](https://golangbot.com/types/). Go provides multiple ways to declare and use variables.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/tour/basics/8'>Go Variables</BadgeLink>

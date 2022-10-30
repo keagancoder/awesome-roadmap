@@ -1,3 +1,3 @@
-# 写作指南
+# Writing Guidelines
 
-每一个一致的经验都需要无懈可击的写作。尽早为你的内部风格打下基础，使一切都与一致的语法、风格选择和面向行动的语言保持一致，以帮助你的设计。
+Every consistent experience needs watertight writing. Laying down the foundations for your house style early keeps everything in line with consistent grammar, style choices and action-oriented language to help your design.

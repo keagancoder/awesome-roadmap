@@ -1,8 +1,8 @@
-# 输入开关
+# Input Switch
 
-输入开关可以切换单个项目的状态。与输入复选框相比，它们的变化通常无需额外提交就能应用。
+Input switches toggle the state of a single item. Compared to the input checkbox, their changes usually apply without any additional submission.
 
-- **检查状态：**在输入开关打开时使用。除了在适用时改变其颜色外，最好还能提供一种额外的方式来表示选中状态。
-- **禁用状态：**防止与一个输入开关进行交互。
-- **标签：**应该有一个与开关字段相连的文本标签。点击该标签也应触发输入选择。
-- 键盘状态：**当按下空格键时应触发开关选择。
+- **Checked State:** Used when an input switch is turned on. It’s better to provide an additional way to indicate the checked state besides changing its colour when applicable.
+- **Disabled State:** Prevents interacting with an input switch.
+- **Label:** There should be a text label linked with the switch field. Clicking the label should also trigger the input selection.
+- **Keyboard State:** A switch selection should be triggered when the Space key is pressed.

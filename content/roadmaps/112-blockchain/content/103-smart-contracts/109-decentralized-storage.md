@@ -1,7 +1,6 @@
-# 去中心化的存储
+# Decentralized Storage
 
-去中心化存储是指数据由被激励加入、存储和保持数据可访问性的用户或团体存储在多个地点的去中心化网络上。所用的服务器是由人托管的，而不是由一个公司托管。任何人都可以自由加入，他们由于智能合约而保持诚实，并通过代币激励他们参与。
-
+Decentralized storage is where data is stored on a decentralized network across multiple locations by users or groups who are incentivized to join, store, and keep data accessible. The servers used are hosted by people, rather than a single company. Anyone is free to join, they are kept honest due to smart contracts, and they are incentivized to participate via tokens.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://medium.com/@ppio/what-is-decentralized-storage-9c4b761942e2'>What Is Decentralized Storage?</BadgeLink>

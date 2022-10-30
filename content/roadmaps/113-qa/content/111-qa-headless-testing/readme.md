@@ -1,12 +1,12 @@
-# 无头测试
+# Headless Testing
 
-无头测试是指在不加载浏览器的用户界面的情况下进行端到端的测试。由于浏览器的操作与典型的浏览器一样，但不使用用户界面，所以它被认为非常适用于自动化测试。
+Headless testing is when end-to-end tests are performed without loading the browser's user interface. Since the browser operates as a typical browser would but does not make use of the user interface, it is considered highly suitable for automated testing.
 
-可以使用无头浏览器测试的几个例子包括。
+A few example cases where one may use headless browser testing include:
 
-- 自动化HTML事件响应，如表单提交、键盘事件、鼠标点击等。
-- 网络搜刮
-- 生成网页的屏幕截图
+- Automating HTML event responses, such as form submission, keyboard events, mouse-clicking, etc.
+- Web scraping
+- Generating screenshots of webpages
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.browserstack.com/guide/what-is-headless-browser-testing'>What is Headless Browser Testing and Why is it Important?</BadgeLink>

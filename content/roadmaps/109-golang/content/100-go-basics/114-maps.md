@@ -1,6 +1,6 @@
-# MAP
+# Maps
 
-MAP是Go中的数据结构，当我们想在键：值对之间进行映射时，我们就会用到它。它们在删除或添加元素方面具有灵活性。MAP不允许有重复的条目，而数据是无序的。
+Maps are the data structure in Go, where we use whenever we want to have mappings between key:value pairs. They have flexibility in terms of removing or adding elements into them. Maps do not allow duplicate entries while data are kept unordered.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

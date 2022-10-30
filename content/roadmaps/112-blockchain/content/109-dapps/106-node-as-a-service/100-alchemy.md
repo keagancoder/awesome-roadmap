@@ -1,6 +1,6 @@
 # Alchemy
 
-Alchemy是一个开发者平台，使公司能够建立可扩展和可靠的去中心化应用程序，而无需在内部管理区块链基础设施的麻烦。
+Alchemy is a developer platform that empowers companies to build scalable and reliable decentralized applications without the hassle of managing blockchain infrastructure in-house.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.alchemy.com/'>Alchemy official site</BadgeLink>

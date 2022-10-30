@@ -1,9 +1,9 @@
-# 标签
+# Tabs
 
-标签可以组织多个页面或内容部分之间的导航。
+Tabs organise navigation between multiple pages or content sections.
 
-- **活动按钮状态：**在选择和未选择的标签按钮之间应该有明显的区别。
-- **按钮图标支持：**图标在标签旁边使用时有助于显示标签按钮的目的。
-- **同等大小的标签按钮：**标签可以在一个相对较小的容器中使用，你需要在一定数量的部分之间切换。对于这种情况，最好是支持一个变体，即按钮的区域被平均分割。
-- 键盘导航：**所有的标签按钮都应该是可聚焦的，并且标签组件之间的导航应该可以通过键盘访问。
-- **响应性：**如果移动端的所有标签不适合进入视口，用户仍然应该可以访问所有标签按钮。解决这个问题的方法可以是让按钮区域在移动端可滚动，或者显示一个包含有其余按钮的下拉菜单的更多按钮。
+- **Active Button State:** There should be a clear differentiation between selected and unselected tab buttons.
+- **Button Icon Support:** Icons help show the purpose of the tab buttons when used next to its label.
+- **Equally-sized tab buttons:** Tabs can be used in a relatively small-sized container where you need to switch between a definite number of sections. For such scenarios, it’s better to support a variant where the button’s area is divided equally.
+- **Keyboard Navigation:** All tab buttons should be focusable and navigation between the tab’s component should be accessible from the keyboard.
+- **Responsiveness:** If all tabs on mobile don’t fit into the viewport, users should still have access to all tab buttons. Ways to solve this can be making the button area scrollable for mobile or showing a More button containing a dropdown with the rest of the buttons.

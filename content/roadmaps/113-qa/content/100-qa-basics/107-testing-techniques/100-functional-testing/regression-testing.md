@@ -1,6 +1,6 @@
-# 回归测试
+# Regression Testing
 
-回归测试是一种软件测试，以确认最近的程序或代码变化没有对现有功能产生不利影响。回归测试是一种黑盒测试技术。测试用例被重新执行，以检查应用程序以前的功能是否工作正常，以及新的变化是否产生了任何错误。
+Regression Testing is a type of software testing to confirm that a recent program or code change has not adversely affected existing features. Regression testing is a black box testing technique. Test cases are re-executed to check the previous functionality of the application is working fine and that the new changes have not produced any bugs.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.javatpoint.com/regression-testing'>Regression Testing</BadgeLink>

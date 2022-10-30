@@ -1,5 +1,5 @@
-# 视觉审查
+# Visual Audit
 
-在你的团队的帮助下，对你目前的产品进行截图。你可以使用任何演示软件，如谷歌幻灯片，或打印并钉在泡沫芯板上。将屏幕截图分成几类，如按钮、导航、表格、图表、列表等。
+Take screenshots of your current product with the help of your team. You can use any presentation software like Google Slides or print and pin them on foam-core boards. Group the screenshots into categories like buttons, navigation, forms, tables, charts, lists etc.
 
-现在，审查每个类别，找出不一致的地方，并与你的团队一起注意需要改进的地方。 使用像[CSS Stats]（https://cssstats.com/）这样的工具，看看你的样式表中有多少种独特的颜色和字体。
+Now, review each category to find inconsistencies and note areas for improvement with your team.  Use a tool like [CSS Stats](https://cssstats.com/) to see how many unique colors, typefaces you have in your style sheets.

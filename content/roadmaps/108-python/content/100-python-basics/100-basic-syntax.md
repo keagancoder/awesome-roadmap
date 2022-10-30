@@ -1,6 +1,6 @@
-# 基本语法
+# Basic Syntax
 
-为Python设置环境，并开始学习基础知识。
+Setup the environment for python and get started with the basics.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3schools.com/python/'>W3Schools - Python</BadgeLink>

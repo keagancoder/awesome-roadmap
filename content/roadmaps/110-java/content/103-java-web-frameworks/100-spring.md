@@ -1,6 +1,6 @@
 # Spring
 
-Spring是一个强大的开源Java平台（框架），用于创建和维护Web应用程序。
+Spring is a powerful open-source Java platform (framework), that is used to create and maintain web applications.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Site' href='https://spring.io/'>Official Site</BadgeLink>

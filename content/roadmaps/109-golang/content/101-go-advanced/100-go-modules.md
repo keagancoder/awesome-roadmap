@@ -1,8 +1,8 @@
-# 模块
+# Modules
 
-Go模块是一组相关的软件包，这些软件包的版本都是一起发布的。它们规定了我们项目的要求，列出了所有需要的依赖，并帮助我们跟踪所安装的依赖的具体版本。 
+Go modules are a group of related packages that are versioned and distributed together. They specify the requirements of our project, list all the required dependencies, and help us keep track of the specific versions of installed dependencies.  
 
-模块由模块路径标识，该路径在我们项目中go.mod文件的第一行中声明。 
+Modules are identified by a module path that is declared in the first line of the go.mod file in our project.  
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' href='https://www.digitalocean.com/community/tutorials/how-to-use-go-modules'>DigitalOcean: How to use Go Modules</BadgeLink>

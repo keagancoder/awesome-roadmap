@@ -1,7 +1,6 @@
 # GitHub Actions
 
-利用GitHub Actions，在你的仓库中自动化、定制和执行你的软件开发工作流程。你可以发现、创建和分享行动，以执行你想要的任何工作，包括CI/CD，并在一个完全定制的工作流程中结合行动。
-
+Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Docs' colorScheme='blue' href='https://docs.github.com/en/actions'>GitHub Actions Documentation</BadgeLink>

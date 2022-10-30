@@ -1,8 +1,8 @@
-# 区块链结构
+# Blockchain Structure
 
-区块链的名字来自于它的基础结构。区块链被组织成一系列 "区块"，它们被 "链 "在一起。
+The blockchain gets its name from its underlying structure. The blockchain is organized as a series of “blocks” that are “chained” together.
 
-理解区块链安全需要了解区块链是如何组合在一起的。这需要了解区块链的区块和链是什么，以及为什么它们会被设计成这样的方式。
+Understanding blockchain security requires understanding how the blockchain is put together. This requires knowing what the blocks and chains of blockchain are and why they are designed the way that they are.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture'>Blockchain Architecture Basics: Components, Structure, Benefits & Creation</BadgeLink>

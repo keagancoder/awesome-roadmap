@@ -1,6 +1,6 @@
-# 存储
+# Storage
 
-与由单一公司或组织运营的集中式服务器不同，分散式存储系统由持有整体数据一部分的用户操作者组成的点对点网络，创造了一个有弹性的文件存储共享系统。
+Unlike a centralized server operated by a single company or organization, decentralized storage systems consist of a peer-to-peer network of user-operators who hold a portion of the overall data, creating a resilient file storage sharing system.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.techtarget.com/searchstorage/definition/blockchain-storage'>Blockchain Storage</BadgeLink>

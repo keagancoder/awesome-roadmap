@@ -1,3 +1,3 @@
-# 设计编辑器
+# Design Editor
 
-现在市场上有很多设计编辑器，最流行的名字是Sketch、Figma和Adobe XD。如果你不确定该走哪条路，最好是和你的团队商量。
+There are many design editors available in the market today with the most popular names being Sketch, Figma and Adobe XD. If you're unsure which route to go down it's often best to speak with your team.

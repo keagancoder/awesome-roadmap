@@ -6,7 +6,7 @@
 
 # Python
 
-Python是一种众所周知的编程语言，它既是一种强类型的语言，也是一种动态类型的语言。作为一种解释型语言，代码一经编写就会被执行，Python的语法允许以函数式、程序式或面向对象的编程方式编写代码。
+Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Python Website' href='https://www.python.org/'>Python Website</BadgeLink>

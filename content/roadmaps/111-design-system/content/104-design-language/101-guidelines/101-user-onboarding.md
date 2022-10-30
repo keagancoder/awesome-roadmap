@@ -1,2 +1,3 @@
-# 新用户启动
-你如何让你的用户加入你的产品或新功能，并从一开始就给他们一个良好的体验。
+# User Onboarding
+
+How you onboard your users to your product or a new feature and give them a great experience from the start.

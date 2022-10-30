@@ -1,3 +1,3 @@
-# 维护
+# Maintenance
 
-dApps可能更难维护，因为发布到区块链上的代码和数据更难修改。开发者很难在他们的dapp（或dapp存储的底层数据）部署后进行更新，即使在旧版本中发现错误或安全风险。
+dApps can be harder to maintain because the code and data published to the blockchain is harder to modify. It’s hard for developers to make updates to their dapps (or the underlying data stored by a dapp) once they are deployed, even if bugs or security risks are identified in an old version.

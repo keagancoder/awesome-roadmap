@@ -1,6 +1,6 @@
-# 负载平衡器
+# Load Balancer
 
-负载平衡器充当了**流量警察的角色，坐在你的服务器前面，将客户请求路由到所有能够满足这些请求的服务器上，以最大限度地提高速度和容量利用率，并确保没有一台服务器过度工作。如果其中一个服务器发生故障，负载平衡器会将流量重定向到其余在线服务器。
+Load Balancer acts as the **traffic cop** sitting in front of your servers and routing client requests across all servers capable of fulfilling those requests in a manner that maximizes speed and capacity utilization and ensures that no one server is overworked. If a one of the servers goes down, the load balancer redirects traffic to the remaining online servers.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.nginx.com/resources/glossary/load-balancing/'>What is Load Balancing?</BadgeLink>

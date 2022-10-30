@@ -1,10 +1,10 @@
-# ＃横幅
+# Banner
 
-横幅显示一个可操作的信息，用作与你的用户沟通的突出方式。
+Banners display an actionable message used as a prominent way of communicating with your users.
 
-- **外观：**横幅用于显示不同类型的信息，根据它们所扮演的角色来区分它们的视觉外观很重要。如果你使用背景色来区分角色，根据WCAG AA标准，确保与内容有足够的对比度。
-- **图标或图像的区域：**横幅可以使用辅助图标或图像来补充其信息。它们不应该被用来代替文本内容。
-- 行动：**横幅中的行动应该与它的文本有关，并提供一种对发给用户的信息作出反应的方式。
-- 不允许的行动：**不要用页面上的横幅来压倒用户，并包括一个可撤销的行动。这可以是一个单独的关闭按钮或提供的行动之一。
-- **无障碍性：**如果一个横幅动态地出现在页面上，它应该由用户的辅助技术宣布。
-- **响应性：**横幅应该适应视口的大小。这通常意味着，他们在移动端成为全宽，以节省一些空间。
+- **Appearance:** Banners are used to display different types of messages and it’s important to differentiate their visual appearance based on the role they’re playing. If you’re using background colours for role differentiation, make sure there’s enough contrast ratio with the content according to the WCAG AA standard.
+- **Area for icons or images:** Banners can supplement their message using a supporting icon or image. They shouldn’t be used instead of text content.
+- **Actions:** Actions in banners should relate to its text and provide a way to react to the message sent to the user.
+- **Dismissible Action:** Don’t overwhelm the user with banners on the page and include a dismissable action. That may be either a separate close button or one of the actions provided.
+- **Accessibility:** If a banner dynamically appears on the page, it should be announced to the user by their assistive technology.
+- **Responsiveness:** Banners should adapt to the viewport size. This usually means that they become full-width for mobile to save some space.

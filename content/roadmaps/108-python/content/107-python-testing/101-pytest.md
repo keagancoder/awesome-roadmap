@@ -1,6 +1,6 @@
 # pytest
 
-pytest是一个成熟的全功能Python测试工具，可以帮助你编写更好的程序。
+pytest is a mature full-featured Python testing tool that helps you write better programs.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://docs.pytest.org/'>Official Docs</BadgeLink>

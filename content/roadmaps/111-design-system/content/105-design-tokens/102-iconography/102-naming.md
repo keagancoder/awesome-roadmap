@@ -1,3 +1,3 @@
-# 命名
+# Naming
 
-根据你的图标是什么来命名，而不是根据它们代表什么。例如，一个垃圾桶图标应该被命名为垃圾桶，而不是删除。你仍然可以添加相关的关键词来提高可发现性。
+Name your icons based on what they are, not what they represent. For instance, a trash icon should be named trash, not delete. You can still add related keywords to improve discoverability.

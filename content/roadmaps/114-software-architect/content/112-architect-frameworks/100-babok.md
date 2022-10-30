@@ -1,7 +1,6 @@
 # Babok
 
-商业分析知识体系指南（BABOK指南）是国际商业分析协会（IIBA）的一本书，为商业分析师（BA）提供了使用数据来改善组织的工作流程、技术、产品和服务的策略。
-
+The guide to the Business Analysis Body of Knowledge (BABOK Guide) is a book from the International Institute of Business Analysis (IIBA) that provides business analysts (BAs) with strategies for using data to improve an organization's workflow processes, technology, products and services.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/'>Official Website</BadgeLink>

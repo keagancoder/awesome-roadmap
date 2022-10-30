@@ -1,10 +1,10 @@
-# 旋转木马
+# Carousel
 
-旋转木马将同类型的项目堆积起来，并允许水平滚动浏览它们。
+Carousels stack the same type of items and allows scrolling through them horizontally.
 
-- **导航控制：**旋转木马应该有容易找到的导航控制，以便滚动浏览内容。
-- **支持任何内容：**旋转木马可以在不同的背景下使用，不应该局限于一个特定的子组件。在某些情况下，你可能希望同一旋转木马中的项目彼此不同。
-- **项目宽度的定制：**对于简单的产品，使用多个预定义尺寸的旋转木马项目可能是好的。对于更多的灵活性，提供一种方法来定义一个自定义的宽度是很好的。
-- **触摸事件支持：**旋转木马在触摸设备上应该是可滚动的。一些最好的做法是使用本地滚动，并确保你对所有触摸设备都支持相同的行为，而不仅仅是手机。
-- 键盘导航：**当专注于导航控件时，应该可以用键盘箭头来滚动内容。
-- **响应性：**对于移动视口来说，隐藏或缩小导航控件的大小以提高内容的可见性是一个好的做法。
+- **Navigation Controls:** Carousels should have easy-to-find navigation controls for scrolling through content.
+- **Supports any content:** Carousels can be used in different contexts and shouldn’t be limited to a specific child component. In some scenarios you might want items within the same carousel to differ from each other.
+- **Items width customisation:** For simple products, it might be fine to use multiple predefined sizes for carousel items. For more flexibility, it’s good to provide a way to define a custom width.
+- **Touch events support:** Carousels should be scrollable on touch devices. Some of the best practices are to use native scrolling and to make sure you’re supporting the same behaviour for all touch devices, not just mobile phones.
+- **Keyboard navigation:** It should be possible to scroll through content with keyboard arrows when focused on navigation controls.
+- **Responsiveness:** It’s good practice to hide or reduce the size of navigation controls for mobile viewports to improve the visibility of the content.

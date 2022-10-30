@@ -1,6 +1,6 @@
-# 无服务器
+# Serverless
 
-无服务器架构（也称为无服务器计算或功能即服务，FaaS）是一种软件设计模式，应用程序由第三方服务托管，消除了开发人员对服务器软件和硬件管理的需求。应用程序被分解成单独的功能，可以被单独调用和扩展。
+Serverless architecture (also known as serverless computing or function as a service, FaaS) is a software design pattern where applications are hosted by a third-party service, eliminating the need for server software and hardware management by the developer. Applications are broken up into individual functions that can be invoked and scaled individually.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://aws.amazon.com/lambda/serverless-architectures-learn-more/'>Serverless Architectures By AWS</BadgeLink>
