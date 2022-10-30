@@ -1,8 +1,8 @@
-# Estimate and Evaluate
+#估计和评估
 
-* **Know basic project management principles**: As architect or lead developer you are often asked for estimates to realize your ideas: How long, how much, how many people, which skills, etc.? Of course, if you plan to introduce new tools or frameworks you need to have an answer for these kind of “management” questions. Initially, you should be able to give a rough estimate, like days, months or years. And do not forget that it is not only about implementing, there are more activities to consider, like requirements engineering, testing and fixing bugs. Therefore, you should know the activities the used software development process. One thing you can apply to get better estimates, is to use past data and derive your prediction from that. If you do not have past data, you can also try approaches such as COCOMO by Barry W. Boehm. If you are deployed in an agile project, learn how to estimate and to plan properly: The book “Agile Estimating and Planning” by Mike Cohn provides a solid overview in this area.
-* **Evaluate “unknown” architecture**: As architect you should also be able to evaluate the suitability of architectures for the current or future context(s). This is not an easy task but you can prepare for it by having a set of questions at hand which are common for every architecture. And it’s not only about architecture but also about how the system is managed, as this also gives you insights about the quality. I suggest to always have some questions prepared and ready to use. Some ideas for general questions:
-  * Design practices: Which patterns does the architecture follow? Are they consequently and correctly used? Does the design follow a red line or is there an uncontrolled growth? Is there a clear structure and separation of concerns?
-  * Development practices: Code guidelines in place and followed? How is the code versioned? Deployment practices?
-  * Quality assurance: Test automation coverage? Static code analysis in place and good results? Peer reviews in place?
-  * Security: Which security concepts are in place? Built-in security? Penetration tests or automated security analysis tools in place and regularly used?
+**知道基本的项目管理原则**。作为建筑师或首席开发人员，你经常被要求估算以实现你的想法。多长时间，多少钱，多少人，哪些技能，等等。当然，如果你计划引入新的工具或框架，你需要对这些 "管理 "问题有一个答案。最初，你应该能够给出一个粗略的估计，如几天、几个月或几年。而且不要忘记，这不仅仅是实施的问题，还有更多的活动需要考虑，比如需求工程、测试和修复错误。因此，你应该知道所使用的软件开发过程的活动。有一件事你可以用来获得更好的估计，就是使用过去的数据并从中得出你的预测。如果你没有过去的数据，你也可以试试Barry W. Boehm的COCOMO等方法。如果你被部署在一个敏捷项目中，要学习如何估算和正确计划。Mike Cohn的《敏捷估算和计划》一书在这方面提供了一个坚实的概述。
+**评估 "未知 "架构**。作为架构师，你还应该能够评估架构对当前或未来环境的适用性。这不是一项容易的任务，但你可以通过手头的一套问题来准备，这些问题对每一个架构都很常见。而且，这不仅是关于架构的问题，也是关于系统如何管理的问题，因为这也能让你了解到质量问题。我建议经常准备一些问题，并准备好使用。一些关于一般问题的想法。
+  * 设计实践。架构遵循哪些模式？它们是否因此而被正确使用？设计是否遵循了一条红线，或者有一个不受控制的增长？是否有一个清晰的结构和关注点的分离？
+  * 开发实践。代码指南是否到位并被遵循？代码的版本是怎样的？部署实践？
+  * 质量保证。测试自动化覆盖率？静态代码分析到位并有良好的结果？同行评审是否到位？
+  * 安全性。哪些安全概念是到位的？内置安全？渗透测试或自动安全分析工具已经到位并定期使用？

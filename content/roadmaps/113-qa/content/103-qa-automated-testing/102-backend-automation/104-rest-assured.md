@@ -1,6 +1,6 @@
-# Rest-assured
+# ＃Rest-assured
 
-Rest-assured helps developers and test engineers to test REST APIs in Java ease by using techniques used in dynamic languages such as Groovy and Ruby.
+Rest-assured帮助开发者和测试工程师通过使用Groovy和Ruby等动态语言中的技术，在Java中轻松测试REST APIs。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://rest-assured.io'>REST-assured Website</BadgeLink>

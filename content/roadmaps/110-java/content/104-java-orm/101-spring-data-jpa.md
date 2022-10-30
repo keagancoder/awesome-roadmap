@@ -1,6 +1,7 @@
 # Spring data jpa
 
-Spring Data JPA aims to significantly improve the implementation of data access layers by reducing the effort to the amount that's actually needed. As a developer you write your repository interfaces, including custom finder methods, and Spring will provide the implementation automatically.
+Spring Data JPA旨在通过将努力程度降低到实际需要的程度来显著改善数据访问层的实现。作为一个开发者，你编写你的存储库接口，包括自定义查找方法，而Spring将自动提供实现。
+
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://spring.io/projects/spring-data-jpa'>Spring Data JPA</BadgeLink>

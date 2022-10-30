@@ -1,8 +1,8 @@
-# .NET Framework
+# .NET框架
 
-.NET is an open-source platform with tools and libraries for building web, mobile, desktop, games, IoT, cloud, and microservices.
+.NET是一个开源的平台，拥有用于构建网络、移动、桌面、游戏、物联网、云和微服务的工具和库。
 
-Officially supported languages in .NET: C#, F#, Visual Basic.
+.NET中正式支持的语言。C#, F#, Visual Basic.
 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

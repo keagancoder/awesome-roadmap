@@ -1,6 +1,7 @@
-# Testing Go Code
+# Go - 测试
 
-Go has a built-in testing command that we can use to test our program.
+Go有一个内置的测试命令，我们可以用它来测试我们的程序。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://go.dev/doc/tutorial/add-a-test'>Official Go Tutorial: Add a test</BadgeLink>

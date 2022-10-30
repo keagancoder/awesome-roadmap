@@ -1,3 +1,3 @@
-# Design Principles
+# 设计原则
 
-The considerations that guide the basis of your practice. They outline how you approach design from a philosophical perspective and help with everyday decisions.
+指导你实践基础的考虑因素。它们概述了你如何从哲学的角度对待设计，并有助于日常决策。

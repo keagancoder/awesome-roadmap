@@ -1,3 +1,3 @@
-# Semantic Versioning
+# 语义版本管理
 
-Version your code with semantic versioning that dictates how version numbers are assigned and incremented.
+使用语义版本管理对你的代码进行版本管理，语义版本管理决定了版本号是如何分配和递增的。

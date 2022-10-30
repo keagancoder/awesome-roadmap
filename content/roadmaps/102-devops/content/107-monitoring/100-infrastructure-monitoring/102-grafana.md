@@ -1,6 +1,6 @@
 # Grafana
 
-Grafana is the open-source platform for monitoring and observability. It allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
+Grafana是用于监控和观察的开源平台。它允许你查询、可视化、报警并理解你的指标，无论它们存储在哪里。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Framework Website' href='https://grafana.com/'>Grafana Website</BadgeLink>

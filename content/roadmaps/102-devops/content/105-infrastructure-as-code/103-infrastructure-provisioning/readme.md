@@ -1,3 +1,3 @@
-# Infrastructure Provisioning
+# 基础设施供应
 
-Tools in this category are used to provision infrastructure in cloud providers. This includes DNS, networking, security policies, servers, containers, and a whole host of vendor-specific constructs.  In this category, the use of cloud provider-agnostic tooling is strongly encouraged. These skills can be applied across most cloud providers, and the more specific domain-specific languages tend to have less reach. 
+这一类的工具是用来配置云供应商的基础设施。这包括DNS、网络、安全策略、服务器、容器和一大批供应商特有的结构。 在这个类别中，强烈鼓励使用与云供应商无关的工具。这些技能可以应用于大多数云供应商，而更具体的特定领域的语言往往影响较小。

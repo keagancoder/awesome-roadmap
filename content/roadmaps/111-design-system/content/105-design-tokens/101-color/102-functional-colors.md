@@ -1,3 +1,3 @@
-# Functional Colors
+# 功能性颜色
 
-Besides your brand colours, make sure to have colours defined and made into variables for functions like disabled states, backgrounds, actions and high contrast text.
+除了你的品牌颜色外，确保为禁用状态、背景、动作和高对比度文本等功能定义颜色并将其变成变量。

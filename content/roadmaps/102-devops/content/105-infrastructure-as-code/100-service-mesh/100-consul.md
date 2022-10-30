@@ -1,6 +1,6 @@
 # Consul
 
-Consul is a service mesh solution providing a full featured control plane with service discovery, configuration, and segmentation functionality. Each of these features can be used individually as needed, or they can be used together to build a full service mesh. Consul requires a data plane and supports both a proxy and native integration model. Consul ships with a simple built-in proxy so that everything works out of the box, but also supports 3rd party proxy integrations such as Envoy.
+Consul是一个服务网状结构解决方案，提供一个具有服务发现、配置和分割功能的全功能控制平面。这些功能中的每一个都可以根据需要单独使用，也可以一起使用来建立一个完整的服务网。Consul需要一个数据平面，支持代理和本地集成模型。Consul带有一个简单的内置代理，因此一切都可以开箱即用，但也支持第三方代理集成，如Envoy。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://www.consul.io/docs/intro'>What is Consul?</BadgeLink>

@@ -1,6 +1,6 @@
 # HTTPS
 
-HTTPS (**H**ypertext **T**ransfer **P**rotocol **S**ecure) is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website.
+HTTPS（**H**ypertext **T**ransfer **P**rotocol **S**ecure）是HTTP的安全版本，它是用于在网络浏览器和网站之间发送数据的主要协议。
 
 `HTTPS = HTTP + SSL/TLS`
 

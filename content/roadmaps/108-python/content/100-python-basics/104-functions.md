@@ -1,8 +1,8 @@
-# Functions
+# 函数
 
-In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable.
+在编程中，函数是一个可重复使用的代码块，当它被调用时执行某种功能。函数是每一种编程语言的组成部分，因为它们有助于使你的代码更加模块化和可重复使用。
 
-In Python, you define a function with the `def` keyword, then write the function identifier (name) followed by parentheses and a colon.
+在Python中，你用`def`关键字定义一个函数，然后写上函数标识符(名称)，后面加括号和冒号。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/'>Python Functions – How to Define and Call a Function</BadgeLink>

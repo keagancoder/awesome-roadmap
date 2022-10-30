@@ -1,3 +1,3 @@
-# Core Components
+# 核心组件
 
-Components are the main building blocks for user interfaces. Building a reusable component library enhances your product development workflow by reducing design and tech debt and speeding up the process. Core components can’t be broken down into granular pieces without losing their meaning.
+组件是用户界面的主要构建块。构建一个可重复使用的组件库，通过减少设计和技术债务，加快开发过程，增强你的产品开发工作流程。核心组件不能在不失去其意义的情况下被分解成细小的部分。

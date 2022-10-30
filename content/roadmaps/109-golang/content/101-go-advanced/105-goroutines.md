@@ -1,8 +1,8 @@
 # Goroutines  
 
-Goroutines allow us to write concurrent programs in Go. Things like web servers handling thousands of requests or a website rendering new pages while also concurrently making network requests are a few example of concurrency.  
+Goroutines允许我们在Go中编写并发的程序。像网络服务器处理数以千计的请求，或者网站在渲染新页面的同时也在并发进行网络请求，都是并发的几个例子。 
 
-In Go, each of these concurrent tasks are called `Goroutines`.  
+在Go中，这些并发的任务都被称为 "Goroutines"。 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://go.dev/tour/concurrency/1'>Goroutines</BadgeLink>

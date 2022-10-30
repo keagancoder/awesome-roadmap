@@ -1,8 +1,8 @@
-# Agile Model
+# 敏捷模式
 
-The agile model refers to a software development approach based on iterative development. Agile methods break tasks into smaller iterations or parts that do not directly involve long-term planning. The project scope and requirements are laid down at the beginning of the development process. Plans regarding the number of iterations, the duration, and the scope of each iteration are clearly defined in advance.
+敏捷模式是指一种基于迭代开发的软件开发方法。敏捷方法将任务分成较小的迭代或部分，不直接涉及长期规划。项目的范围和要求在开发过程的开始就已经确定了。有关迭代的数量、持续时间和每个迭代的范围的计划都是事先明确定义的。
 
-The Agile software development methodology is one of the simplest and most effective processes to turn a vision for a business need into software solutions.
+敏捷软件开发方法是将商业需求的愿景转化为软件解决方案的最简单和最有效的过程之一。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/agile-scrum-extreme-testing.html'>Agile Methodology: What is Agile Model in Software Testing?</BadgeLink>

@@ -1,7 +1,6 @@
-# CQRS eventual consistency
+# CQRS最终的一致性
 
-CQRS (Segregation of Responsibility for Command Queries) is an architectural pattern that comes with the idea of separating read and write operations into two distinct logical processes.
-
+CQRS（命令查询的责任分离）是一种架构模式，其理念是将读写操作分离成两个不同的逻辑过程。
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 
 <BadgeLink badgeText="Read" colorScheme="yellow" href="https://martinfowler.com/bliki/CQRS.html">CQRS</BadgeLink>

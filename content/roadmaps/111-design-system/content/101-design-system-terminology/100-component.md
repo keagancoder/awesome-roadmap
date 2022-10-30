@@ -1,5 +1,3 @@
-# Component
+# 组件
 
-Components are the reusable building blocks of a design system. Each component meets a specific interaction or UI needs, and is specifically created to work together to create patterns and intuitive user experiences.
-
-
+组件是设计系统的可重复使用的构建块。每个组件都能满足特定的交互或用户界面需求，并被专门创建，以共同创造模式和直观的用户体验。

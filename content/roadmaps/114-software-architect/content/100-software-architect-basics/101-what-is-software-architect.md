@@ -1,3 +1,3 @@
-# What is Software Architect?
+# 什么是软件架构师？
 
-A software expert who makes high level design choices, including technical standards, tools, design principles, platforms to be used, etc.
+做出高水平设计选择的软件专家，包括技术标准、工具、设计原则、要使用的平台等。

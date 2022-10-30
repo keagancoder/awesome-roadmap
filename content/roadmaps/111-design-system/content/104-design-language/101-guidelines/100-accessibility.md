@@ -1,6 +1,6 @@
-# Accessibility
+# 可及性
 
-Guidelines for how you approach accessibility and how you leverage colour, hierarchy and assistive technologies to help your users.
+关于如何处理无障碍性以及如何利用颜色、层次和辅助技术来帮助用户的准则。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3.org/WAI/fundamentals/accessibility-intro/'>Introduction to Web Accessibility</BadgeLink>

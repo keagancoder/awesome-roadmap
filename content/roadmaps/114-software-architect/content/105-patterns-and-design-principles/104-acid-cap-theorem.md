@@ -1,10 +1,10 @@
-# ACID & CAP Theorem
+# ＃ACID和CAP定理
 
-ACID (Atomicity, Consistency, Isolation, Durability) and CAP (Consistency, Availability, Partition Tolerance) are essential concepts in distributed systems. They are often used to explain the trade-offs between consistency and availability.
+ACID（原子性、一致性、隔离性、持久性）和CAP（一致性、可用性、分区容忍性）是分布式系统的基本概念。它们经常被用来解释一致性和可用性之间的权衡。
 
-CAP is an acronym for Consistency, Availability, and Partition Tolerance. According to the CAP theorem, any distributed system can only guarantee two of the three properties at any time. You can't guarantee all three properties at once.
+CAP是一致性、可用性和分区容忍度的首字母缩写。根据CAP定理，任何分布式系统在任何时候都只能保证这三个属性中的两个。你不可能同时保证所有三个属性。
 
-ACID is an acronym that stands for Atomicity, Consistency, Isolation, Durability. ACID is a set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc.
+ACID是一个首字母缩写，代表原子性、一致性、隔离性、持久性。ACID是数据库事务的一组属性，旨在保证即使在错误、断电等情况下的有效性。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.bmc.com/blogs/cap-theorem/'>What is CAP Theorem?</BadgeLink>

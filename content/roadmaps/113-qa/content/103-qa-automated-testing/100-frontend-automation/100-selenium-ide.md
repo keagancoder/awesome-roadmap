@@ -1,8 +1,7 @@
-# Selenium IDE
+# Selenium
 
-Selenium IDE is an open source web automation testing tool from the Selenium Suite used primarily for QA purposes. It functions as a Firefox extension and does not require any programming knowledge and test cases can be created simply by interacting with the browser. 
+Selenium是一个开源的工具，可以使网络浏览器自动化。它提供了一个单一的界面，让你用Ruby、Java、NodeJS、PHP、Perl、Python和C#等编程语言编写测试脚本。
 
-Selenium itself is an open-source, automated testing tool used to test web applications across various browsers. It's primarily built in Java and supports several browsers and programming languages. Selenium IDE was developed to speed up the creation of automation scripts. It’s a rapid prototyping tool and can be used by engineers with no programming knowledge whatsoever. Because of its simplicity, Selenium IDE is best used as a prototyping tool and not a complete solution for developing and maintaining complex test suites.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.selenium.dev/selenium-ide/'>Selenium IDE Website</BadgeLink>

@@ -1,6 +1,6 @@
 # Urfave cli
 
-Urfave cli is a simple, fast, and fun package for building command line apps in Go.
+Urfave cli是一个简单、快速、有趣的软件包，用于在Go中构建命令行应用程序。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='GitHub Repository' href='https://github.com/urfave/cli'>Urfave cli Github Repo</BadgeLink>

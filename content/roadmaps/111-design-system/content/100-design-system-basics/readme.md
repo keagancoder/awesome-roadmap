@@ -1,6 +1,6 @@
-# Design System Basics
+# 设计系统基础知识
 
-A design system is a set of standards to manage design at scale by reducing redundancy while creating a shared language and visual consistency across different pages and channels.
+设计系统是一套标准，通过减少冗余来管理规模化的设计，同时在不同的页面和渠道中创造一种共享语言和视觉一致性。
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.nngroup.com/articles/design-systems-101/'>Design Systems 101</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Watch' href='https://www.youtube.com/watch?v=wc5krC28ynQ'>What is a Design System? Design Systems 101 for Designers</BadgeLink>

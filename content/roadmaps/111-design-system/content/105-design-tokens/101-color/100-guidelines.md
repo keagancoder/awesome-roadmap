@@ -1,3 +1,3 @@
-# Guidelines
+# 指南
 
-Provide guidelines on how and when to use the colours in your palette, what to keep in mind when working with them and how not to use them.
+提供关于如何以及何时使用调色板中的颜色的指南，在使用这些颜色时应注意什么，以及如何不使用它们。

@@ -1,9 +1,9 @@
 # Zephyr
 
-Zephyr is a testing solution that improves the quality of your software by managing and monitoring end-to-end testing. It is very effective for managing manual testing. Its key capabilities include:
-- Test-case creation
-- Organization of tests by product releases and components
-- Assignment of tests to the Quality Assurance team
+Zephyr是一个测试解决方案，通过管理和监控端到端测试来提高软件的质量。它对管理手工测试非常有效。它的主要功能包括。
+- 测试用例的创建
+- 通过产品发布和组件来组织测试
+- 将测试分配给质量保证团队用户角色。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/zephyr-agile-jira.html'>Zephyr for JIRA Tutorial: Test Management Tool</BadgeLink>

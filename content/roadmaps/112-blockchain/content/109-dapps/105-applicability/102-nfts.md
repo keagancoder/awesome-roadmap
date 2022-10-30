@@ -1,6 +1,6 @@
 # NFTs
 
-A non-fungible token (NFT) is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
+不可伪造的代币（NFT）是一种金融证券，由存储在区块链中的数字数据组成，是一种分布式账本的形式。NFT的所有权被记录在区块链中，并可由所有者转让，允许NFT被出售和交易。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.investopedia.com/non-fungible-tokens-nft-5115211'>Non-Fungible Token (NFT)</BadgeLink>

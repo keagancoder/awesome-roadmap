@@ -1,6 +1,6 @@
-# Architecture
+# 架构
 
-Unlike Web2 applications, in Web3 there’s no centralized database that stores the application state or user identity, and there’s no centralized web server where the backend logic resides.
+与Web2应用程序不同，在Web3中没有集中的数据库来存储应用程序的状态或用户身份，也没有集中的Web服务器来存放后台逻辑。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application'>The Architecture of a Web 3.0 application</BadgeLink>

@@ -1,3 +1,3 @@
-# Style
+# 风格
 
-Make sure that your icon family makes visual sense as a whole. Picking an outlined or filled style and sticking with it will lead to better visual consistency and predictability.
+确保你的图标系列作为一个整体具有视觉意义。挑选一种勾勒或填充的风格并坚持下去，将导致更好的视觉一致性和可预测性。

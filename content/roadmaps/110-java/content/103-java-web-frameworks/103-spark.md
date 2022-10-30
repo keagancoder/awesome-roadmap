@@ -1,6 +1,6 @@
 # Spark
 
-Spark is a micro framework for creating web applications in Kotlin and Java 8. Sinatra, a popular Ruby micro framework, was the inspiration for it.
+Spark是一个用Kotlin和Java 8创建网络应用的微型框架。Sinatra，一个流行的Ruby微框架，是它的灵感来源。
 
 <ResourceGroupTitle>Reference Resource</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.playframework.com/'>Play Framework Website</BadgeLink>

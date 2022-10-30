@@ -1,3 +1,3 @@
-# Tone of Voice
+# 语音语调
 
-A clear tone of voice defines how you speak to your audience at every moment in their journey, helping them get wherever they want to go.
+清晰的语气定义了你在受众旅程中的每一时刻如何与他们交谈，帮助他们到达他们想去的地方。

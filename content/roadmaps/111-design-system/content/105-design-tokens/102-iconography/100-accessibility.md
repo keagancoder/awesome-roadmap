@@ -1,3 +1,3 @@
-# Accessibility
+# 无障碍性
 
-For icons that convey a meaning or serve a function, add the necessary support for screen readers. You can skip this for decorative icons.
+对于传达某种意义或服务于某种功能的图标，要为屏幕阅读器添加必要的支持。对于装饰性图标，你可以跳过这一点。

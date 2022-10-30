@@ -1,3 +1,3 @@
-# Tooling Analytics
+# 工具分析
 
-Track what tools are being used for your design system. Find out which ones are used the most and which features are the most popular.
+追踪你的设计系统正在使用哪些工具。找出哪些是使用最多的，哪些功能是最受欢迎的。

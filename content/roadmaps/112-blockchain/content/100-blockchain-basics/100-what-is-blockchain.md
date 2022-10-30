@@ -1,6 +1,6 @@
-# Blockchain
+# 区块链
 
-A blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.
+区块链是一个去中心化的、分布式的、通常是公开的、由称为区块的记录组成的数字账本，用于记录许多计算机上的交易，这样，任何涉及的区块都不能被追溯性地改变，而不会改变所有后续的区块。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.investopedia.com/terms/b/blockchain.asp'>Blockchain Explained</BadgeLink>

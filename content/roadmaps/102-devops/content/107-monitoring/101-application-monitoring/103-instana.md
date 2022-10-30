@@ -1,6 +1,6 @@
 # Instana
 
-Instana is particularly used in monitoring and managing the performance of software used in microservice architectures, and permits 3D visualisation of performance through graphs generated using machine learning algorithms, with notifications regarding performance also generated automatically. Instana's Application Performance Monitoring (APM) tool of the same name is especially purposed for monitoring software used in so-called "container orchestration" (a modular method of providing a software service).
+Instana特别用于监测和管理微服务架构中使用的软件的性能，并允许通过使用机器学习算法生成的图表对性能进行3D可视化，同时还自动生成有关性能的通知。Instana的同名应用性能监控（APM）工具特别用于监控所谓的 "容器协调"（一种提供软件服务的模块化方法）中使用的软件。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='System Website' href='https://www.instana.com/'>Instana Website</BadgeLink>

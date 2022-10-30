@@ -1,3 +1,3 @@
-# Placement and Clearance Guidance
+# 放置和清除指导
 
-Your logo must come with clear guidance on how to place it and how to preserve its space since it lives along with other content.
+你的标志必须有明确的指导，说明如何放置它，以及如何保留它的空间，因为它与其他内容一起生活。

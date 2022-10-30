@@ -1,3 +1,3 @@
-# Guidelines
+# 指南
 
-Providing guidance on how to approach common UX patterns will allow your organisation to establish a consistent approach and a consistent user experience on any platform.
+为如何处理常见的用户体验模式提供指导，将使你的组织在任何平台上建立一个一致的方法和一致的用户体验。

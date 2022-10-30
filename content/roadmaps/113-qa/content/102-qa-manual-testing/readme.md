@@ -1,6 +1,7 @@
-# QA Manual Testing
+# ＃QA手动测试
 
-Manual Testing is a type of software testing in which test cases are executed manually by a tester without using any automated tools. The purpose of Manual Testing is to identify the bugs, issues, and defects in the software application. Manual software testing is the most primitive technique of all testing types and it helps to find critical bugs in the software application.
+手工测试是一种软件测试，由测试人员手动执行测试案例，不使用任何自动化工具。手工测试的目的是识别软件应用中的错误、问题和缺陷。手工软件测试是所有测试类型中最原始的技术，它有助于发现软件应用中的关键错误。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/manual-testing.html'>Manual Testing Tutorial: What is, Types, Concepts</BadgeLink>

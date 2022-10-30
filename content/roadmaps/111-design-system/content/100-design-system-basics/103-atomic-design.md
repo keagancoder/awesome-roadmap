@@ -1,6 +1,6 @@
 # Atomic Design
 
-Atomic design (by Brad Frost) is a mental model to help you think of user interfaces as a cohesive whole and a collection of parts at the same time. Through the comparison to atoms, molecules, and organisms, we can think of the design of our UI as a composition of self-containing modules put together.
+Atomic design （Brad Frost著）是一个心理模型，可以帮助你把用户界面看作是一个有凝聚力的整体，同时也是一个部分的集合。通过与原子、分子和生物体的比较，我们可以把用户界面的设计看作是由自含的模块组合而成的。
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/'>Atomic Design Principles & Methodology 101</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://atomicdesign.bradfrost.com/chapter-2/'>Atomic Design Methodology</BadgeLink>

@@ -1,6 +1,6 @@
-## Typecasting 
+# 类型转换 
 
-The process of converting the value of one data type (integer, string, float, etc.) to another data type is called type conversion. Python has two types of type conversion: Implicit and Explicit.
+将一种数据类型(整数、字符串、浮点数等)的值转换为另一种数据类型的过程称为类型转换。Python 有两种类型的转换。隐式和显式。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.programiz.com/python-programming/type-conversion-and-casting'>Type Conversion and Casting</BadgeLink>

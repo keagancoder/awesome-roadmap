@@ -1,6 +1,6 @@
 # Pulumi
 
-Pulumi is an open source Infrastructure as Code tool that can be written in TypeScript, JavaScript, Python, Go, .NET, Java, and YAML to model cloud infrastructure.
+Pulumi是一个开源的基础设施即代码工具，可以用TypeScript、JavaScript、Python、Go、.NET、Java和YAML编写云基础设施模型。
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.pulumi.com/'>Pulumi Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://www.pulumi.com/docs/'>Official Documentation</BadgeLink>

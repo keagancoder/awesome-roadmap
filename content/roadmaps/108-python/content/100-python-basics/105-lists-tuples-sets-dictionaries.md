@@ -1,12 +1,13 @@
 # Lists, Tuples, Sets, and Dictionaries
 
-**Lists:** are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python.
+**列表：**就像其他语言中声明的动态大小的数组（C++中的vector和Java中的ArrayList）。列表不需要总是同质的，这使得它成为Python中最强大的工具。
 
-**Tuple:** A Tuple is a collection of Python objects separated by commas. In some ways, a tuple is similar to a list in terms of indexing, nested objects, and repetition but a tuple is immutable, unlike lists that are mutable.
+**元组：**元组是一个由逗号分隔的Python对象的集合。在某些方面，元组在索引、嵌套对象和重复方面与列表相似，但元组是不可改变的，不像列表是可改变的。
 
-**Set:** A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements. Python’s set class represents the mathematical notion of a set.
+**集合：**集合是一个无序的集合数据类型，它是可迭代的，可变的，并且没有重复的元素。Python的集合类代表了数学上的集合概念。
 
-**Dictionary:** in Python is an ordered (since Py 3.7) [unordered (Py 3.6 & prior)] collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized.
+**Dictionary:**在Python中是一个有序的（从Py 3.7开始）[无序的（Py 3.6及以前）]数据值的集合，用来存储数据值，就像map一样，与其他数据类型只持有一个值作为元素不同，Dictionary持有键：值对。在字典中提供键值是为了使其更加优化。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='red' badgeText='Watch' href='https://www.youtube.com/watch?v=n0krwG38SHI'>Difference Between List, Tuple, Set and Dictionary in Python</BadgeLink>

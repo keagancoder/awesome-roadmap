@@ -1,6 +1,6 @@
 # Version Control Systems
 
-Version control systems allow you to track changes to your codebase/files over time. They allow you to go back to some previous version of the codebase without any issues. Also, they help in collaborating with people working on the same code – if you’ve ever collaborated with other people on a project, you might already know the frustration of copying and merging the changes from someone else into your codebase; version control systems allow you to get rid of this issue.
+版本控制系统允许你跟踪你的代码库/文件随时间的变化。它们允许你在没有任何问题的情况下返回到代码库的某个先前版本。此外，它们还有助于与从事相同代码工作的人合作--如果你曾经与其他人合作过一个项目，你可能已经知道将别人的修改复制和合并到你的代码库中的挫折感；版本控制系统让你摆脱了这个问题。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=zbKdDsNNOhg'>Version Control System Introduction</BadgeLink>

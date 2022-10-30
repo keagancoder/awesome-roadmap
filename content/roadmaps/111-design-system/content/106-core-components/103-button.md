@@ -1,13 +1,13 @@
-# Button
+# 按钮
 
-Buttons are interactive elements used for single-step actions.
+按钮是用于单步操作的互动元素。
 
-- **Hover State:** Clearly show that the button is interactive when it gets hovered with a mouse cursor.
-- **Active State:** Used when a button gets pressed. The same state can be used to represent the button responsible for toggling another element on the page while that element is visibly opened.
-- **Focused State:** Used when a button gets selected through keyboard navigation.
-- **Icon Support:** Icons easily communicate the purpose of the button when used next to its label or can be used without text when there’s not enough space. Make sure that the accessibility label is provided when used with an icon only.
-- **Disabled:** Visually shows that a button is not interactive and restricts it from being pressed.
-- **Loading:** Used when users have to wait for the result of their action after they press a button. If a spinner is used to display this state make sure that it’s not changing the original button width or height.
-- **Full Width:** By default buttons take the width of their content, but they should also come with a full width variant that works well in mobile devices.
-- **Variants:** When using multiple buttons, there should be a way to differentiate between primary and secondary actions. Buttons may play different roles for the user or be used on different types of surfaces and they have to change the way they look.
-- **Sizes:** Buttons can be used in different areas of the website and may have multiple predefined sizes. On mobile, tappable areas have to be a minimum of 48px to be accessible according to iOS and Android accessibility guidelines.
+- **悬停状态：**当按钮被鼠标光标悬停时，清楚地表明它是互动的。
+- **活动状态：**当一个按钮被按下时使用。同样的状态可以用来表示负责切换页面上另一个元素的按钮，而该元素是明显打开的。
+- 关注状态：**当一个按钮通过键盘导航被选中时使用。
+- **图标支持：**图标在其标签旁边使用时很容易传达按钮的目的，或者在没有足够空间时可以不使用文字。确保仅与图标一起使用时，提供无障碍标签。
+- **禁用：**在视觉上显示一个按钮不是互动的，限制它被按下。
+- **加载：**当用户在按下一个按钮后需要等待其行动的结果时使用。如果使用旋转器来显示这种状态，请确保它不改变原来按钮的宽度或高度。
+- 全宽：**默认情况下，按钮采用其内容的宽度，但它们也应该有一个全宽的变体，在移动设备上运行良好。
+- **变体：**当使用多个按钮时，应该有一种方法来区分主要和次要的行动。按钮可能对用户起到不同的作用，或者在不同类型的表面上使用，它们必须改变它们的外观方式。
+- **尺寸：**按钮可以在网站的不同区域使用，可能有多种预定义的尺寸。在移动设备上，根据iOS和Android的可访问性指南，可触摸的区域必须至少是48px，才能被访问。

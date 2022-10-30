@@ -1,6 +1,6 @@
 # CloudFormation
 
-CloudFormation is the AWS service that helps to define collections of AWS resources. CloudFormation lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.
+CloudFormation是AWS的服务，有助于定义AWS资源的集合。CloudFormation让你通过把基础设施当作代码来建模、配置和管理AWS和第三方资源。
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://aws.amazon.com/cloudformation/'>AWS CloudFormation Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.aws.amazon.com/cloudformation/index.html'>Official Documentation</BadgeLink>

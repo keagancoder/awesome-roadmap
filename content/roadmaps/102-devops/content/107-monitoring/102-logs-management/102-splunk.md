@@ -1,6 +1,6 @@
 # Splunk
 
-The Splunk platform removes the barriers between data and action, empowering observability, IT and security teams to ensure their organizations are secure, resilient and innovative.
+Splunk平台消除了数据和行动之间的障碍，使观察力、IT和安全团队能够确保他们的组织安全、有弹性和创新。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Splunk Website' href='https://www.splunk.com/'>Splunk Website</BadgeLink>

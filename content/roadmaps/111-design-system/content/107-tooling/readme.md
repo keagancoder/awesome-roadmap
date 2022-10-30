@@ -1,4 +1,4 @@
-# Tooling
+# 工具
 
-To make things efficient for anyone using your design system, make tooling essential. Find the workflows where you can integrate things with the tools people use. This helps organically spread your design system and make it crucial to people’s daily work.
+为了使使用你的设计系统的任何人都能有效地做事，使工具成为必不可少的。找到你能与人们使用的工具整合的工作流程。这有助于有机地传播你的设计系统，使之成为人们日常工作的关键。
 

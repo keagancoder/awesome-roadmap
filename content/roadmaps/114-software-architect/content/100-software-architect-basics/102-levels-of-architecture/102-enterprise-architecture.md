@@ -1,3 +1,3 @@
-# Enterprise Level Architecture
+# 企业级架构
 
-The highest level of architecture. Focus on multiple solutions. High level, abstract design, which needs to be detailed out by solution or application architects. Communication is across the organization.
+架构的最高层次。专注于多种解决方案。高水平的、抽象的设计，需要由解决方案或应用架构师来详细说明。沟通是跨组织的。

@@ -1,3 +1,3 @@
-# Color
+# 颜色
 
-Not only an efficient way to showcase your brand, but also an efficient way to communicate with your users. Colour palettes created with purpose over aesthetics in mind can help you create intuitive design patterns by adding meaning to your interface.
+不仅是展示你的品牌的有效方式，也是与你的用户沟通的有效方式。考虑到目的而不是美学而创建的调色板可以通过为你的界面添加意义来帮助你创建直观的设计模式。

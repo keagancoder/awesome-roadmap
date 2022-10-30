@@ -1,6 +1,6 @@
 # Terraform
 
-Terraform is an extremely popular open source Infrastructure as Code (IaC) tool that can be used with many different cloud and service provider APIs. Terraform focuses on an immutable approach to infrastructure, with a terraform state file center to tracking the status of your real world infrastructure.
+Terraform是一个非常流行的开源基础设施即代码（IaC）工具，可用于许多不同的云和服务提供商的API。Terraform专注于基础设施的不可改变的方法，以Terraform状态文件为中心，跟踪现实世界基础设施的状态。
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.terraform.io/'>Terraform Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://www.terraform.io/docs'>Terraform Documentation</BadgeLink>

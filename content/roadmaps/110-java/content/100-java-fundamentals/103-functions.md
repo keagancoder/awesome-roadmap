@@ -1,6 +1,7 @@
-# Functions
+# 函数
 
-A method/function is a way to perform some task. Similarly, in programming like Java, a function method is a block of code written to perform a specific task repeatedly. It provides reusability of code. We write the function once and use it many times. It works on the 'DRY' principle i.e., "Do not repeat yourself".
+方法/函数是一种执行某些任务的方式。同样，在像Java这样的编程中，一个函数方法是为重复执行一项特定任务而编写的代码块。它提供了代码的可重复使用性。我们写一次函数，就可以多次使用它。它根据 "DRY "原则工作，即 "不要重复自己"。
+
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

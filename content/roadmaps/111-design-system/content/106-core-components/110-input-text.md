@@ -1,11 +1,11 @@
-# Input Text
+# 输入文本
 
-Input text lets users enter and edit text.
+输入文本让用户输入和编辑文本。
 
-- **Disabled State:** Prevents input interactions and removes its value from the form submission.
-- **Placeholder:** When there’s no value entered, show a placeholder with a potential value example. Don’t use placeholders as labels for the inputs.
-- **Label:** There should be a text label linked with the text field. Clicking the label should move the focus to the field.
-- **Error State:** The error state is used for form validation errors when the error is related to the text field only. Always use a text error along with changing the colour of the field.
-- **Focused State:** The focused state should highlight the text field when users start to interact with it. There is always only one focused field in the form.
-- **Autocomplete:** When applicable, adding support for the HTML autocomplete attribute will allow users to easily enter different data types.
-- **Icon Support:** Icons are used to describe input methods, express a text field state or provide additional functionality.
+- **禁用状态：**防止输入互动，并从表单提交中删除其值。
+- **占位符：**当没有输入值时，显示一个占位符，并提供一个潜在的值示例。不要使用占位符作为输入的标签。
+- 标签：**应该有一个与文本字段相连的文本标签。点击标签应该把焦点移到该字段。
+- 错误状态：**当错误只与文本字段有关时，错误状态用于表单验证错误。始终使用一个文本错误，同时改变字段的颜色。
+- 关注状态：**关注状态应该在用户开始与之互动时突出显示文本字段。在表单中总是只有一个焦点字段。
+- **自动完成：**当适用时，添加对HTML自动完成属性的支持将允许用户轻松输入不同的数据类型。
+- **图标支持：**图标被用来描述输入方法，表达一个文本字段的状态或提供额外的功能。

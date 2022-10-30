@@ -1,8 +1,8 @@
-# Configuration Management
+# 配置管理
 
-Configuration management is a systems engineering process for establishing consistency of a product’s attributes throughout its life. In the technology world, configuration management is an IT management process that tracks individual configuration items of an IT system. IT systems are composed of IT assets that vary in granularity. An IT asset may represent a piece of software, or a server, or a cluster of servers. The following focuses on configuration management as it directly applies to IT software assets and software asset CI/CD.
+配置管理是一个系统工程过程，用于建立产品在整个生命周期内属性的一致性。在技术领域，配置管理是一个IT管理过程，跟踪IT系统的各个配置项目。IT系统是由颗粒度不同的IT资产组成的。一个IT资产可以代表一个软件，或者一个服务器，或者一个服务器集群。下面重点介绍配置管理，因为它直接适用于IT软件资产和软件资产CI/CD。
 
-Software configuration management is a systems engineering process that tracks and monitors changes to a software systems configuration metadata. In software development, configuration management is commonly used alongside version control and CI/CD infrastructure. This post focuses on its modern application and use in agile CI/CD software environments.
+软件配置管理是一个系统工程过程，它跟踪和监控软件系统配置元数据的变化。在软件开发中，配置管理通常与版本控制和CI/CD基础设施一起使用。本篇文章重点介绍它在敏捷CI/CD软件环境中的现代应用和使用。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://www.atlassian.com/microservices/microservices-architecture/configuration-management'>What is configuration management?</BadgeLink>

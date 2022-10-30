@@ -1,3 +1,3 @@
-# Guidelines
+# 指南
 
-Provide guidelines on how and when to use the pairings in your typography scale, what to keep in mind when working with them and how not to use them.
+提供指南，说明如何以及何时在你的排版比例中使用这些配对，在使用它们时应注意什么以及如何不使用它们。

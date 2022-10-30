@@ -1,10 +1,10 @@
-# Decision Making
+# 决策
 
-An architect needs to be able to take decisions and guide projects or the entire organization into the right direction.
+一个建筑师需要能够做出决定，并引导项目或整个组织进入正确的方向。
 
-* **Know what is important**: Do not waste time with unimportant decisions or activities. Learn what is important. To my knowledge there is not a book which has these information. My personal favorites are these 2 characteristics which I usually consider when evaluating if something is important or not:
-    1. Conceptional Integrity: If you decide to do it in one way, stick to it, even if it is sometimes better to do it differently. Usually, this leads to a more straightforward overall concept, eases comprehensibility and eases maintenance.
-    2. Uniformity: If you for example define and apply naming conventions it is not about upper- or lowercase, but to have it applied everywhere in the same way.
-* **Prioritize**: Some decisions are highly critical. If they are not taken early enough workarounds are build up which are often unlikely to be removed later and are a nightmare for maintenance, or worse, developers simply stop working until a decision is taken. In such situations it is sometimes even better to go with a “bad” decision instead of having no decision. But before it comes to this situation, consider prioritizing upcoming decisions. There are different ways to do so. I suggest having a look at the Weighted Shortest Job First (WSJF) model which is widely used within agile software development. Especially the measures time criticality and risk reduction are critical to estimate the priority of architecture decisions.
-* **Know your competence**: Do not decide things which are not in your competence. This is critical as it may ruin your position as architect significantly if not considered. To avoid this, clarify with your peers which responsibilities you have and what is part of your role. If there are more than one architect, then you should respect the level of architecture in which you are currently deployed. As an lower level architect you better come up with suggestions for higher level architecture instead of decisions. Further, I recommend checking critical decisions always with a peer.
-* **Evaluate multiple options**: Always lay out more than one option if it comes to decisions. In the majority of the cases I was involved in, there was more than one possible (good) option. Going with only one option is bad in two respects: First, it seems that you did not do your job properly and secondly it impedes making proper decisions. By defining measures, options can be compared based on facts instead of gut feelings, e.g. license costs or maturity. This usually leads to better and more sustainable decisions. Further, it eases to sell the decision to different stakeholders. Besides, if you do not have evaluated options properly you may miss arguments when it comes to discussions.
+**知道什么是重要的**。不要把时间浪费在不重要的决定或活动上。了解什么是重要的。据我所知，还没有一本书有这些信息。我个人最喜欢的是这2个特点，我在评估某件事情是否重要时通常会考虑这两个特点。
+    1. 观念的完整性。如果你决定以一种方式做，就坚持下去，即使有时以不同的方式做会更好。通常情况下，这将导致一个更直接的整体概念，易于理解和易于维护。
+    2. 2. 统一性：例如，如果你定义并应用命名规则，这不是关于大写或小写，而是让它以同样的方式应用于各个地方。
+**优先性**。有些决定是非常关键的。如果不及早作出决定，就会产生一些变通办法，而这些变通办法往往不可能在以后被删除，对维护来说是一场噩梦。在这种情况下，有时甚至可以用一个 "坏 "的决定来代替没有决定。但在这种情况出现之前，请考虑对即将作出的决定进行优先排序。有不同的方法可以做到这一点。我建议看一下加权最短工作优先（WSJF）模型，它在敏捷软件开发中被广泛使用。特别是时间的关键性和风险的减少，对于估计架构决策的优先级至关重要。
+**了解你的能力**。不要决定不属于你能力范围的事情。这一点很关键，因为如果不考虑的话，可能会严重毁掉你作为架构师的地位。为了避免这种情况，要与你的同行澄清你有哪些责任，哪些是你的角色的一部分。如果有一个以上的架构师，那么你应该尊重你目前所处的架构级别。作为一个低级别的架构师，你最好为高级别的架构提出建议而不是决定。此外，我建议在做关键决定时，一定要和同行一起检查。
+**评估多个选项**。如果涉及到决策，一定要列出不止一个选项。在我参与的大多数案例中，有不止一个可能的（好的）选项。只用一个选项在两个方面是不好的。首先，你似乎没有做好你的工作，其次，它阻碍了做出正确的决定。通过定义衡量标准，可以根据事实而不是直觉来比较各种选择，例如，许可证成本或成熟度。这通常会导致更好和更持久的决策。此外，这也便于向不同的利益相关者推销该决定。此外，如果你没有正确地评估选项，你可能会在讨论时错过争论。

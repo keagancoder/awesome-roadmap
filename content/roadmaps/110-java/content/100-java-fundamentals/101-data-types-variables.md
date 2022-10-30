@@ -1,6 +1,6 @@
-# Data Types and Variables
+# 数据类型和变量
 
-Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
+Java中的变量是一个数据容器，在Java程序执行过程中存储数据值。每个变量都被分配了一个数据类型，它指定了它可以容纳的数值的类型和数量。变量是数据的一个内存位置名称。Java变量主要有三种类型。本地变量、实例变量和静态变量。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/java-variables.html'>What are Data Types & Variables?</BadgeLink>

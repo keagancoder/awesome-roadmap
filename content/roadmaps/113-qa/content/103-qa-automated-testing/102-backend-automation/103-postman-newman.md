@@ -1,8 +1,8 @@
 # Newman
 
-Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. It is an API client that makes it easy for developers to create, share, test, and document APIs. With this open-source solution, users can create and save simple and complex HTTP/s requests and read their responses.
+Postman是一个用于构建和使用API的API平台。Postman简化了API生命周期的每一步，并简化了协作，因此你可以更快地创建更好的API。它是一个API客户端，使开发者能够轻松地创建、共享、测试和记录API。通过这个开源的解决方案，用户可以创建和保存简单和复杂的HTTP/s请求，并读取它们的响应。
 
-Newman is a command-line Collection Runner for Postman. It enables you to run and test a Postman Collection directly from the command line. It's built with extensibility to integrate it with your continuous integration servers and build systems.
+Newman是Postman的一个命令行集合运行器。它使你能够直接从命令行运行和测试Postman集合。它具有可扩展性，可以与你的持续集成服务器和构建系统集成。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.postman.com'>Postman website</BadgeLink>

@@ -1,3 +1,3 @@
-# Test Cases and Scenarios
+# 测试用例和场景
 
-Test cases and scenarios creation is the best of all software testing activities. Based on clearly written and documented test cases you can cover all the possibilities and release with more confidence.
+测试用例和场景创建是所有软件测试活动中最好的。基于清晰的书面和文档化的测试案例，你可以涵盖所有的可能性，并以更大的信心发布。

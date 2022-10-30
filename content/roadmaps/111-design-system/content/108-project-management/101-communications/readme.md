@@ -1,3 +1,3 @@
-# Communications
+# 沟通
 
-Your users play a great role in shaping your design system. Creating communication channels where they can raise their voices helps you keep track of how they’re using your system. It’ll also improve their sense of ownership and the adoption of your system.
+你的用户在塑造你的设计系统方面发挥了巨大的作用。建立沟通渠道，让他们能够发出自己的声音，有助于你跟踪他们是如何使用你的系统的。这也会提高他们的主人翁意识和对你系统的采用。

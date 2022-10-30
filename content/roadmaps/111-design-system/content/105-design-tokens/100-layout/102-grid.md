@@ -1,3 +1,3 @@
-# Grid
+# 网格
 
-Every layout should sit on a grid that brings order and hierarchy to the interface. Define a grid separately for mobile, tablet and desktop devices with columns, gutters, and margins so your interface can adapt to any platform easily.
+每一个布局都应该位于一个网格上，为界面带来秩序和层次感。为移动设备、平板电脑和桌面设备分别定义一个网格，包括列、沟槽和边距，这样你的界面就能轻松适应任何平台。

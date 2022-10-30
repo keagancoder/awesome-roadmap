@@ -1,10 +1,10 @@
-# Communication
+# 沟通
 
-From my observations this is one of the most underestimated skill. If you are brilliant in design but cannot communicate your ideas, your thoughts are likely to have less impact or even fail to succeed.
+根据我的观察，这是最被低估的技能之一。如果你在设计方面很出色，但不能沟通你的想法，你的想法很可能影响不大，甚至不能成功。
 
-* **Learn how to communicate your ideas**: When collaborating on a board or flip chart, it is essential to know how to use it properly in order to structure you and your peers’ thoughts. I found the book “UZMO — Thinking With Your Pen” to be a good resource to enhance my skills in this area. As an architect you usually do not only participating in a meeting, usually you need to drive the meeting and to moderate it.
-* **Give talks to large groups**: Presenting your ideas to a small or large group should be doable for you. If you feel uncomfortable with this, start presenting to your best friend. Enlarge the group slowly. This is something which you can only learn by doing and by leaving your personal comfort zone. Be patient with yourself, this process may take some time.
-* **Find the right level of communication**: Different stakeholders have different interests and views. They need to be addressed individually on their level. Before you communicate, step back and check if the information you want to share have the right level, regarding abstractness, content, goals, motivations, etc. Example: A developer is usually interested in the very little detail of the solution, whereas a manager prefers to know which option saves most money.
-* **Communicate often**: A brilliant architecture is worthless if nobody knows about it. Distribute the target architecture and the thoughts behind it, regularly and on every organizational level. Schedule meetings with developers, architects and managers to show them the desired or defined way.
-* **Be transparent**: Regular communication mitigates missing transparency only partially. You need to make the reason behind decisions transparent. Especially, if people are not involved in the decision-making process it is hard to understand and to follow the decision and rationale behind it.
-* **Be always prepared to give a presentation**: There is always someone with questions and you want to give the right answers immediately. Try to always have the most important slides in a consolidated set which you can show and explain. It saves you a lot of time and it gives security to yourself.
+**学会如何沟通你的想法**。当在黑板或挂图上进行合作时，必须知道如何正确使用它，以组织你和你的同伴的想法。我发现《UZMO--用笔思考》这本书是提高我在这方面技能的一个好资源。作为一个建筑师，你通常不仅仅是参加会议，通常你需要推动会议并主持会议。
+**给大集团做讲座**。向一个小团体或大团体介绍你的想法对你来说应该是可以做到的。如果你对此感到不舒服，可以开始向你最好的朋友介绍。慢慢扩大小组。这是你只能通过实践和离开你的个人舒适区来学习的东西。对自己要有耐心，这个过程可能需要一些时间。
+**找到合适的沟通层次**。不同的利益相关者有不同的利益和观点。需要根据他们的水平分别处理。在你沟通之前，退后一步，检查你想分享的信息是否有正确的层次，关于抽象性、内容、目标、动机，等等。例子。开发人员通常对解决方案的很小的细节感兴趣，而经理则喜欢知道哪种方案可以节省很多钱。
+**经常沟通**。如果没有人知道，一个出色的架构是毫无价值的。定期在每个组织层面上发布目标架构和它背后的想法。安排与开发人员、架构师和经理的会议，向他们展示所期望的或确定的方式。
+**要透明**。定期沟通只能部分地缓解透明度的缺失。你需要使决策背后的原因透明。特别是，如果人们没有参与到决策过程中，就很难理解和遵循决策及其背后的理由。
+**要随时准备做演讲**。总有人会有问题，你要立即给出正确的答案。尽量把最重要的幻灯片放在一个统一的套子里，你可以展示和解释。这将为你节省大量的时间，并为你自己提供安全感。

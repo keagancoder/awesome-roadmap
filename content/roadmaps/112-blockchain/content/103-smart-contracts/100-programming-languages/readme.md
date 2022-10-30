@@ -1,6 +1,5 @@
-# Programming Languages
+# 编程语言
 
-Smart contracts can be programmed using relatively developer-friendly languages. If you're experienced with Python or any curly-bracket language, you can find a language with familiar syntax.
-
+智能合约可以使用对开发者相对友好的语言进行编程。如果你对Python或任何大括号语言有经验，你可以找到一种熟悉语法的语言。
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/smart-contracts/languages/'>Smart Contract Languages</BadgeLink>

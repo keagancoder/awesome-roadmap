@@ -1,6 +1,6 @@
 # Salt
 
-Salt is an open-source event-driven IT automation, remote task execution, and configuration management software service. Built on python, Salt uses simple and human-readable YAML combined with event-driven automation to deploy and configure complex IT systems.
+Salt是一个开源的事件驱动的IT自动化、远程任务执行和配置管理软件服务。Salt建立在python基础上，使用简单和人类可读的YAML与事件驱动的自动化相结合，部署和配置复杂的IT系统。
 
 <BadgeLink badgeText='Official Website' colorScheme='blue' href='https://docs.saltproject.io/en/latest/topics/about_salt_project.html'>Salt Project Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.saltproject.io/en/latest/'>Official Documentation</BadgeLink>

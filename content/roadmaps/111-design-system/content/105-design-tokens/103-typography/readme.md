@@ -1,3 +1,3 @@
-# Typography
+# 排版设计
 
-Typography is one of the main ways you surface content in products. A clear hierarchy and contrasting styles in your typography scale will make things easier to read and help with the overall structure of your product. It’s also an opportunity to visualise your brand character and presence.
+排版是你在产品中浮现内容的主要方式之一。在你的排版规模中，清晰的层次和对比的风格将使事情更容易阅读，并有助于你产品的整体结构。这也是一个将你的品牌特征和存在可视化的机会。

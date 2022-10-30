@@ -1,6 +1,6 @@
 # SSL/TLS
 
-Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic protocols used to provide security in internet communications. These protocols encrypt the data that is transmitted over the web, so anyone who tries to intercept packets will not be able to interpret the data. One difference that is important to know is that SSL is now deprecated due to security flaws, and most modern web browsers no longer support it. But TLS is still secure and widely supported, so preferably use TLS.
+安全套接字层（SSL）和传输层安全（TLS）是用于提供互联网通信安全的加密协议。这些协议对在网络上传输的数据进行加密，因此任何试图拦截数据包的人都无法解释数据。需要知道的一个区别是，由于安全缺陷，SSL现在已被废弃，大多数现代网络浏览器不再支持它。但TLS仍然是安全的，并得到广泛支持，所以最好使用TLS。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/learning/ssl/what-is-ssl/'>Cloudflare - What is SSL?</BadgeLink>
