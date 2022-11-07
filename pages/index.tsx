@@ -35,15 +35,16 @@ export default function Home(props: HomeProps) {
               fontSize={['22px', '22px', '28px']}
               mb={['8px', '8px', '15px']}
             >
-              Hey there! 👋
+              嗨！ 👋
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text fontWeight={500} as="span">
-                roadmap.sh
+                awesome-roadmap
               </Text>{' '}
-              is a community effort to create roadmaps, guides and other
-              educational content to help guide the developers in picking up the
-              path and guide their learnings.
+              是一项开源的资源分享项目，
+              包含学习路线图、指南和其他的学习资源，
+              以帮助指导开发人员找到自己适合的职业路线，
+              并通过学习路线图来指导他们的提升自己。
             </Text>
           </Box>
 

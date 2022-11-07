@@ -27,9 +27,9 @@ function DesktopMenuLinks() {
   return (
     <Stack d={['none', 'flex', 'flex']} shouldWrapChildren isInline spacing='15px' alignItems='center' color='gray.50'
            fontSize='15px'>
-      <MenuLink text={'Roadmaps'} link={'/roadmaps'} />
-      <MenuLink text={'Guides'} link={'/guides'} />
-      <MenuLink text={'Videos'} link={'/watch'} />
+      <MenuLink text={'路线图'} link={'/roadmaps'} />
+      <MenuLink text={'教程'} link={'/guides'} />
+      {/* <MenuLink text={'Videos'} link={'/watch'} /> */}
 
       <Link ml='10px' bgGradient='linear(to-l, yellow.700, red.600)' p='7px 10px' rounded='4px'
             _hover={{ textDecoration: 'none', bgGradient: 'linear(to-l, red.800, yellow.700)' }}
@@ -73,10 +73,10 @@ function MobileMenuLinks() {
                spacing='12px'
                zIndex={999}
         >
-          <Link href='/roadmaps'>Roadmaps</Link>
-          <Link href='/guides'>Guides</Link>
-          <Link href='/watch'>Videos</Link>
-          <Link href='/signup'>Subscribe</Link>
+          <Link href='/roadmaps'>路线图</Link>
+          <Link href='/guides'>教程</Link>
+          {/* <Link href='/watch'>Videos</Link>
+          <Link href='/signup'>Subscribe</Link> */}
           <CloseButton onClick={() => setIsOpen(false)} pos='fixed' top='40px' right='15px' size='lg' />
         </Stack>
       )}
