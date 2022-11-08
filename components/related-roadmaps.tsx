@@ -32,7 +32,7 @@ export function RelatedRoadmaps(props: RelatedRoadmapsProps) {
       <Container maxW='container.md'>
         <Box display='flex' position='relative' top='-23px' alignItems='center' justifyContent='space-between'>
           <Text textAlign='center' borderWidth={1} bg='white' p='4px' fontWeight='bold' rounded='md' px={'15px'}>
-            Related Roadmaps
+            相关学习路线
           </Text>
 
           <Button as={Link} variant='outline' bg='white' size='sm' _hover={{ textDecoration: 'none', bg: 'gray.100' }}

@@ -1,44 +1,39 @@
 {
   "seo": {
-    "title": "React Developer Roadmap: Learn to become a React developer",
-    "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+    "title": "React开发者路线图:学习成为一名React开发者",
+    "description": "社区驱动，文章、资源、指南、面试问题、React开发的测验。通过遵循本路线图中列出的步骤、技能、资源和指南，学习成为一个现代的React开发者。",
     "keywords": [
-      "react roadmap 2022",
-      "react developer roadmap 2022",
-      "guide to becoming a react developer",
+      "react 学习路线 2022",
+      "成为react开发者的指南",
       "react developer roadmap",
       "react roadmap",
-      "become react developer",
-      "react developer skills",
-      "react skills test",
-      "skills for react development",
-      "learn react development",
-      "what is react",
-      "react quiz",
-      "react interview questions"
+      "成为react开发者",
+      "react开发人员技能",
+      "react技能测试",
+      "react开发的技能",
+      "学习react开发",
+      "什么是react",
+      "react测验",
+      "react面试问题"
     ]
   },
-  "title": "React Developer",
-  "description": "Everything that is there to learn about React and the ecosystem in 2022.",
+  "title": "React开发",
+  "description": "在2022年，有关于React和生态系统的一切都可以学习。",
   "featuredTitle": "React",
   "type": "tool",
-  "featuredDescription": "Step by step guide to become a React Developer in 2022",
+  "featuredDescription": "在2022年成为一名React开发者的步骤指南",
   "isTextHeavy": false,
   "isCommunity": false,
   "featured": true,
-  "resourcesPath": "./resources.md",
+  "resourcesPath": "/roadmaps/103-react/resources.md",
   "jsonUrl": "/project/react.json",
-  "versions": [
-    "latest",
-    "2018",
-    "2017"
-  ],
+  "versions": [],
   "author": {
     "name": "Kamran Ahmed",
     "url": "https://twitter.com/kamranahmedse"
   },
   "pdfUrl": "/pdfs/react.pdf",
-  "contentPathsFilePath": "./content-paths.json",
+  "contentPathsFilePath": "/roadmaps/103-react/content-paths.json",
   "relatedRoadmaps": [
     "frontend",
     "javascript",
