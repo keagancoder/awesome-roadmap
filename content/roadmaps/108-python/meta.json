@@ -1,31 +1,31 @@
 {
   "seo": {
-    "title": "Learn to become a modern Python developer",
-    "description": "Community driven, articles, resources, guides, interview questions, quizzes for python development. Learn to become a modern Python developer by following the steps, skills, resources and guides listed in this roadmap.",
+    "title": "学习成为一个Python开发者",
+    "description": "社区驱动，文章，资源，指南，面试问题，Python开发的测验,通过遵循本路线图中列出的步骤、技能、资源和指南，学习成为一名现代Python开发人员,",
     "keywords": [
-      "guide to becoming an python developer",
-      "python developer roadmap",
-      "python roadmap",
-      "become python developer",
-      "python developer skills",
-      "python skills test",
-      "skills for python development",
-      "learn python development",
-      "what is python",
-      "python quiz",
-      "python interview questions"
+      "成为Python开发者的指南",
+      "Python开发者路线图",
+      "Python路线图",
+      "成为Python开发者",
+      "Python开发者技能",
+      "Python技能测试",
+      "Python开发的技能",
+      "学习Python开发",
+      "什么是Python",
+      "Python测验",
+      "Python面试问题"
     ]
   },
-  "title": "Python Developer",
-  "description": "Step by step guide to becoming a Python developer in 2022",
+  "title": "Python开发",
+  "description": "在2022年成为一名Python开发人员的学习路线指南",
   "featuredTitle": "Python",
   "type": "tool",
-  "featuredDescription": "Step by step guide to becoming a Python Developer in 2022",
+  "featuredDescription": "在2022年成为一名Python开发人员的学习路线指南",
   "isTextHeavy": true,
   "isCommunity": false,
   "featured": true,
   "jsonUrl": "/project/python.json",
-  "resourcesPath": "./resources.md",
+  "resourcesPath": "/roadmaps/108-python/resources.md",
   "pdfUrl": "/pdfs/python.pdf",
   "versions": [
     "latest"
@@ -34,7 +34,7 @@
     "name": "Kamran Ahmed",
     "url": "https://twitter.com/kamranahmedse"
   },
-  "contentPathsFilePath": "./content-paths.json",
+  "contentPathsFilePath": "/roadmaps/108-python/content-paths.json",
   "relatedRoadmaps": [
     "backend",
     "devops",
