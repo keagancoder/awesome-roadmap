@@ -1,37 +1,33 @@
 {
   "seo": {
-    "title": "Android Developer Roadmap: Learn to become an Android developer",
-    "description": "Community driven, articles, resources, guides, interview questions, quizzes for android development. Learn to become a modern Android developer by following the steps, skills, resources and guides listed in this roadmap.",
+    "title": "安卓开发者路线图:学习成为一名安卓开发者r",
+    "description": "社区驱动，文章，资源，指南，面试问题，安卓开发的测验,通过遵循本路线图中列出的步骤、技能、资源和指南，学习成为一名现代安卓开发人员,",
     "keywords": [
-      "guide to becoming an android developer",
-      "android developer roadmap",
-      "android roadmap",
-      "become android developer",
-      "android developer skills",
-      "android skills test",
-      "skills for android development",
-      "learn android development",
-      "what is android",
-      "android quiz",
-      "android interview questions"
+      "成为一名安卓开发者的指南",
+      "安卓开发者路线图",
+      "android 学习路线",
+      "成为安卓开发者",
+      "安卓开发者技能",
+      "安卓技能测试",
+      "安卓开发的技能",
+      "学习安卓开发",
+      "什么是安卓",
+      "安卓测试",
+      "安卓面试问题"
     ]
   },
-  "title": "Android Developer",
-  "description": "Step by step guide to becoming an Android developer in 2022",
+  "title": "Android开发",
+  "description": "在2022年成为一名安卓开发人员的学习路线指南",
   "featuredTitle": "Android",
   "type": "role",
-  "featuredDescription": "Step by step guide to becoming an Android Developer in 2022",
+  "featuredDescription": "在2022年成为一名安卓开发人员的学习路线指南",
   "isTextHeavy": true,
   "isCommunity": false,
   "featured": true,
   "jsonUrl": "/project/android.json",
-  "landingPath": "./landscape.md",
-  "resourcesPath": "./resources.md",
-  "versions": [
-    "latest",
-    "2018",
-    "2017"
-  ],
+  "landingPath": "/roadmaps/107-android/landscape.md",
+  "resourcesPath": "/roadmaps/107-android/resources.md",
+  "versions": [],
   "author": {
     "name": "Kamran Ahmed",
     "url": "https://twitter.com/kamranahmedse"
