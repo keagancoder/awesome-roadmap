@@ -1,67 +1,46 @@
-## What is roadmap.sh?
+## What is Awesome Roadmap?
 
-Roadmap.sh is the place containing community curated roadmaps, study plans, paths and resources for the budding
-developers. It started as a [set of charts to guide the developers](https://github.com/kamranahmedse/developer-roadmap)
-who are confused about what should they learn next but that alone wasn't enough so I expanded it into the website to get
-more contributors involved.
+Awesome Roadmap是一个包含社区策划的路线图、研究计划、路径和资源的地方，为新晋的
+开发者的资源。它最初是一个[指导开发者的图表集](https://github.com/keagancoder/awesome-roadmap)
+但这还不够，所以我把它扩展到网站上，让更多的人参与进来。
+更多的贡献者参与进来。
 
-## What are the plans for roadmap.sh?
 
-The website started off as
-a [simple repository containing a few charts](https://github.com/kamranahmedse/developer-roadmap) for developers and
-based on my personal opinions but it could have been much more than that so I decided to expand it to a website where
-people can contribute to study plans with their areas of expertise as well, add more roadmaps, write guides etc.
+## Awesome Roadmap的计划是什么？
 
-We haven't opened up the sign ups for now but we will be doing. My long term plans for this website are to turn it into
-a goto place for the developers to seek guidance about their careers, help others, share their journeys, incentivize the
-learnings, get feedbacks on their projects etc.
+该网站一开始是一个[包含一些图表的简单资源库](https://github.com/keagancoder/awesome-roadmap)，供开发人员使用，并基于我的个人意见，但它可以比这更多，所以我决定将其扩展为一个网站，在这里人们也可以用他们的专业领域来贡献研究计划，增加更多的路线图，编写指南等。
 
-## How did you build roadmap.sh?
+对这个网站的长期计划是要把它变成成为开发者寻求职业指导、帮助他人、分享他们的历程、激励学习、开发项目并获得反馈的地方。
 
-The basic version of the website has been built with [Next.js](https://github.com/zeit/next.js/), is opensource and can
-be found on [github](https://github.com/kamranahmedse/developer-roadmap). It was hastily done to get it out in front of the
-people and get people to start contributing, so it might be rough on the edges, but that is where we need your help.
+短期计划 —— 完善开发路线和学习资源
+    - 完善开发路线
+    - 整理学习国内资源
 
-## How does it make money?
 
-It doesn't make any money. I have been using my personal time and budget to build it. I did not create this website with
-any intentions of monetization but as a good will, to help the people get out of the frustration that I was once in.
+中期计划 —— 计算机基础教程
+    - 计算机组成原理
+    - 计算机网络
+    - 操作系统
+    - 数据结构
 
-Having said that, I love teaching and my future plans are to be able to work full-time on roadmap.sh for which it has to
-make enough money to pay for my rent, groceries, bills, travel expenses, etc but even if it doesn't it's likely I'll
-continue growing the site however I can. My focus at the moment is not making money from it and just adding content that
-creates value for the people.
+长期计划 —— 保持开源｜共享
 
-> Sponsor the efforts by [paying as little as 5$ per month](https://github.com/sponsors/kamranahmedse) or with [one time payment via paypal](https://paypal.me/kamranahmedse). Alternatively, reach out to me at [kamranahmed.se@gmail.com](mailto:kamranahmed.se@gmail.com).
 
-## Can I contribute?
+## 我可以做出贡献吗？
 
-You definitely can, infact you are encouraged to do that. Even your minor contributions such as typo fixes count. The
-source code of the website can be [found on Github](https://github.com/kamranahmedse/developer-roadmap). Your contributions can
-be:
+你当然可以，事实上，我们鼓励你这样做。即使是你的小贡献，比如纠正错别字也算。网站的该网站的源代码可以[在Github上找到](https://github.com/keagancoder/awesome-roadmap)。你的贡献可以是:
 
-* Adding a new roadmap
-* Updating existing roadmap
-* Suggesting changes to the existing roadmaps
-* Writing a Guide
-* Updating an existing guide
-* Fixing grammar mistakes, typos on the website or the content
-* Updating the UI of the website
-* Refactoring the codebase
-* Becoming a sponsor
+* 增加一个新的路线图
+* 更新现有路线图
+* 对现有路线图提出修改建议
+* 编写一份指南
+* 更新现有的指南
+* 修复网站或内容中的语法错误、错别字
+* 更新网站的用户界面
+* 重构代码库
+* 成为赞助商
 
-Just make sure
-to [follow the contribution guidelines](https://github.com/kamranahmedse/developer-roadmap/tree/master/contributing) when you
-decide to contribute.
 
-## Can I redistribute the content?
+## 联系方式
 
-No, the license of the content on this website does not allow you to redistribute any of the content on this website
-anywhere. You can use it for personal use or share the link to the content if you have to but redistribution is not
-allowed.
-
-## What is the best way to contact you?
-
-Tweet or send me a message [@kamranahmedse](https://twitter.com/kamranahmedse) or email me
-at [kamranahmed.se@gmail.com](mailto:kamranahmed.se@gmail.com). I get lots of messages so apologies in advance if you don't hear back
-from me soon but I do reply to everyone.
+通过上述的邮箱可以很快联系到我，我收到很多信息，所以如果你没有很快收到我的回复，提前道歉，但我确实会回复每个人。
