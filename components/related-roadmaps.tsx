@@ -38,7 +38,7 @@ export function RelatedRoadmaps(props: RelatedRoadmapsProps) {
           <Button as={Link} variant='outline' bg='white' size='sm' _hover={{ textDecoration: 'none', bg: 'gray.100' }}
                   href='/'>
             <Text as='span' display={['inline', 'none', 'none']}>More &rarr;</Text>
-            <Text as='span' display={['none', 'inline', 'inline']}>All Roadmaps &rarr;</Text>
+            <Text as='span' display={['none', 'inline', 'inline']}>全部学习路线 &rarr;</Text>
           </Button>
         </Box>
 

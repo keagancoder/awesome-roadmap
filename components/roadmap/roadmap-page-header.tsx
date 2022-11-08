@@ -157,6 +157,8 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
               size='xs'
               py='14px'
               px='10px'
+              as={Link}
+              href={roadmap.pdfUrl}
               leftIcon={<DownloadIcon />}
               display={['none', 'flex']}
               colorScheme='yellow'
