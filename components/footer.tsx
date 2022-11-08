@@ -36,7 +36,7 @@ export function Footer() {
       <Container maxW='container.md'>
         <NavigationLinks />
 
-        <Box mt={['40px', '40px', '50px']} mb='40px' maxW='500px'>
+        <Box mt={['40px', '40px', '50px']} mb='40px' maxW='600px'>
           <Flex spacing={0} alignItems='center' color='gray.400'>
             <Link d='flex' alignItems='center' fontWeight={600} _hover={{ textDecoration: 'none', color: 'white' }}
                   href='/'>
@@ -45,10 +45,10 @@ export function Footer() {
             </Link>
           </Flex>
 
-          <Text my='20px' fontSize='14px' color='gray.500'>开源创建的路线图、文章、资源和教程，以帮助你选择你的道路并在你的职业生涯中成长。</Text>
+          <Text my='80 px' fontSize='14px' color='gray.500'>开源创建的路线图、文章、资源和教程，以帮助你选择你的道路并在你的职业生涯中成长。</Text>
 
           <Text fontSize='14px' color='gray.500'>
-            <Text as='span' mr='10px'>&copy; roadmap.sh</Text>&middot;
+            <Text as='span' mr='10px'>&copy; Awesome Roadmap </Text>&middot;
             <Link href='/about' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
                   mx='10px'>常见问题</Link>&middot;
             <Link href='/terms' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'

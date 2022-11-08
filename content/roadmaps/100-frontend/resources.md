@@ -1,3 +1,3 @@
 <br />
 
-The resources have been moved to the [interactive frontend roadmap](/frontend) — try clicking any nodes!
+这些资源已被移至[交互式前端路线图](/frontend) - 试着点击任何节点!

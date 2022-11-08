@@ -25,7 +25,7 @@ export default function Roadmaps(props: RoadmapsProps) {
       />
       <Box mb='60px'>
         <PageHeader
-          beforeTitle={<NewAlertBanner />}
+          // beforeTitle={<NewAlertBanner />}
           title={'Developer Roadmaps'}
           subtitle={'Step by step guides and paths to learn different tools or technologies'}
         />

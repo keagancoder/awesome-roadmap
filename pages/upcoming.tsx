@@ -40,7 +40,7 @@ export default function Upcoming() {
       />
       <Box mb='60px'>
         <PageHeader
-          beforeTitle={<NewAlertBanner />}
+          // beforeTitle={<NewAlertBanner />}
           title={title}
           subtitle={description}
         />

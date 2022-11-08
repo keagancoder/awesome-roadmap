@@ -53,88 +53,65 @@ function RoadmapDownloader({ roadmapTitle }: { roadmapTitle: string }) {
         _hover={{ textDecoration: 'none' }}
         _focus={{ boxShadow: 'none' }}
       >
-        Download
+        下载
       </Button>
-
-      <Modal initialFocusRef={initialRef} closeOnOverlayClick={true} isOpen={isOpen} onClose={onClose} isCentered motionPreset='none'>
-        <ModalOverlay />
-        <ModalContent>
-          <ModalCloseButton />
-          <ModalBody p={6}>
-            <Heading mb='5px' fontSize='2xl'>Download Roadmap</Heading>
-            <Text fontSize={'md'} color='gray.700'>Enter your email below to receive the download link.</Text>
-            <form action={SIGNUP_FORM_ACTION} method='post' target='_blank' onSubmit={() => {
-              event({
-                category: 'Subscription',
-                action: `Submitted Download ${roadmapTitle} Roadmap Email`,
-                label: `PDF / Subscribe ${roadmapTitle} Roadmap`
-              });
-
-              onClose();
-            }}>
-              <Input required ref={initialRef} size='md' my='10px' type='email' placeholder='Email address' name={SIGNUP_EMAIL_INPUT_NAME}  />
-              <Button type='submit' colorScheme='green' size='md' width={'full'}>Send Link</Button>
-            </form>
-          </ModalBody>
-        </ModalContent>
-      </Modal>
     </>
   );
 }
 
-function RoadmapSubscriber({ roadmapTitle }: { roadmapTitle: string }) {
-  const { isOpen, onOpen, onClose } = useDisclosure();
-  const initialRef = React.useRef(null);
+// function RoadmapSubscriber({ roadmapTitle }: { roadmapTitle: string }) {
+//   const { isOpen, onOpen, onClose } = useDisclosure();
+//   const initialRef = React.useRef(null);
 
-  return (
-    <>
-      <Button
-        onClick={(e) => {
-          event({
-            category: 'Subscription',
-            action: `Clicked Subscribe ${roadmapTitle} Roadmap`,
-            label: `Subscribe ${roadmapTitle} Roadmap Button`
-          });
-          onOpen();
-        }}
-        size='xs'
-        py='14px'
-        px='10px'
-        leftIcon={<AtSignIcon />}
-        display={'flex'}
-        colorScheme='yellow'
-        variant='solid'
-        _hover={{ textDecoration: 'none' }}
-        _focus={{ boxShadow: 'none' }}
-      >
-        Subscribe
-      </Button>
+//   return (
+//     <>
+//       <Button
+//         onClick={(e) => {
+//           event({
+//             category: 'Subscription',
+//             action: `Clicked Subscribe ${roadmapTitle} Roadmap`,
+//             label: `Subscribe ${roadmapTitle} Roadmap Button`
+//           });
+//           onOpen();
+//         }}
+//         size='xs'
+//         py='14px'
+//         px='10px'
+//         leftIcon={<AtSignIcon />}
+//         display={'flex'}
+//         colorScheme='yellow'
+//         variant='solid'
+//         _hover={{ textDecoration: 'none' }}
+//         _focus={{ boxShadow: 'none' }}
+//       >
+//         Subscribe
+//       </Button>
 
-      <Modal initialFocusRef={initialRef} closeOnOverlayClick={true} isOpen={isOpen} onClose={onClose} isCentered motionPreset='none'>
-        <ModalOverlay />
-        <ModalContent>
-          <ModalCloseButton />
-          <ModalBody p={6}>
-            <Heading mb='5px' fontSize='2xl'>Subscribe</Heading>
-            <Text fontSize={'md'} color='gray.700'>Enter your below to receive updates to this roadmap.</Text>
-            <form action={SIGNUP_FORM_ACTION} method='post' target='_blank' onSubmit={() => {
-              event({
-                category: 'Subscription',
-                action: `Submitted Subscribe ${roadmapTitle} Roadmap Email`,
-                label: `Email / Subscribe ${roadmapTitle} Roadmap`
-              });
+//       <Modal initialFocusRef={initialRef} closeOnOverlayClick={true} isOpen={isOpen} onClose={onClose} isCentered motionPreset='none'>
+//         <ModalOverlay />
+//         <ModalContent>
+//           <ModalCloseButton />
+//           <ModalBody p={6}>
+//             <Heading mb='5px' fontSize='2xl'>Subscribe</Heading>
+//             <Text fontSize={'md'} color='gray.700'>Enter your below to receive updates to this roadmap.</Text>
+//             <form action={SIGNUP_FORM_ACTION} method='post' target='_blank' onSubmit={() => {
+//               event({
+//                 category: 'Subscription',
+//                 action: `Submitted Subscribe ${roadmapTitle} Roadmap Email`,
+//                 label: `Email / Subscribe ${roadmapTitle} Roadmap`
+//               });
 
-              onClose();
-            }}>
-              <Input required ref={initialRef} size='md' my='10px' type='email' placeholder='Email address' name={SIGNUP_EMAIL_INPUT_NAME}  />
-              <Button type='submit' colorScheme='green' size='md' width={'full'}>Subscribe</Button>
-            </form>
-          </ModalBody>
-        </ModalContent>
-      </Modal>
-    </>
-  );
-}
+//               onClose();
+//             }}>
+//               <Input required ref={initialRef} size='md' my='10px' type='email' placeholder='Email address' name={SIGNUP_EMAIL_INPUT_NAME}  />
+//               <Button type='submit' colorScheme='green' size='md' width={'full'}>Subscribe</Button>
+//             </form>
+//           </ModalBody>
+//         </ModalContent>
+//       </Modal>
+//     </>
+//   );
+// }
 
 export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
   const { roadmap } = props;
@@ -147,7 +124,6 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
       mb='30px'
     >
       <Container maxW='container.md' position='relative'>
-        <NewAlertBanner />
         <Heading
           as='h1'
           color='black'
@@ -173,12 +149,25 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             >
               &larr;
               <Text as='span' d={['none', 'inline']} ml='5px'>
-                All Roadmaps
+                所有路线图
               </Text>
             </Button>
 
-            <RoadmapDownloader roadmapTitle={roadmap.featuredTitle} />
-            <RoadmapSubscriber roadmapTitle={roadmap.featuredTitle} />
+            <Button
+              size='xs'
+              py='14px'
+              px='10px'
+              leftIcon={<DownloadIcon />}
+              display={['none', 'flex']}
+              colorScheme='yellow'
+              variant='solid'
+              _hover={{ textDecoration: 'none' }}
+              _focus={{ boxShadow: 'none' }}
+            >
+              下载
+            </Button>
+            {/* <RoadmapDownloader roadmapTitle={roadmap.featuredTitle} /> */}
+            {/* <RoadmapSubscriber roadmapTitle={roadmap.featuredTitle} /> */}
 
             <Box flex={1} justifyContent='flex-end' d='flex'>
               <Button
@@ -192,7 +181,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
                 leftIcon={<ChatIcon />}
                 _hover={{ textDecoration: 'none' }}
               >
-                Suggest Changes
+                 建议和修改
               </Button>
             </Box>
           </Stack>
@@ -209,9 +198,9 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             rounded='3px'
           >
             <Badge pos='relative' top={'-1px'} mr='6px' colorScheme='yellow'>
-              New
+              Tips：
             </Badge>
-            Resources are here, try clicking any nodes.
+            资源在这里，试着点击任何节点。
           </Text>
         )}
       </Container>

@@ -35,11 +35,11 @@ export default function Home(props: HomeProps) {
               fontSize={['22px', '22px', '28px']}
               mb={['8px', '8px', '15px']}
             >
-              嗨！ 👋
+              嗨！👋
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text fontWeight={500} as="span">
-                awesome-roadmap
+                Awesome-roadmap
               </Text>{' '}
               是一项开源的资源分享项目，
               包含学习路线图、指南和其他的学习资源，
@@ -60,7 +60,7 @@ export default function Home(props: HomeProps) {
         </Container>
       </Box>
 
-      <Box bg="white">
+      {/* <Box bg="white">
         <Container maxW="container.md">
           <Box pt="60px" mb={['10px', '15px', '20px']}>
             <Heading
@@ -97,8 +97,8 @@ export default function Home(props: HomeProps) {
             <DimmedMore href="/watch" text={'View all Videos'} />
           </LinksList>
         </Container>
-      </Box>
-
+      </Box> */}
+{/* 
       <Box pb="80px" bg="white">
         <Container maxW="container.md" position="relative">
           <Box pt="40px" mb="20px">
@@ -120,7 +120,7 @@ export default function Home(props: HomeProps) {
             <DimmedMore href={'/guides'} text="View all Guides" />
           </LinksList>
         </Container>
-      </Box>
+      </Box> */}
 
       <OpensourceBanner />
       <TeamsBanner />
