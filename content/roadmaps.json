@@ -92,13 +92,13 @@
     "featured": true,
     "imageUrl": "/roadmaps/backend.png",
     "jsonUrl": "/project/backend.json",
-    "resourcesPath": "./resources.md",
+    "resourcesPath": "/roadmaps/101-backend/resources.md",
     "author": {
-      "name": "Keagan",
+      "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
     },
     "pdfUrl": "/pdfs/backend.pdf",
-    "contentPathsFilePath": "./content-paths.json",
+    "contentPathsFilePath": "/roadmaps/101-backend/content-paths.json",
     "relatedRoadmaps": [
       "python",
       "java",
@@ -145,14 +145,18 @@
     "featured": true,
     "imageUrl": "/roadmaps/devops.png",
     "jsonUrl": "/project/devops.json",
-    "resourcesPath": "./resources.md",
-    "versions": [],
+    "resourcesPath": "/roadmaps/102-devops/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
     "author": {
       "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
     },
     "pdfUrl": "/pdfs/devops.pdf",
-    "contentPathsFilePath": "./content-paths.json",
+    "contentPathsFilePath": "/roadmaps/102-devops/content-paths.json",
     "relatedRoadmaps": [
       "backend",
       "python",
