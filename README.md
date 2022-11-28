@@ -73,14 +73,8 @@ npm run dev
 - 在问题中讨论想法
 - 传播，令更多人知道这个仓库
 
-## Collaborators
-
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
- </a>
-
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
