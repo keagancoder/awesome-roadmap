@@ -376,50 +376,6 @@
   },
   {
     "seo": {
-      "title": "安卓开发者路线图:学习成为一名安卓开发者r",
-      "description": "社区驱动，文章，资源，指南，面试问题，安卓开发的测验,通过遵循本路线图中列出的步骤、技能、资源和指南，学习成为一名现代安卓开发人员,",
-      "keywords": [
-        "成为一名安卓开发者的指南",
-        "安卓开发者路线图",
-        "android 学习路线",
-        "成为安卓开发者",
-        "安卓开发者技能",
-        "安卓技能测试",
-        "安卓开发的技能",
-        "学习安卓开发",
-        "什么是安卓",
-        "安卓测试",
-        "安卓面试问题"
-      ]
-    },
-    "title": "Android开发",
-    "description": "在2022年成为一名安卓开发人员的学习路线指南",
-    "featuredTitle": "Android",
-    "type": "role",
-    "featuredDescription": "在2022年成为一名安卓开发人员的学习路线指南",
-    "isTextHeavy": true,
-    "isCommunity": false,
-    "featured": true,
-    "jsonUrl": "/project/android.json",
-    "landingPath": "/roadmaps/107-android/landscape.md",
-    "resourcesPath": "/roadmaps/107-android/resources.md",
-    "versions": [],
-    "author": {
-      "name": "Kamran Ahmed",
-      "url": "https://twitter.com/kamranahmedse"
-    },
-    "relatedRoadmaps": [
-      "frontend",
-      "javascript",
-      "react",
-      "nodejs"
-    ],
-    "id": "android",
-    "metaPath": "/roadmaps/107-android/meta.json",
-    "isUpcoming": false
-  },
-  {
-    "seo": {
       "title": "Node.js开发人员路线:学习成为一个的Node.js开发者r",
       "description": "使用此路线图学习成为一个现代的node.js开发人员,社区驱动，文章，资源，指南，面试问题,Node.js开发的测验,",
       "keywords": [

@@ -4,9 +4,7 @@ import { OpensourceBanner } from '../components/opensource-banner';
 import { Footer } from '../components/footer';
 import { PageHeader } from '../components/page-header';
 import Helmet from '../components/helmet';
-import { NewAlertBanner } from '../components/roadmap/new-alert-banner';
 import { BellIcon, EmailIcon } from '@chakra-ui/icons';
-import { SIGNUP_EMAIL_INPUT_NAME, SIGNUP_FORM_ACTION } from './signup';
 import React from 'react';
 import { upcomingRoadmaps } from '../components/home/featured-roadmaps-list';
 import { TeamsBanner } from '../components/teams-banner';
@@ -40,7 +38,6 @@ export default function Upcoming() {
       />
       <Box mb='60px'>
         <PageHeader
-          // beforeTitle={<NewAlertBanner />}
           title={title}
           subtitle={description}
         />
@@ -49,11 +46,6 @@ export default function Upcoming() {
             <BellIcon w='90px' h='90px' color='gray.200' mb={5} />
             <Heading mb={2} fontSize='2xl' >Upcoming Roadmap</Heading>
             <Text fontSize='sm' mb={4}>Please check back later or subscribe below.</Text>
-
-            <form action={SIGNUP_FORM_ACTION} method='post'>
-              <Input type='email' bg={'white'} size='lg' placeholder='Enter your email' mb={2} name={SIGNUP_EMAIL_INPUT_NAME} required />
-              <Button size='lg' isFullWidth colorScheme='teal' leftIcon={<EmailIcon />} type='submit'>Get Notified</Button>
-            </form>
           </Flex>
         </Container>
       </Box>

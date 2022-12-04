@@ -1,333 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-              <loc>https://roadmap.sh/frontend</loc>
+              <loc>https://awesome-roadmap.com//frontend</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-14T06:02:07.073Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/backend</loc>
+              <loc>https://awesome-roadmap.com//backend</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:51:27.084Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/devops</loc>
+              <loc>https://awesome-roadmap.com//devops</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:52:13.500Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/react</loc>
+              <loc>https://awesome-roadmap.com//react</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-14T06:02:07.073Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/angular</loc>
+              <loc>https://awesome-roadmap.com//angular</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-22T13:50:27.726Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/vue</loc>
+              <loc>https://awesome-roadmap.com//vue</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:53:27.172Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/javascript</loc>
+              <loc>https://awesome-roadmap.com//javascript</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:53:41.849Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/android</loc>
+              <loc>https://awesome-roadmap.com//android</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:54:45.212Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/nodejs</loc>
+              <loc>https://awesome-roadmap.com//nodejs</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:55:10.053Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/python</loc>
+              <loc>https://awesome-roadmap.com//python</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:55:43.386Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/golang</loc>
+              <loc>https://awesome-roadmap.com//golang</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:55:55.494Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/java</loc>
+              <loc>https://awesome-roadmap.com//java</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:56:13.247Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/design-system</loc>
+              <loc>https://awesome-roadmap.com//design-system</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-13T12:37:17.764Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/postgresql-dba</loc>
+              <loc>https://awesome-roadmap.com//postgresql-dba</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:56:26.295Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/blockchain</loc>
+              <loc>https://awesome-roadmap.com//blockchain</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:56:54.343Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/qa</loc>
+              <loc>https://awesome-roadmap.com//qa</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T15:57:35.430Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/software-architect</loc>
+              <loc>https://awesome-roadmap.com//software-architect</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-10-03T17:18:04.218Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/software-design-architecture</loc>
+              <loc>https://awesome-roadmap.com//software-design-architecture</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-10-03T17:29:46.903Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/http-basic-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/http-basic-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-10-03T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/basics-of-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/basics-of-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-21T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/avoid-render-blocking-javascript-with-async-defer</loc>
+              <loc>https://awesome-roadmap.com//guides/avoid-render-blocking-javascript-with-async-defer</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-09-10T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/what-are-web-vitals</loc>
+              <loc>https://awesome-roadmap.com//guides/what-are-web-vitals</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-09-05T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/what-is-sli-slo-sla</loc>
+              <loc>https://awesome-roadmap.com//guides/what-is-sli-slo-sla</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-08-31T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/ci-cd</loc>
+              <loc>https://awesome-roadmap.com//guides/ci-cd</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-07-09T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/sso</loc>
+              <loc>https://awesome-roadmap.com//guides/sso</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-07-01T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/oauth</loc>
+              <loc>https://awesome-roadmap.com//guides/oauth</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-06-28T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/jwt-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/jwt-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-06-20T19:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/token-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/token-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-06-02T20:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/session-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/session-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-05-26T20:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/basic-authentication</loc>
+              <loc>https://awesome-roadmap.com//guides/basic-authentication</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-05-19T20:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/character-encodings</loc>
+              <loc>https://awesome-roadmap.com//guides/character-encodings</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-05-14T20:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/unfamiliar-codebase</loc>
+              <loc>https://awesome-roadmap.com//guides/unfamiliar-codebase</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-05-04T20:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/why-build-it-and-they-will-come-wont-work-anymore</loc>
+              <loc>https://awesome-roadmap.com//guides/why-build-it-and-they-will-come-wont-work-anymore</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-05-04T12:59:14.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/dhcp-in-one-picture</loc>
+              <loc>https://awesome-roadmap.com//guides/dhcp-in-one-picture</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-04-28T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/ssl-tls-https-ssh</loc>
+              <loc>https://awesome-roadmap.com//guides/ssl-tls-https-ssh</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-04-22T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/asymptotic-notation</loc>
+              <loc>https://awesome-roadmap.com//guides/asymptotic-notation</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-04-03T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/big-o-notation</loc>
+              <loc>https://awesome-roadmap.com//guides/big-o-notation</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-03-15T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/random-numbers</loc>
+              <loc>https://awesome-roadmap.com//guides/random-numbers</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-03-14T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/scaling-databases</loc>
+              <loc>https://awesome-roadmap.com//guides/scaling-databases</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-02-18T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/what-is-internet</loc>
+              <loc>https://awesome-roadmap.com//guides/what-is-internet</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-02-29T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/torrent-client</loc>
+              <loc>https://awesome-roadmap.com//guides/torrent-client</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2021-01-17T15:48:21.191Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/levels-of-seniority</loc>
+              <loc>https://awesome-roadmap.com//guides/levels-of-seniority</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2020-12-03T12:13:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/design-patterns-for-humans</loc>
+              <loc>https://awesome-roadmap.com//guides/design-patterns-for-humans</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2019-10-09T12:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/journey-to-http2</loc>
+              <loc>https://awesome-roadmap.com//guides/journey-to-http2</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2018-12-04T12:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/dns-in-one-picture</loc>
+              <loc>https://awesome-roadmap.com//guides/dns-in-one-picture</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2018-12-04T12:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/http-caching</loc>
+              <loc>https://awesome-roadmap.com//guides/http-caching</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2018-11-29T17:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/history-of-javascript</loc>
+              <loc>https://awesome-roadmap.com//guides/history-of-javascript</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2017-10-28T17:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides/proxy-servers</loc>
+              <loc>https://awesome-roadmap.com//guides/proxy-servers</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2017-10-24T17:00:00.860Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/about</loc>
+              <loc>https://awesome-roadmap.com//about</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-08-04T14:33:07.909Z</lastmod>
               <priority>0.8</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/guides</loc>
+              <loc>https://awesome-roadmap.com//guides</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-21T11:15:23.404Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/</loc>
+              <loc>https://awesome-roadmap.com//</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-08T14:46:59.862Z</lastmod>
               <priority>1.0</priority>
           </url>
 
 <url>
-              <loc>https://roadmap.sh/roadmaps</loc>
+              <loc>https://awesome-roadmap.com//roadmaps</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-08-04T14:33:07.903Z</lastmod>
               <priority>1.0</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/signup</loc>
+              <loc>https://awesome-roadmap.com//signup</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-09-19T11:56:53.974Z</lastmod>
               <priority>0.9</priority>
           </url>
 <url>
-              <loc>https://roadmap.sh/thanks</loc>
+              <loc>https://awesome-roadmap.com//thanks</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-08-04T14:33:07.901Z</lastmod>
               <priority>0.5</priority>
           </url>
 
 <url>
-              <loc>https://roadmap.sh/watch</loc>
+              <loc>https://awesome-roadmap.com//watch</loc>
               <changefreq>monthly</changefreq>
               <lastmod>2022-08-13T19:31:00.946Z</lastmod>
               <priority>1.0</priority>

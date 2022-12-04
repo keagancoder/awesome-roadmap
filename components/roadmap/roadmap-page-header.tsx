@@ -21,7 +21,6 @@ import {
 } from '@chakra-ui/react';
 import { AtSignIcon, ChatIcon, DownloadIcon } from '@chakra-ui/icons';
 import React from 'react';
-import { SIGNUP_EMAIL_INPUT_NAME, SIGNUP_FORM_ACTION } from '../../pages/signup';
 import { event } from '../../lib/gtag';
 
 type RoadmapPageHeaderType = {

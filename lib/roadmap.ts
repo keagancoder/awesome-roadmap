@@ -52,7 +52,6 @@ export function isInteractiveRoadmap(id: string): boolean {
   return [
           'frontend', 
           'backend', 
-          'andriod',
           'devops', 
           'react', 
           'vue', 

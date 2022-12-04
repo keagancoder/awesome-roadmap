@@ -14,7 +14,6 @@ import MdRenderer from '../../components/md-renderer';
 import Helmet from '../../components/helmet';
 import { RoadmapPageHeader } from '../../components/roadmap/roadmap-page-header';
 import { InteractiveRoadmapRenderer } from './interactive';
-import { SIGNUP_EMAIL_INPUT_NAME, SIGNUP_FORM_ACTION } from '../signup';
 import { BellIcon, EmailIcon } from '@chakra-ui/icons';
 import { RelatedRoadmaps } from '../../components/related-roadmaps';
 import { TeamsBanner } from '../../components/teams-banner';
@@ -75,11 +74,6 @@ function UpcomingRoadmap(props: RoadmapProps) {
         <Heading mb={2} fontSize='2xl'>即将推出的路线图</Heading>
         <Text fontSize='sm' mb={4}>请稍后回来查看或在下面订阅。</Text>
 
-        <form action={SIGNUP_FORM_ACTION} method='post'>
-          <Input type='email' bg={'white'} size='lg' placeholder='Enter your email' mb={2}
-                 name={SIGNUP_EMAIL_INPUT_NAME} required />
-          <Button size='lg' isFullWidth colorScheme='teal' leftIcon={<EmailIcon />} type='submit'>Get Notified</Button>
-        </form>
       </Flex>
     </Container>
   );

@@ -38,7 +38,7 @@ const roadmaps: Record<string, RoadmapType> = {
   frontend: require('../public/project/frontend.json'),
   backend: require('../public/project/backend.json'),
   devops: require('../public/project/devops.json'),
-  android: require('../public/project/android.json'),
+  // android: require('../public/project/android.json'),
   golang: require('../public/project/golang.json'),
   java: require('../public/project/java.json'),
   python: require('../public/project/python.json'),
