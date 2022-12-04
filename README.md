@@ -77,4 +77,21 @@ npm run dev
 ## Thanks to all contributors ❤
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/keagancoder">
+            <img src="https://avatars.githubusercontent.com/u/34002943?v=4" width="100;" alt="keagancoder"/>
+            <br />
+            <sub><b>Keagan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ritaye">
+            <img src="https://avatars.githubusercontent.com/u/14149924?v=4" width="100;" alt="Ritaye"/>
+            <br />
+            <sub><b>Ritaye</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
