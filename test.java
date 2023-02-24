@@ -1,0 +1,1 @@
+Double result= df.agg(callUDF("myUDF", df.col("col1"), df.col("col2"))).first().getDouble(0);

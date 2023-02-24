@@ -56,7 +56,12 @@ export function Footer() {
             <Link href='/privacy' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
                   mx='10px'>隐私</Link>
           </Text>
+          
         </Box>
+    
+        <Link href="https://beian.miit.gov.cn/" target="_blank" style={{color: 'white'}}>
+    <a>沪ICP备2022033662号-1</a>
+  </Link>
       </Container>
 
       <CustomAd />
