@@ -1,3 +1,4 @@
+```
 import org.apache.spark.graphx.Edge;
 import org.apache.spark.graphx.Graph;
 import org.apache.spark.graphx.GraphLoader;
@@ -40,3 +41,4 @@ public class SparkGraphXExample {
           ctx -> ctx.sendToDst(ctx.srcAttr()), (a, b) -> a, TripletFields.Src), ClassManifestFactory$.MODULE$.fromClass(Object.class)).mapValues(v -> v._2 == null ? v._1 : v._2);
     }
     Dataset<Row> result = ancestorsRDD.toJavaRDD().map(t -> RowFactory.create(t._1, t._2)).toDF("child", "ancestor");
+```
