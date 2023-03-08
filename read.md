@@ -1,73 +1,34 @@
 ```
-import org.apache.spark.graphx.*;
-import org.apache.spark.sql.*;
-import scala.Tuple2;
-import scala.reflect.ClassTag$;
+// 构建关系图，从叶子节点开始向上查找祖先节点
+       Dataset<Row> graph = data.select(col("childID"), col("parentID").alias("parent"))
+                                .dropDuplicates();
+       Dataset<Row> ancestorLeaves = null;
+       while (graph.count() > 0) {
+           Dataset<Row> leaves = graph.join(data.filter(col("level").equalTo(2)), graph.col("parent").equalTo(data.col("childID")), "inner")
+                                      .select(graph.col("childID"), data.col("childID").alias("ancestorID"));
+           if (leaves.count() == 0) {
+               break;
+           }
+           if (ancestorLeaves == null) {
+               ancestorLeaves = leaves;
+           } else {
+               ancestorLeaves = ancestorLeaves.union(leaves);
+           }
+           graph = graph.join(leaves, graph.col("childID").equalTo(leaves.col("childID")), "left_anti");
+       }
 
-public class FindAncestors {
+       // 输出结果
+       ancestorLeaves.show();
+   }
+}
+在上述代码中，我们首先创建SparkSession并加载数据集。然后，我们使用select和dropDuplicates函数创建一个名为graph的新Dataset，该Dataset仅包含childID和其对应的parentID。接下来，我们在一个while循环中对graph进行迭代，直到所有叶子节点都找到其祖先节点为止。在每次迭代中，我们使用join函数将graph和level为2的节点合并，并从中找到每个叶子节点的祖先节点。我们使用left_anti join函数将新找到的叶子节点从graph中删除，因为它们已经被处理过了。最后，我们将所有的祖先节点和其叶子节点存储到ancestorLeaves中，并输出结果。
 
-    public static void main(String[] args) {
+请注意，在上述代码中，我们假设每个祖先节点都只有一个叶子节点，因此我们将每个叶子节点的祖先节点存储为一个Dataset，而不是将其与原始数据集合并。如果每个祖先节点具有多个叶子节点，则需要对结果进行适当的修改。
 
-        SparkSession spark = SparkSession.builder().appName("FindAncestors").getOrCreate();
 
-        // 构造测试数据集
-        Dataset<Row> data = spark.createDataFrame(
-                Arrays.asList(
-                        new Tuple2<Integer, Integer>(1, null),
-                        new Tuple2<Integer, Integer>(2, 1),
-                        new Tuple2<Integer, Integer>(3, 2),
-                        new Tuple2<Integer, Integer>(4, 2),
-                        new Tuple2<Integer, Integer>(5, 3),
-                        new Tuple2<Integer, Integer>(6, 4)
-                ),
-                Encoders.tuple(Encoders.INT(), Encoders.INT())
-        ).toDF("childID", "parentID");
 
-        // 将数据集转换为边的形式
-        JavaRDD<Edge<Integer>> edges = data.toJavaRDD().map(row ->
-                new Edge<>(row.getInt(1), row.getInt(0), 1)
-        );
 
-        // 创建图对象
-        Graph<Integer, Integer> graph = Graph.fromEdges(edges.rdd(), 1, StorageLevel.MEMORY_ONLY(),
-                StorageLevel.MEMORY_ONLY(), ClassTag$.MODULE$.apply(Integer.class),
-                ClassTag$.MODULE$.apply(Integer.class));
 
-        // 遍历图并更新每个节点的最终祖先信息
-        Graph<Integer, Integer> result = graph.ops().pregel(null, Integer.MAX_VALUE, EdgeDirection.Out(),
-                new VertexProgram<Integer>() {
-                    @Override
-                    public void sendMsg(VertexId vertexId, Integer vertexData, Integer message) {
-                        if (vertexData == null) {
-                            // 如果节点没有最终祖先信息，则向其邻居发送消息
-                            sendToDst(new Tuple2<>(vertexId, message));
-                        }
-                    }
 
-                    @Override
-                    public void apply(VertexId vertexId, Integer vertexData, Integer message) {
-                        if (vertexData == null) {
-                            // 如果节点没有最终祖先信息，则将消息中的最终祖先信息更新为自己的最终祖先信息
-                            if (message == null) {
-                                vertexData = (int) vertexId;
-                            } else {
-                                vertexData = message;
-                            }
-                            setVertexAttr(vertexId, vertexData);
-                        }
-                    }
-
-                    @Override
-                    public MergeEdge<Integer> mergeEdge(VertexId vertexId, Edge<Integer> edge, Integer vertexData) {
-                        // 将邻居的最终祖先信息合并到节点的最终祖先信息中
-                        if (edge.dstAttr() != null) {
-                            if (vertexData == null || edge.dstAttr() < vertexData) {
-                                return new MergeEdge<>(edge.srcId(), edge.srcAttr(), edge.dstAttr());
-                            }
-                        }
-                        return null;
-                    }
-                }, new SendToSrc<>(), new MergeMessage<>(), ClassTag$.MODULE$.apply(Integer.class),
-                ClassTag$.MODULE$.apply
    ```
    
