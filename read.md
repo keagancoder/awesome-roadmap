@@ -1,4 +1,17 @@
- Dataset<Row> data = spark.createDataFrame(
+```
+import org.apache.spark.graphx.*;
+import org.apache.spark.sql.*;
+import scala.Tuple2;
+import scala.reflect.ClassTag$;
+
+public class FindAncestors {
+
+    public static void main(String[] args) {
+
+        SparkSession spark = SparkSession.builder().appName("FindAncestors").getOrCreate();
+
+        // 构造测试数据集
+        Dataset<Row> data = spark.createDataFrame(
                 Arrays.asList(
                         new Tuple2<Integer, Integer>(1, null),
                         new Tuple2<Integer, Integer>(2, 1),
@@ -56,3 +69,5 @@
                     }
                 }, new SendToSrc<>(), new MergeMessage<>(), ClassTag$.MODULE$.apply(Integer.class),
                 ClassTag$.MODULE$.apply
+   ```
+   
