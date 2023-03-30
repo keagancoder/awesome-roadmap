@@ -1,95 +1,58 @@
+One-year career development plan:
 
-import java.io.IOException;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Map;
+Improve skills: Continue learning and mastering new programming languages, frameworks, and tools to enhance their skillset.
+Participate in projects: Actively participate in company projects and contribute their knowledge and experience to strive for a bigger role in the project.
+Build a network: Establish their professional network, join industry organizations, attend technical conferences and community events to exchange experiences and knowledge with peers.
+Three-year career development plan:
 
-import com.mongodb.BasicDBObject;
-import com.mongodb.DBObject;
-import com.mongodb.spark.MongoSpark;
-import com.mongodb.spark.config.ReadConfig;
-import com.mongodb.spark.config.WriteConfig;
-import de.flapdoodle.embed.mongo.MongodExecutable;
-import de.flapdoodle.embed.mongo.MongodProcess;
-import de.flapdoodle.embed.mongo.MongodStarter;
-import de.flapdoodle.embed.mongo.config.IMongodConfig;
-import de.flapdoodle.embed.mongo.config.MongodConfigBuilder;
-import de.flapdoodle.embed.mongo.distribution.Version;
-import de.flapdoodle.embed.process.runtime.Network;
-import org.apache.spark.api.java.JavaSparkContext;
-import org.apache.spark.sql.Dataset;
-import org.apache.spark.sql.Row;
-import org.apache.spark.sql.SparkSession;
+Enhance leadership skills: Through positions such as project manager, team leader, etc., they can exercise their management and leadership skills.
+Promote oneself: Build a personal brand by showcasing their professional knowledge and experience through blogging, social media, speaking, etc.
+Train new talent: Develop their ability to train new employees, work with junior developers, share their experience and knowledge, and improve their teaching and guidance skills.
+Five-year career development plan:
 
-public class SparkMonoTestV {
-    public static void main(String[] args) throws IOException {
+Become an expert: Deeply study a specific area and become an expert in that field, then share professional knowledge with peers.
+Entrepreneurship or freelancing: Based on their skills and interests, start their own business or work as a freelancer to have more development opportunities and higher freedom.
+Seek management positions: Strive for senior management positions such as a CTO or technical director to participate in company strategy decisions and development planning.
 
-        MongodStarter starter = MongodStarter.getDefaultInstance();
-        String bindIp = "localhost";
-        int port = 12345;
-        IMongodConfig mongodConfig = new MongodConfigBuilder()
-                .version(Version.Main.PRODUCTION)
-                .net(new de.flapdoodle.embed.mongo.config.Net(bindIp, port, Network.localhostIsIPv6()))
-                .build();
-        MongodExecutable mongodExecutable = starter.prepare(mongodConfig);
-        MongodProcess mongod = mongodExecutable.start();
+----
+Time management: Effectively manage time, set reasonable schedules and task priorities to increase work efficiency and accuracy.
 
-        // 使用Spark写入数据
-        SparkSession spark = SparkSession.builder()
-                .appName("EmbeddedMongo Example")
-                .master("local[*]")
-                .config("spark.mongodb.input.uri", "mongodb://localhost:12345")
-                .config("spark.mongodb.output.uri", String.format("mongodb://%s:%d/test.outputCollection", bindIp, port))
-                .config("spark.mongodb.input.database", "test")
-                .config("spark.mongodb.input.collection", "outputCollection")
-                .getOrCreate();
-        Dataset<Row> data = spark.createDataFrame(Collections.singletonList(new MyObject("Hello", "World")), MyObject.class);
-        MongoSpark.write(data).mode("overwrite").option("collection", "outputCollection").save();
+Communication skills: Communicate well with colleagues and leaders, including expressing your own views and listening to others' feedback. Communication skills can not only help build collaborative relationships but also promote personal and professional development.
 
-        // 从MongoDB中读取数据
-        JavaSparkContext  jsc= new JavaSparkContext(spark.sparkContext());
+Learning ability: Keep competitive by continuously learning new knowledge and skills. Actively participate in training courses and technical conferences, and regularly read relevant books and articles.
 
-        Dataset<Row> result = MongoSpark.load(jsc).toDF();
-        result.show();
+Team collaboration: Collaborate with team members, share information and knowledge, solve problems, and achieve common goals.
 
-        // 关闭MongoDB和Spark
-        mongod.stop();
-        mongodExecutable.stop();
-        spark.close();
-    }
+Self-promotion: Actively promote your skills and experience, and establish your brand by showcasing your abilities and work through social media and personal websites.
 
-    public static class MyObject {
-        private String field1;
-        private String field2;
+Leadership: Cultivate leadership skills, become a team leader, improve management and guidance abilities, and promote personal and team growth and development.
 
-        public MyObject() {}
+Problem-solving ability: Improve problem-solving skills and methodologies by solving practical problems and challenges in projects.
+---
+Provide training and development opportunities: Managers can provide training and development opportunities for employees, including courses, skills training, and professional certifications to improve employees' professional skills and competitiveness.
 
-        public MyObject(String field1, String field2) {
-            this.field1 = field1;
-            this.field2 = field2;
-        }
+Provide regular technical sharing: Managers can arrange regular technical sharing meetings, where employees can share their technical experiences and knowledge. At the same time, managers can invite experts and industry leaders to share the latest technology trends and industry dynamics.
 
-        public String getField1() {
-            return field1;
-        }
+Provide support and feedback: Managers can provide support and feedback for employees, including offering help and advice during difficult times and providing recognition and motivation to encourage employees to continuously develop and improve their skills.
 
-        public void setField1(String field1) {
-            this.field1 = field1;
-        }
+Promote team collaboration: Managers can encourage interaction and collaboration among employees to strengthen team cooperation and communication, and establish a positive work atmosphere and culture.
 
-        public String getField2() {
-            return field2;
-        }
+Provide promotion and development opportunities: Managers can provide promotion and development opportunities to help employees achieve their career development goals, while also providing better talent reserves for the company.
 
-        public void setField2(String field2) {
-            this.field2 = field2;
-        }
 
-        public DBObject toDBObject() {
-            BasicDBObject obj = new BasicDBObject();
-            obj.put("field1", field1);
-            obj.put("field2", field2);
-            return obj;
-        }
-    }
-}
+
+-----
+
+Completion of important projects or tasks and receiving recognition and praise from clients or the team.
+
+Improving one's skill level, taking on more important and critical roles in the team, and providing more value to the company and team.
+
+Obtaining opportunities for promotion or salary increase, becoming a leader or expert in the team.
+
+Obtaining professional certificates or degrees to demonstrate recognition of one's skills and knowledge.
+
+Obtaining more career opportunities and choices, pursuing higher goals and development in one's professional field.
+
+Building positive working relationships and culture within the team, being able to collaborate and work together to achieve team goals.
+
+
