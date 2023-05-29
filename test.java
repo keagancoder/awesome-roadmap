@@ -1,58 +1,123 @@
-One-year career development plan:
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import org.apache.arrow.memory.RootAllocator;
+import org.apache.arrow.vector.FieldVector;
+import org.apache.arrow.vector.VectorSchemaRoot;
+import org.apache.arrow.vector.VarCharVector;
+import org.apache.arrow.vector.ipc.ArrowFileWriter;
+import org.apache.arrow.vector.ipc.ArrowWriter;
+import org.apache.arrow.vector.types.pojo.Field;
+import org.apache.arrow.vector.types.pojo.FieldType;
+import org.apache.arrow.vector.types.pojo.Schema;
+import org.apache.arrow.vector.types.pojo.SchemaBuilder;
+import org.apache.parquet.column.ParquetProperties;
+import org.apache.parquet.hadoop.ParquetFileWriter;
+import org.apache.parquet.hadoop.metadata.CompressionCodecName;
+import org.apache.parquet.schema.MessageType;
+import org.apache.parquet.schema.MessageTypeParser;
+import org.apache.parquet.schema.PrimitiveType;
+import org.apache.parquet.schema.Type;
+import org.apache.parquet.schema.Types;
 
-Improve skills: Continue learning and mastering new programming languages, frameworks, and tools to enhance their skillset.
-Participate in projects: Actively participate in company projects and contribute their knowledge and experience to strive for a bigger role in the project.
-Build a network: Establish their professional network, join industry organizations, attend technical conferences and community events to exchange experiences and knowledge with peers.
-Three-year career development plan:
+public class OracleToParquetExample {
 
-Enhance leadership skills: Through positions such as project manager, team leader, etc., they can exercise their management and leadership skills.
-Promote oneself: Build a personal brand by showcasing their professional knowledge and experience through blogging, social media, speaking, etc.
-Train new talent: Develop their ability to train new employees, work with junior developers, share their experience and knowledge, and improve their teaching and guidance skills.
-Five-year career development plan:
+    public static void main(String[] args) {
+        String jdbcUrl = "jdbc:oracle:thin:@localhost:1521:your_database";
+        String username = "your_username";
+        String password = "your_password";
+        String tableName = "your_table";
+        String outputPath = "output.parquet";
 
-Become an expert: Deeply study a specific area and become an expert in that field, then share professional knowledge with peers.
-Entrepreneurship or freelancing: Based on their skills and interests, start their own business or work as a freelancer to have more development opportunities and higher freedom.
-Seek management positions: Strive for senior management positions such as a CTO or technical director to participate in company strategy decisions and development planning.
+        // 创建连接
+        try (Connection connection = DriverManager.getConnection(jdbcUrl, username, password)) {
+            // 创建语句
+            Statement statement = connection.createStatement();
 
-----
-Time management: Effectively manage time, set reasonable schedules and task priorities to increase work efficiency and accuracy.
+            // 执行查询
+            ResultSet resultSet = statement.executeQuery("SELECT * FROM " + tableName);
 
-Communication skills: Communicate well with colleagues and leaders, including expressing your own views and listening to others' feedback. Communication skills can not only help build collaborative relationships but also promote personal and professional development.
+            // 构建Arrow Schema
+            SchemaBuilder schemaBuilder = new SchemaBuilder();
+            ResultSetMetaData metaData = resultSet.getMetaData();
+            int columnCount = metaData.getColumnCount();
+            for (int i = 1; i <= columnCount; i++) {
+                String columnName = metaData.getColumnName(i);
+                int columnType = metaData.getColumnType(i);
+                int precision = metaData.getPrecision(i);
+                int scale = metaData.getScale(i);
 
-Learning ability: Keep competitive by continuously learning new knowledge and skills. Actively participate in training courses and technical conferences, and regularly read relevant books and articles.
+                Field field = schemaBuilder.field(columnName,
+                        FieldType.nullable(getArrowDataType(columnType, precision, scale)));
+                schemaBuilder.addField(field);
+            }
+            Schema schema = schemaBuilder.build();
 
-Team collaboration: Collaborate with team members, share information and knowledge, solve problems, and achieve common goals.
+            // 创建Arrow Vector
+            RootAllocator allocator = new RootAllocator();
+            VectorSchemaRoot vectorSchemaRoot = VectorSchemaRoot.create(schema, allocator);
+            ArrowWriter arrowWriter = new ArrowFileWriter(vectorSchemaRoot, null, new ParquetFileWriter(new org.apache.hadoop.fs.Path(outputPath),
+                    ParquetFileWriter.Mode.CREATE, ParquetProperties.builder().build()), schema);
 
-Self-promotion: Actively promote your skills and experience, and establish your brand by showcasing your abilities and work through social media and personal websites.
+            // 将查询结果写入Arrow Vector
+            while (resultSet.next()) {
+                for (int i = 1; i <= columnCount; i++) {
+                    FieldVector fieldVector = vectorSchemaRoot.getVector(i - 1);
+                    if (fieldVector instanceof VarCharVector) {
+                        VarCharVector varCharVector = (VarCharVector) fieldVector;
+                        byte[] value = resultSet.getBytes(i);
+                        varCharVector.setSafe(vectorSchemaRoot.getCurrentRecordIndex(), value);
+                    } else {
+                        // 处理其他数据类型
+                    }
+                }
+                vectorSchemaRoot.setRowCount(vectorSchemaRoot.getRowCount() + 1);
+            }
 
-Leadership: Cultivate leadership skills, become a team leader, improve management and guidance abilities, and promote personal and team growth and development.
+            // 写入Parquet文件
+            arrowWriter.writeBatch();、
+              vectorSchemaRoot.close();
+arrowWriter.close();
 
-Problem-solving ability: Improve problem-solving skills and methodologies by solving practical problems and challenges in projects.
----
-Provide training and development opportunities: Managers can provide training and development opportunities for employees, including courses, skills training, and professional certifications to improve employees' professional skills and competitiveness.
+System.out.println("Parquet file created successfully.");
 
-Provide regular technical sharing: Managers can arrange regular technical sharing meetings, where employees can share their technical experiences and knowledge. At the same time, managers can invite experts and industry leaders to share the latest technology trends and industry dynamics.
+// 关闭连接和资源
+resultSet.close();
+statement.close();
+connection.close();
+} catch (Exception e) {
+e.printStackTrace();
+}
+}
 
-Provide support and feedback: Managers can provide support and feedback for employees, including offering help and advice during difficult times and providing recognition and motivation to encourage employees to continuously develop and improve their skills.
-
-Promote team collaboration: Managers can encourage interaction and collaboration among employees to strengthen team cooperation and communication, and establish a positive work atmosphere and culture.
-
-Provide promotion and development opportunities: Managers can provide promotion and development opportunities to help employees achieve their career development goals, while also providing better talent reserves for the company.
-
-
-
------
-
-Completion of important projects or tasks and receiving recognition and praise from clients or the team.
-
-Improving one's skill level, taking on more important and critical roles in the team, and providing more value to the company and team.
-
-Obtaining opportunities for promotion or salary increase, becoming a leader or expert in the team.
-
-Obtaining professional certificates or degrees to demonstrate recognition of one's skills and knowledge.
-
-Obtaining more career opportunities and choices, pursuing higher goals and development in one's professional field.
-
-Building positive working relationships and culture within the team, being able to collaborate and work together to achieve team goals.
-
-
+private static org.apache.arrow.vector.types.pojo.ArrowType getArrowDataType(int sqlType, int precision, int scale) {
+switch (sqlType) {
+case Types.BIT:
+case Types.BOOLEAN:
+return org.apache.arrow.vector.types.pojo.ArrowType.Bool.INSTANCE;
+case Types.TINYINT:
+return org.apache.arrow.vector.types.pojo.ArrowType.Int(8, true);
+case Types.SMALLINT:
+return org.apache.arrow.vector.types.pojo.ArrowType.Int(16, true);
+case Types.INTEGER:
+return org.apache.arrow.vector.types.pojo.ArrowType.Int(32, true);
+case Types.BIGINT:
+return org.apache.arrow.vector.types.pojo.ArrowType.Int(64, true);
+case Types.FLOAT:
+return org.apache.arrow.vector.types.pojo.ArrowType.FloatingPoint(org.apache.arrow.vector.types.FloatingPointPrecision.SINGLE);
+case Types.DOUBLE:
+return org.apache.arrow.vector.types.pojo.ArrowType.FloatingPoint(org.apache.arrow.vector.types.FloatingPointPrecision.DOUBLE);
+case Types.DECIMAL:
+case Types.NUMERIC:
+return org.apache.arrow.vector.types.pojo.ArrowType.Decimal(precision, scale);
+case Types.CHAR:
+case Types.VARCHAR:
+case Types.LONGVARCHAR:
+case Types.CLOB:
+return org.apache.arrow.vector.types.pojo.ArrowType.Utf8.INSTANCE;
+default:
+return org.apache.arrow.vector.types.pojo.ArrowType.Binary.INSTANCE;
+}
+}
+}
